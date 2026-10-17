@@ -1,0 +1,18 @@
+[
+    {
+        "name": "thì (tenses)",
+        "article-paths": 
+        [
+            "future_simple.md"
+        ]
+    },
+
+    {
+        "name": "miscellaneous",
+        "article-paths":
+        [
+            "superlative.md",
+            "preposition.md"
+        ]
+    }
+]
