@@ -2,9 +2,9 @@ import { getJson, getComponent, isExistingPath } from "./main.js"
 
 const main = document.querySelector("main");
 
-const articlesJson = await getJson("/articles.json");
+const articlesJson = await getJson("./../articles.json");
 
-const defaultThumbnailPath = "/images/no_thumbnail2.jpg";
+const defaultThumbnailPath = "./../images/no_thumbnail2.jpg";
 
 // console.log(articlesJson);
 
