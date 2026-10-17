@@ -10,7 +10,7 @@ const authors = document.getElementById("AUTHORS");
 
 // rename to a better name
 async function processMd(mdPath){
-    const res = await fetch(`/articles/${mdPath}`);
+    const res = await fetch(`./../articles/${mdPath}`);
     if (!res.ok){
         throw new Error(
             `Failed to load article: ${res.status}`         

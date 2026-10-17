@@ -4,7 +4,7 @@ description: "Tìm hiểu về giới từ và cụm giới từ trong tiếng A
 authors: "Gia Bảo"
 upload-date: "17/10/2026"
 update-date: "17/10/2026"
-thumbnail: "/images/WIP_thumbnail.jpg"
+thumbnail: "./../images/WIP_thumbnail.jpg"
 ---
 
 # GIỚI TỪ (PREPOSITION) VÀ CỤM GIỚI TỪ (PREPOSTION PHRASES)

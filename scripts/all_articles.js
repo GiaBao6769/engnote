@@ -10,7 +10,7 @@ const defaultThumbnailPath = "/images/no_thumbnail2.jpg";
 
 // This is a copy of the same function in parseMarkdown, rename to a better name, make the code not terminate if anything fails
 async function getMetadata(mdPath){
-    const res = await fetch(`/articles/${mdPath}`);
+    const res = await fetch(`./../articles/${mdPath}`);
     if (!res.ok){
         throw new Error(
             `Failed to load article: ${res.status}`         

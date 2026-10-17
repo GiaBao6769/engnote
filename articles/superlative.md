@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "17/10/2026"
 update-date: "17/10/2026"
-thumbnail: "/images/superlative_thumbnail.png"
+thumbnail: "./../images/superlative_thumbnail.png"
 ---
 
 ![](/images/superlative_thumbnail.png)
