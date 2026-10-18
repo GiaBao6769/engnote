@@ -38,15 +38,15 @@ Trợ động từ trong thì quá khứ hoàn thành là "had", và được d�
 
 Trong đó:
 
-- S là chủ ngữ
+- **S** là chủ ngữ
 
-- V<sub>PP</sub> là động từ được chia ở dạng phân từ quá khứ
+- **V<sub>PP</sub>** là động từ được chia ở dạng phân từ quá khứ
 
 **Ta có thể viết và đọc tắt "had not" thành "hadn't".**
 
 # 3. MỘT VÀI DẤU HIỆU NHẬN BIẾT THÌ QUÁ KHỨ HOÀN THÀNH
 
-Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa được sử dụng trong ngữ cảnh thì quá khứ hoàn thành tiếp diễn, không bao gồm tất cả nghĩa của từ đó.
+Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa được sử dụng trong ngữ cảnh thì quá khứ hoàn thành, không bao gồm tất cả nghĩa của từ đó.
 
 **By** (prep): trước thời điểm
 
