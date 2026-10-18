@@ -42,38 +42,40 @@
 
 body.lightmode{
     --clr-font: black;
-    --bg-color: white;
+    --clr-bg: white;
 
     --clr-nav: rgb(255, 255, 253);
     --clr-shadow: rgb(206, 203, 203);
 
     --clr: rgb(83, 141, 180);
     --clr-main: rgb(70, 46, 158);
+
     --clr-main-light: rgb(215, 229, 255);
-    --clr-main-light-dark: rgb(104, 101, 137);
+    --clr-silent: rgb(104, 101, 137);
 
     --border: 4px solid var(--clr-main);
     --border-radius: var(--space-small);
 }
 
 body.darkmode{
-    --clr-font: rgb(240, 238, 238);
-    --bg-color: rgb(42, 42, 42);
+    --clr-font: rgb(209, 208, 208);
+    --clr-bg: rgb(42, 42, 42);
 
     --clr-nav: rgb(40, 39, 39);
     --clr-shadow: rgb(6, 11, 24);
 
     --clr: rgb(83, 141, 180);
     --clr-main: rgb(139, 191, 239);
-    --clr-main-light: rgb(215, 229, 255);
-    --clr-main-light-dark: rgb(172, 172, 172);
+
+    --clr-main-light: rgb(230, 236, 248);
+    --clr-silent: rgb(158, 163, 168);
 
     --border: 4px solid var(--clr-main);
     --border-radius: var(--space-small);
 }
 
 body{
-    background-color: var(--bg-color);
+    background-color: var(--clr-bg);
     color: var(--clr-font);
 }
 
@@ -179,9 +181,42 @@ footer{
     height: 16rem;
 } */
 
+.center-section {
+    margin-inline: auto;
+    width: 55vw;
+}
+
+@media (max-width: 1200px){
+    .center-section{
+        width: 70vw;
+    }
+}
+
+@media (max-width: 1000px){
+    .center-section{
+        width: 75vw;
+        /* background-color: red; */
+    }
+}
+
+@media (max-width: 800px){
+    html{
+        font-size: 14px;
+    }
+
+    .center-section{
+        width: 85vw;
+    }
+}
 
 @media (max-width: 600px){
     html{
-        font-size: 14px;
+        font-size: 10px;
+    }
+
+    .center-section{
+        width: 95vw;
+        padding-left: var(--space-small);
+        padding-right:var(--space-small);
     }
 }

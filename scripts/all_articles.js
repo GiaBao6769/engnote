@@ -72,7 +72,7 @@ async function createCard(path){
 
 async function addGroup(group){
     const div = document.createElement("div");
-    div.classList.add("group-articles");
+    div.classList.add("center-section");
 
     const h1 = document.createElement("h1");
     h1.textContent = group["name"];

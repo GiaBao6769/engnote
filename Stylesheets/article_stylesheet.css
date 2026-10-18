@@ -52,24 +52,33 @@ main >*{
 
 
 #ARTICLE-INFO{
-    padding-left: var(--space-mid);
+    margin-top: var(--space-4);
     font-size: var(--font-mid);
-    color: var(--clr-main-light-dark);
+    color: var(--clr-silent);
+
+    display: flex;
+    justify-content: space-between;
 }
 
 #AUTHORS{
-    padding-left: var(--space-mid);
+    padding-left: var(--space-8);
     font-size: var(--font-mid);
-    color: var(--clr-main-light-dark);
-}
-
-#AUTHORS li{
-    padding-left: var(--space-small);
+    color: var(--clr-silent);
 }
 
 #UPLOAD-DATE, #UPDATE-DATE{
     font-size: var(--font-mid);
     color: var(--clr-main-light-dark);
+}
+
+#DATES li{
+    display: flex;
+    justify-content: space-between;
+}
+
+#DATES li p{
+    display: block;
+    white-space: pre-wrap;
 }
 
 
@@ -106,15 +115,11 @@ main >*{
     padding-left: var(--space-small);
 }
 
-
-
 .article-section{
-    margin-left: var(--space-mid);
-    margin-right: var(--space-mid);
     font-size: var(--font-mid);
 }
 
-#CONTENT > h1, h2{
+#CONTENT > h1, h2, h3 {
     display: block;
     font-weight: bold;
     margin-bottom: var(--space-small); 
@@ -131,14 +136,15 @@ main >*{
 }
 
 
-#CONTENT > h2 {
+#CONTENT > h2, h3 {
     margin-top: var(--space-small);
     font-size: var(--font-head2);
     padding-left: var(--head1-padding);
 }
 
-#CONTENT > p {
+#CONTENT p {
     padding-left: var(--para-padding);
+    padding-right: var(--para-padding);
 }
 
 #CONTENT > ul {
@@ -146,7 +152,23 @@ main >*{
 }
 
 #CONTENT > * {
-    margin-bottom: var(--space-tiny);
+    margin-bottom: var(--space-4);
+}
+
+#CONTENT img{
+    width: 70%;
+}
+
+pre {
+    background-color: rgb(83, 83, 83);
+    max-width: 100%;
+    overflow-x: auto;
+    box-sizing: border-box;
+    padding: var(--space-8);
+}
+
+pre code {
+    white-space: pre;
 }
 
 
@@ -163,24 +185,12 @@ main >*{
     /* border-radius: var(--border-radius); */
 }
 
-
-
-.article-section {
-    margin: auto;
-    width: 55vw;
-
-}
-
 @media (max-width: 1000px){
-    .article-section{
-        width: 70vw;
-    }
+    
 }
+
 
 @media (max-width: 800px){
-    .article-section{
-        width: 85vw;
-    }
 
     #DESC{
         margin-left: var(--space-mid);
@@ -189,12 +199,6 @@ main >*{
 }
 
 @media (max-width: 600px){
-    .article-section{
-        width: 95vw;
-        padding-left: var(--space-small);
-        padding-right:var(--space-small);
-    }
-    
     #DESC{
         margin-left: var(--space-small);
         margin-right: var(--space-small);

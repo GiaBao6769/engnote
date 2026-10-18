@@ -21,12 +21,12 @@ thumbnail: "./images/superlative_thumbnail.png"
     </div>
 </div>
 
-## I. GIỚI THIỆU VỀ CẤU TRÚC SO SÁNH NHẤT
+# I. GIỚI THIỆU VỀ CẤU TRÚC SO SÁNH NHẤT
 
 Cấu trúc so sánh nhất (Superlative structures) được dùng để so sánh ba đối tượng trở lên. Cấu trúc này được dùng với tính từ hoặc trạng từ để diễn tả đối tượng vượt trội nhất trong nhóm.
 
-## II. CẤU TRÚC SO SÁNH NHẤT CỦA TÍNH TỪ
-### 1. Dạng so sánh nhất của tính từ
+# II. CẤU TRÚC SO SÁNH NHẤT CỦA TÍNH TỪ
+## 1. Dạng so sánh nhất của tính từ
 
 Đối với *tính từ ngắn*, dạng so sánh nhất của chúng được thêm đuôi *-est* vào cuối. Ví dụ:
 
@@ -64,7 +64,7 @@ Các tính ngoại lệ từ có dạng đặc biệt khi so sánh nhất bao g�
 - old → eldest (khi chỉ sự lớn tuổi trong gia đình)
 
 
-### 2. Cấu trúc so sánh nhất của tính từ
+## 2. Cấu trúc so sánh nhất của tính từ
 
 Tính từ so sánh nhất về bản chất vẫn là tính từ. Vì vậy, tính từ so sánh nhất có thể được dùng để bổ nghĩa cho danh từ hoặc đứng sau động từ liên kết. Lưu ý, ta luôn cần mạo từ "the" đứng trước tính từ so sánh nhất vì đối tượng được so sánh luôn xác định, bất kể có danh từ phía sau hay không.
 
@@ -81,8 +81,8 @@ với "N" là danh từ đối tượng đang được so sánh.
 - Bill Gates used to be the richest person in the world.
 
 
-## III. CẤU TRÚC SO SÁNH NHẤT CỦA TRẠNG TỪ
-### 1. Dạng so sánh nhất của trạng từ
+# III. CẤU TRÚC SO SÁNH NHẤT CỦA TRẠNG TỪ
+## 1. Dạng so sánh nhất của trạng từ
 
 Đối với trạng từ ngắn, ta thêm đuôi *-est* vào cuối. Ví dụ:
 - fast → fastest
@@ -105,7 +105,7 @@ Một số trạng từ ngoại lệ có dạng đặc biệt bao gồm:
 
 Khi muốn diễn đạt ý nghĩa kém nhất, ta đổi *most* thành *least*  đối với tính từ dài và thêm *least* trước tính từ ngắn (trong trường hợp này, tính từ ngắn không thêm đuôi -est). Ví dụ:
 
-### 2. Cấu trúc so sánh nhất của trạng từ
+## 2. Cấu trúc so sánh nhất của trạng từ
 
 Trạng từ so sánh nhất có tác dụng tương tự một trạng từ thường. Lưu ý, ta luôn cần có mạo từ "the" phía trước trạng từ so sánh nhất.
 

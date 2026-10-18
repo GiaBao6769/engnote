@@ -1,8 +1,6 @@
 
-.group-articles{
+.center-section{
     margin-top: var(--space-mid);
-    padding-left: var(--space-mid);
-    padding-right: var(--space-mid);
 }
 
 .article-card{
@@ -51,12 +49,6 @@
 
 
 @media (max-width: 800px){
-    .group-articles{
-        margin-top: var(--space-small);
-        padding-left: var(--space-small);
-        padding-right: var(--space-small);
-    }   
-
     .card-title{
         font-size: 1.5rem;
     }
