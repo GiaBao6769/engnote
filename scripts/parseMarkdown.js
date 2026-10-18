@@ -42,6 +42,32 @@ async function processMd(mdPath){
     return [metadata, content];
 }
 
+const renderer = new marked.Renderer();
+renderer.listitem = function (token) {
+    let content = "";
+    let inlineTokens = [];
+
+    const flushInline = () => {
+        if (inlineTokens.length) {
+            content += `<p>${this.parser.parseInline(inlineTokens)}</p>\n`;
+            inlineTokens = [];
+        }
+    };
+
+    for (const child of token.tokens) {
+        if (child.type === "text") {
+            inlineTokens.push(child);
+        } else {
+            flushInline();
+            content += this.parser.parse([child]);
+        }
+    }
+
+    flushInline();
+
+    return `<li>${content}</li>\n`;
+};
+
 async function loadArticle(mdPath){
 
     const [metadata, content] = await processMd(mdPath);
@@ -60,7 +86,7 @@ async function loadArticle(mdPath){
         authors.appendChild(li);
     }
 
-    const html = await marked.parse(content);
+    const html = await marked.parse(content, {renderer });
     contentSection.innerHTML = html;
 }
 

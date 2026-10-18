@@ -12,42 +12,48 @@ Thì *tương lai đơn* được dùng để diễn tả:
 
 - hành động sẽ diễn ra trong tương lai
 
-    I will finish my homework tonight.
+    - I will finish my homework tonight.
 
 - kỳ vọng hoặc dự đoán trong tương lai
 
-    Tomorrow will be better.
-    I think it will rain tomorrow.
+    - Tomorrow will be better.
+    
+    - I think it will rain tomorrow.
 
 - quyết định tự phát ngay tại thời điểm nói
 
-    "The phone is ringing!"
-    "Don't worry! I will answer it."
+    - "The phone is ringing!"
+
+    - "Don't worry! I will answer it."
 
 - lời hứa, đề nghị
 
-    I will give you a new bag on your birhtday.
+    - I will give you a new bag on your birhtday.
 
-    I will look after your cat.
+    - I will look after your cat.
 
-    I will carry your bag.
+    - I will carry your bag.
 
 
 
 - sự thật, chân lí
 
-    The museum will open at 9AM.
+    - The museum will open at 9AM.
     
-    After I get home, I will have a bath.
+    - After I get home, I will have a bath.
 
 # II. CẤU TRÚC
 
 Thì tương lai đơn được xây dựng dựa trên modal verb *will*, vì vậy cấu trúc mệnh đề tương lai đơn tương tự như cấu trúc của modal verbs.
 
 (+) S + will + V
+
 (-) S + will not + V
-(?) Will + S + V
+
+(?) Will + S + V ?
+
 -> Yes, S will
+
 -> No, S will not
 
 will thường được viết tắt thành 'll, còn will not thường được viết tắt thành won't
@@ -66,13 +72,16 @@ Với will là động từ thường, nó thể hiện sự ý chí, sự sẵn
 Trong tiếng Anh cổ, sự phân biệt này được thể hiện rõ ràng:
 
 - He will success. (modal verb, dự đoán trong tương lai)
+
 - He wills to sucess. (khát khao, mong muốn)
+
 - He willed himself to continue. (ý chí)
+
 - You can leave if you will. (mong muốn)
 
 Tuy nhiên, tiếng Anh hiện đại hầu như đã lượt bỏ sự khác biệt này. Do đó, bạn có thể thấy được đù tương lai đơn diễn ta tương lai, nó cũng có thể diễn ta cả đề nghị và lời hứa. Điều này tạo ra nhiều cách hiểu khi sử dụng.
 
-He won't listen to me.
+- He won't listen to me.
 
 Có thể được hiểu là anh ấy sẽ không nghe lời (tương lai) hoặc anh ấy không chịu nghe lời (ý chí).
 
@@ -82,18 +91,24 @@ Có thể được hiểu là anh ấy sẽ không nghe lời (tương lai) ho�
 Khi muốn diễn tả một sự thất bại (không hoạt động theo kì vọng) của các vật vô tri vô giác, người ta thường sử dụng *will not* thay vì hiện tại đơn. Ví dụ:
 
 - My car won't run.
+
 - The door won't open.
+
 - The machine won't operate.
 
 Việc này bắt nguồn từ sự gán ghép việc hỏng hóc hay không hoạt động của sự vật với sự *ẩn dụ từ chối* (metaphorical refusal).
 
+
+<div class="hidden">
 
 ### CẤU TRÚC GOING-TO
 
 ## I. TÁC DỤNG
 
 Diễn tả
+
 - hành động đã có ý định hoặc lên kế hoạch trước trong tương lai.
+
 - dự đoán dựa trên bằng chứng hiện tại.
 
-
+</div>

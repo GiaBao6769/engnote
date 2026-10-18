@@ -3,6 +3,7 @@
         "name": "thì (tenses)",
         "article-paths": 
         [
+            "past_perfect.md",
             "future_simple.md"
         ]
     },
