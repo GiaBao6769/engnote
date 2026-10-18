@@ -22,7 +22,7 @@ Giới từ được chia thành hai loại bao gồm:
 
 ### 1. Làm trạng ngữ bổ nghĩa cho động từ
 
-* They arrived *after* us.
+* They arrived **after** us.
 * I live **with** my parents.
 * We play video games ***for*** fun.
 

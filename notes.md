@@ -1,6 +1,8 @@
 - Different pronunciation between verbs and nouns
 - Some meanings belong to a specific field such as Mathematic or Law. Try to store them in such a way that I can querry the field later.
 
+- Ví dụ các tenses phải đủ cả 3 dạng khẳng định, phủ định, câu hỏi; đa dạng chủ ngữ; các dạng chia của động từ.
+
 # TO-DO LIST
 
 ## Defination search

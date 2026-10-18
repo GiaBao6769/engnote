@@ -10,7 +10,9 @@ update-date: "17/10/2026"
 
 Thì *quá khứ hoàn thành* diễn tả hành động, sự việc diễn ra trước một thời điểm trong quá khứ.
 
-- The building had been built before 2020.
+- This castle had been built before the 15th century.
+
+- Our project hadn't been finished by last week.
 
 - I had arrived home before it rained yesterday.
 
@@ -18,7 +20,7 @@ Thì *quá khứ hoàn thành* diễn tả hành động, sự việc diễn ra 
 
 # 2. CẤU TRÚC CỦA MỆNH ĐỀ QUÁ KHỨ HOÀN THÀNH
 
-Động từ trong thì quá khứ hoàn thành được chia ở dạng *phân từ quá khứ*.
+Động từ chính trong thì quá khứ hoàn thành được chia ở dạng *phân từ quá khứ*.
 
 Trợ động từ trong thì quá khứ hoàn thành là "had", và được dùng trong cả ba dạng.
 

@@ -1,5 +1,5 @@
 ---
-title: "So sánh nhất (Superlative)"
+title: "So sánh nhất\n(Superlative)"
 description: ""
 authors: "Gia Bao"
 upload-date: "17/10/2026"
@@ -118,8 +118,11 @@ Trạng từ so sánh nhất có tác dụng tương tự một trạng từ th�
 # NOTE (unformatted)
 - Khi muốn nói về thứ tự: ta thêm từ chỉ thứ từ (first, second, third) vào giữa "the" và tính từ hoặc trạng từ.
 
+<div class="hidden">
 
 
 # NGHIÊN CỨU THÊM
 - Các loại tính từ và trạng từ có thể đưa về dạng so sánh nhất (chỉ mức độ, trạng thái, cách thức, etc.)
 - có thể trực tiếp sử dụng trạng từ để modify tính từ so sánh hay không
+
+</div>
