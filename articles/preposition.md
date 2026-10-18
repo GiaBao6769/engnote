@@ -80,13 +80,10 @@ Nhiều động từ cần một giới từ để nối với tân ngữ. Với
 
 Các động từ như vậy được gọi là giới động từ (prepositional verbs). 
 
-```
 Nội động từ (Intransitive Verbs) không thể có tân ngữ trực tiếp (direct object) đi kèm, nên khi cần nối với một cụm danh từ hoặc đại từ khác, chúng ta buộc phải sử dụng đến giới từ.
-```
 
-```
 Xét thêm song động từ và giới từ đi kèm. VD: apologize to someone for doing something, remind someone of someone/something
-```
+
 
 ### 2. Danh từ đi chung với giới từ
 
