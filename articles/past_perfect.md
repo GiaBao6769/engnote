@@ -4,11 +4,12 @@ description: ""
 authors: "Gia Bao"
 upload-date: "18/10/2026"
 update-date: "17/10/2026"
+thumbnail: "./images/past_perfect_thumbnail.png"
 ---
 
 # 1. TÁC DỤNG CỦA THÌ QUÁ KHỨ HOÀN THÀNH
 
-Thì *quá khứ hoàn thành* diễn tả hành động, sự việc diễn ra trước một thời điểm trong quá khứ.
+Thì _quá khứ hoàn thành_ diễn tả hành động, sự việc diễn ra trước một thời điểm trong quá khứ.
 
 - This castle had been built before the 15th century.
 
@@ -20,7 +21,7 @@ Thì *quá khứ hoàn thành* diễn tả hành động, sự việc diễn ra 
 
 # 2. CẤU TRÚC CỦA MỆNH ĐỀ QUÁ KHỨ HOÀN THÀNH
 
-Động từ chính trong thì quá khứ hoàn thành được chia ở dạng *phân từ quá khứ*.
+Động từ chính trong thì quá khứ hoàn thành được chia ở dạng _phân từ quá khứ_.
 
 Trợ động từ trong thì quá khứ hoàn thành là "had", và được dùng trong cả ba dạng.
 
@@ -28,11 +29,11 @@ Trợ động từ trong thì quá khứ hoàn thành là "had", và được d�
 
 <div class="text-box">
 
-(+) S + "had" + V<sub>PP</sub> .
+(+) S + "had" + V<sub>(phân từ quá khứ)</sub> .
 
-(-) S + "had not" + V<sub>PP</sub> .
+(-) S + "had not" + VV<sub>(phân từ quá khứ)</sub> .
 
-(?) Had + S + V<sub>PP</sub> ?
+(?) "Had" + S + V<sub>(phân từ quá khứ)</sub> ?
 
 </div>
 
@@ -42,9 +43,10 @@ Trong đó:
 
 - **S** là chủ ngữ
 
-- **V<sub>PP</sub>** là động từ được chia ở dạng phân từ quá khứ
+- **V<sub>(phân từ quá khứ)</sub>** là động từ được chia ở dạng phân từ quá khứ
 
-**Ta có thể viết và đọc tắt "had not" thành "hadn't".**
+*Ta có thể viết và đọc tắt _had_ thành _'d_, _had not_ thành _hadn't_.*
+
 
 # 3. MỘT VÀI DẤU HIỆU NHẬN BIẾT THÌ QUÁ KHỨ HOÀN THÀNH
 
@@ -81,7 +83,7 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 
 - My grandparents had just left when my family visited them.
 
-**Already** (adv): đã *(dùng để nhấn mạnh việc đã hoàn thành)*
+**Already** (adv): đã _(dùng để nhấn mạnh việc đã hoàn thành)_
 
 - He didn't buy this book because he had already bought one.
 

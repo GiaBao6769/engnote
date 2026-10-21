@@ -21,7 +21,7 @@ async function getMetadata(mdPath){
     const match = md.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
 
     if (!match) {
-        throw new Error("Metadata not found");
+        throw new Error(`Metadata not found ${mdPath}`);
     }
 
     const metadataText = match[1];
@@ -46,7 +46,7 @@ async function createCard(path){
     const card = await getComponent("#ARTICLE-CARD-TEMP");
 
     const metadata = await getMetadata(path).catch(err => {
-        throw new Error("Cannot get metadata");
+        throw new Error(`Cannot get metadata of ${path}`);
     });
 
     const a = card.querySelector("a");
@@ -97,5 +97,5 @@ async function addGroup(group){
 }
 
 for (const group of articlesJson){
-    addGroup(group);
+    await addGroup(group);
 }

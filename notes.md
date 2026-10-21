@@ -5,6 +5,17 @@
 
 # TO-DO LIST
 
+\[
+S + V + (O/C/A)
+\]
+
+where:
+- \(S\) = subject
+- \(V\) = verb
+- \(O\) = object
+- \(C\) = complement
+- \(A\) = adjunct
+
 ## Defination search
 
 After parsing an article, iterate the entire content to find words in a definition list and add the link to another article. Additionally, user can hover over those definitions and it creates a diaglogue box containing a short description (can be saved in database).
