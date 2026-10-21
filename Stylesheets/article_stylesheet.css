@@ -151,8 +151,12 @@ main > * {
     padding-left: var(--list-padding);
 }
 
+#CONTENT ul ul{
+    padding-left: 2.5rem;
+}
+
 #CONTENT li p{
-    padding-left: var(--space-4);
+    padding-left: 0.4rem;
 }
 /* 
 #CONTENT li {

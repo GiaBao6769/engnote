@@ -183,7 +183,7 @@ footer{
 
 .center-section {
     margin-inline: auto;
-    width: 55vw;
+    width: 50vw;
 }
 
 @media (max-width: 1200px){

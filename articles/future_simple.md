@@ -1,7 +1,7 @@
 ---
 title: "Tương lai đơn\n(Future simple)"
 description: ""
-authors: "Gia Bao, Wyfar"
+authors: "Gia Bao"
 upload-date: "12/10/2026"
 update-date: "17/10/2026"
 thumbnail: "./images/grammar_thumbnail.png"

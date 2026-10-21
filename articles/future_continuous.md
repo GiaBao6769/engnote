@@ -68,7 +68,7 @@ Một số cách diễn đạt một thời điểm hoặc khoảng thời gian 
 
     - At this time tomorrow, we will be taking our final exam.
 
-- **At that time + trạng ngữ thời gian tương lai**: vào lúc đó ...
+- **At that time + [trạng ngữ thời gian tương lai]**: vào lúc đó ...
 
     - At that time next year, I will be studying at university.
 

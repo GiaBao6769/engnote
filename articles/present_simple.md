@@ -85,6 +85,16 @@ Trong đó:
 
 - **C** là bổ ngữ, có thể là cụm tính từ, cụm danh từ, hoặc cụm giới từ.
 
+<br>
+
+**Viết tắt:**
+
+- am &rarr; 'm
+- is &rarr; 's
+- are &rarr; 're
+- is not &rarr; isn't
+- are not &rarr; aren't
+
 ## 2.2. Cấu trúc đối với các động từ khác
 
 Đối với các động từ khác khi chia ở dạng hiện tại:
