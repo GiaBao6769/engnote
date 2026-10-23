@@ -68,7 +68,7 @@ renderer.listitem = function (token) {
     return `<li>${content}</li>\n`;
 };
 
-async function loadArticle(mdPath){
+async function renderArticle(mdPath){
 
     const [metadata, content] = await processMd(mdPath);
 
@@ -90,9 +90,116 @@ async function loadArticle(mdPath){
     contentSection.innerHTML = html;
 }
 
+function renderMultipleChoices() {
+    const quizBlocks = contentSection.querySelectorAll("quiz");
+
+    quizBlocks.forEach((quiz, quizId) => {
+        const form = document.createElement("form");
+        form.classList.add("quiz-form");
+
+        const answers = quiz.dataset.answers;
+        const questions = quiz.querySelectorAll("ol > li");
+
+        questions.forEach((question, questionId) => {
+            const fieldset = document.createElement("fieldset");
+            fieldset.dataset.correct = answers[questionId];
+
+            // Extract the question text without its options list.
+            const questionCopy = question.cloneNode(true);
+            questionCopy.querySelectorAll("ul, ol").forEach(list => list.remove());
+            const questionText = questionCopy.textContent.trim();
+
+            const legend = document.createElement("legend");
+            legend.textContent = `${questionId + 1}. ${questionText}`;
+            fieldset.append(legend);
+
+            const options = question.querySelectorAll(":scope > ul > li");
+
+            options.forEach(option => {
+                const text = option.textContent.trim();
+                const match = text.match(/^([A-D])\.\s*(.*)$/);
+                if (!match) return;
+
+                const [, letter, optionText] = match;
+
+                const input = document.createElement("input");
+                input.type = "radio";
+                input.name = `quiz-${quizId}-q${questionId}`;
+                input.value = letter;
+                input.required = true;
+
+                const label = document.createElement("label");
+                label.classList.add("quiz-option");
+
+                const optionLetter = document.createElement("p");
+                optionLetter.textContent = letter;
+                optionLetter.classList.add("optionLetter");
+
+                const optionContent = document.createElement("span");
+                optionContent.innerHTML = marked.parseInline(optionText);
+
+                label.append(input, optionLetter, optionContent);
+                fieldset.append(label);
+            });
+
+            form.append(fieldset);
+        });
+
+        const submitButton = document.createElement("button");
+        submitButton.type = "submit";
+        submitButton.textContent = "Submit";
+
+        const resetButton = document.createElement("button");
+        resetButton.textContent = "reset";
+        resetButton.addEventListener("click", () => {
+            form.reset();
+
+            form.querySelectorAll(".correctOption, .incorrectOption")
+                .forEach(label => {
+                    label.classList.remove("correctOption", "incorrectOption");
+                });
+        });
+
+        
+        submitButton.classList.add("formButton");
+        resetButton.classList.add("formButton");
+
+        form.addEventListener("submit", (event) => {
+            event.preventDefault();
+            const questions = form.querySelectorAll("fieldset[data-correct]");
+
+            questions.forEach((question) => {
+                const correctAnswer = question.dataset.correct;
+
+                const options = question.querySelectorAll('input[type="radio"]');
+
+                options.forEach((input) => {
+                    const label = input.closest("label");
+                    if (input.value === correctAnswer) {
+                        label.classList.add("correctOption");
+                    } 
+                    else if (input.checked) {
+                        label.classList.add("incorrectOption");
+                    }
+                });
+            });
+
+
+
+            form.reset();
+
+        });
+
+        form.append(submitButton, resetButton);
+
+        quiz.replaceChildren(form);
+    });
+}
+
 const params = new URLSearchParams(window.location.search);
 const path = params.get("p");
-loadArticle(path).catch(console.error);
+await renderArticle(path).catch(console.error);
+// renderMultipleChoices();
 
 
 

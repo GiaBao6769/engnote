@@ -51,6 +51,12 @@ Trong đó:
 
 - **V<sub>phân từ hiện tại</sub>** là động từ được chia ở phân từ hiện tại
 
+<br>
+
+**Viết tắt**:
+
+- will &rarr; 'll
+- will not &rarr; won't
 
 # 3. MỘT VÀI DẤU HIỆU
 
@@ -86,7 +92,7 @@ Một số cách diễn đạt một thời điểm hoặc khoảng thời gian 
 
     - While you are taking the exam, I will be waiting outside.
 
-**Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì tương lai tiếp diễn. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn được chấp nhận.
+**Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _tương lai tiếp diễn_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
 
 
 

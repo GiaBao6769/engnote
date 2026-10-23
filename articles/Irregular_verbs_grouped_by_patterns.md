@@ -1,160 +1,210 @@
-# Irregular Verbs
+---
+title: "Bảng chia từ bất quy tắc"
+description: ""
+authors: "Gia Bao"
+upload-date: "22/10/2026"
+update-date: "22/10/2026"
+---
 
-Grouped by patterns
+<!-- # Irregular Verbs
 
-| Infinitive | Past simple | Past participle | Note |
-| --- | --- | --- | --- |
-| be | was/were | been |  |
-| bet | bet | bet |  |
-| burst | burst | burst |  |
-| cast | cast | cast |  |
-| broadcast | broadcast | broadcast |  |
-| cut | cut | cut |  |
-| cost | cost | cost |  |
-| hit | hit | hit |  |
-| hurt | hurt | hurt |  |
-| put | put | put |  |
-| read | read | read | pronounced /riːd/ (base form), /red/ (past simple & past participle) |
-| let | let | let |  |
-| quit | quit | quit |  |
-| set | set | set |  |
-| shut | shut | shut |  |
-| split | split | split |  |
-| spread | spread | spread |  |
-| come | came | come |  |
-| become | became | become |  |
-| overcome | overcame | overcome |  |
-| run | ran | run |  |
-| beat | beat | beaten |  |
-| bite | bit | bitten |  |
-| hide | hid | hidden |  |
-| drive | drove | driven |  |
-| ride | rode | ridden |  |
-| rise | rose | risen |  |
-| arise | arose | arisen |  |
-| eat | ate | eaten |  |
-| fall | fell | fallen |  |
-| shake | shook | shaken |  |
-| take | took | taken |  |
-| mistake | mistook | mistaken |  |
-| overtake | overtook | overtaken |  |
-| retake | retook | retaken |  |
-| undertake | undertook | undertaken |  |
-| write | wrote | written |  |
-| give | gave | given |  |
-| forgive | forgave | forgiven |  |
-| forbid | forbade | forbidden |  |
-| get | got | got/gotten | gotten is mainly American English |
-| forget | forgot | forgotten |  |
-| break | broke | broken |  |
-| choose | chose | chosen |  |
-| freeze | froze | frozen |  |
-| steal | stole | stolen |  |
-| speak | spoke | spoken |  |
-| tread | trod | trodden |  |
-| wake | woke | woken |  |
-| awake | awoke/awaked | awoken/awaked | awoke/awoken are much more common |
-| shine | shone | shone |  |
-| sit | sat | sat |  |
-| spit | spat | spat |  |
-| cling | clung | clung |  |
-| dig | dug | dug |  |
-| spin | spun | spun |  |
-| stick | stuck | stuck |  |
-| sting | stung | stung |  |
-| swing | swung | swung |  |
-| strike | struck | struck/stricken | stricken is mainly used as an adjective or to mean afflicted |
-| hang | hung/hanged | hung/hanged | hanged is only used for execution |
-| begin | began | begun |  |
-| drink | drank | drunk |  |
-| ring | rang | rung |  |
-| shrink | shrank | shrunk |  |
-| sing | sang | sung |  |
-| sink | sank | sunk |  |
-| spring | sprang | sprung |  |
-| stink | stank | stunk |  |
-| swim | swam | swum |  |
-| bend | bent | bent |  |
-| build | built | built |  |
-| lend | lent | lent |  |
-| send | sent | sent |  |
-| spend | spent | spent |  |
-| creep | crept | crept |  |
-| feel | felt | felt |  |
-| keep | kept | kept |  |
-| kneel | knelt | knelt |  |
-| sleep | slept | slept |  |
-| weep | wept | wept |  |
-| sweep | swept | swept |  |
-| dwell | dwelt/dwelled | dwelt/dwelled |  |
-| smell | smelt/smelled | smelt/smelled |  |
-| leave | left | left |  |
-| lose | lost | lost |  |
-| deal | dealt | dealt |  |
-| mean | meant | meant |  |
-| burn | burnt/burned | burnt/burned |  |
-| dream | dreamt/dreamed | dreamt/dreamed |  |
-| lean | leant/leaned | leant/leaned |  |
-| leap | leapt/leaped | leapt/leaped |  |
-| learn | learnt/learned | learnt/learned |  |
-| spoil | spoilt/spoiled | spoilt/spoiled |  |
-| bring | brought | brought |  |
-| buy | bought | bought |  |
-| catch | caught | caught |  |
-| fight | fought | fought |  |
-| seek | sought | sought |  |
-| think | thought | thought |  |
-| teach | taught | taught |  |
-| bind | bound | bound |  |
-| find | found | found |  |
-| grind | ground | ground |  |
-| wind | wound | wound |  |
-| blow | blew | blown |  |
-| draw | drew | drawn |  |
-| withdraw | withdrew | withdrawn |  |
-| fly | flew | flown |  |
-| know | knew | known |  |
-| grow | grew | grown |  |
-| throw | threw | thrown |  |
-| lay | laid | laid |  |
-| pay | paid | paid |  |
-| say | said | said |  |
-| lie | lay | lain | when lie means to recline |
-| lie | lied | lied | when lie means to deceive |
-| sell | sold | sold |  |
-| tell | told | told |  |
-| foretell | foretold | foretold |  |
-| hold | held | held |  |
-| bleed | bled | bled |  |
-| breed | bred | bred |  |
-| feed | fed | fed |  |
-| meet | met | met |  |
-| shoot | shot | shot |  |
-| plead | pled/pleaded | pled/pleaded | pled is mainly used in legal contexts, especially in American English |
-| lead | led | led |  |
-| mislead | misled | misled |  |
-| bear | bore | born/borne | only use born to indicate birth; otherwise use borne |
-| tear | tore | torn |  |
-| wear | wore | worn |  |
-| swear | swore | sworn |  |
-| flee | fled | fled |  |
-| light | lit/lighted | lit/lighted | lit is more common |
-| slide | slid | slid |  |
-| win | won | won |  |
-| stand | stood | stood |  |
-| understand | understood | understood |  |
-| withstand | withstood | withstood |  |
-| have | had | had |  |
-| make | made | made |  |
-| remake | remade | remade |  |
-| hear | heard | heard |  |
-| clothe | clothed | clad/clothed |  |
-| prove | proved | proven/proved | proven is more common in American English |
-| show | showed | shown/showed | shown is more common |
-| sew | sewed | sewn/sewed | sewn is more common |
-| do | did | done |  |
-| redo | redid | redone |  |
-| go | went | gone |  |
-| undergo | underwent | undergone |  |
-| see | saw | seen |  |
-| foresee | foresaw | foreseen |  |
+Grouped by patterns -->
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Infinitive</th>
+      <th>Past simple</th>
+      <th>Past participle</th>
+      <th>Note</th>
+    </tr>
+  </thead>
+
+  <tboday class="table-group-1">
+    <tr><td>be</td><td>was/were</td><td>been</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>bet</td><td>bet</td><td>bet</td><td></td></tr>
+    <tr><td>burst</td><td>burst</td><td>burst</td><td></td></tr>
+    <tr><td>cast</td><td>cast</td><td>cast</td><td></td></tr>
+    <tr><td>broadcast</td><td>broadcast</td><td>broadcast</td><td></td></tr>
+    <tr><td>cut</td><td>cut</td><td>cut</td><td></td></tr>
+    <tr><td>cost</td><td>cost</td><td>cost</td><td></td></tr>
+    <tr><td>hit</td><td>hit</td><td>hit</td><td></td></tr>
+    <tr><td>hurt</td><td>hurt</td><td>hurt</td><td></td></tr>
+    <tr><td>put</td><td>put</td><td>put</td><td></td></tr>
+    <tr><td>read</td><td>read</td><td>read</td><td>pronounced <i>/riːd/</i> (base form), <i>/red/</i> (past simple &amp; past participle)</td></tr>
+    <tr><td>let</td><td>let</td><td>let</td><td></td></tr>
+    <tr><td>quit</td><td>quit</td><td>quit</td><td></td></tr>
+    <tr><td>set</td><td>set</td><td>set</td><td></td></tr>
+    <tr><td>shut</td><td>shut</td><td>shut</td><td></td></tr>
+    <tr><td>split</td><td>split</td><td>split</td><td></td></tr>
+    <tr><td>spread</td><td>spread</td><td>spread</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>come</td><td>came</td><td>come</td><td></td></tr>
+    <tr><td>become</td><td>became</td><td>become</td><td></td></tr>
+    <tr><td>overcome</td><td>overcame</td><td>overcome</td><td></td></tr>
+    <tr><td>run</td><td>ran</td><td>run</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>beat</td><td>beat</td><td>beaten</td><td></td></tr>
+    <tr><td>bite</td><td>bit</td><td>bitten</td><td></td></tr>
+    <tr><td>hide</td><td>hid</td><td>hidden</td><td></td></tr>
+    <tr><td>drive</td><td>drove</td><td>driven</td><td></td></tr>
+    <tr><td>ride</td><td>rode</td><td>ridden</td><td></td></tr>
+    <tr><td>rise</td><td>rose</td><td>risen</td><td></td></tr>
+    <tr><td>arise</td><td>arose</td><td>arisen</td><td></td></tr>
+    <tr><td>eat</td><td>ate</td><td>eaten</td><td></td></tr>
+    <tr><td>fall</td><td>fell</td><td>fallen</td><td></td></tr>
+    <tr><td>shake</td><td>shook</td><td>shaken</td><td></td></tr>
+    <tr><td>take</td><td>took</td><td>taken</td><td></td></tr>
+    <tr><td>mistake</td><td>mistook</td><td>mistaken</td><td></td></tr>
+    <tr><td>overtake</td><td>overtook</td><td>overtaken</td><td></td></tr>
+    <tr><td>retake</td><td>retook</td><td>retaken</td><td></td></tr>
+    <tr><td>undertake</td><td>undertook</td><td>undertaken</td><td></td></tr>
+    <tr><td>write</td><td>wrote</td><td>written</td><td></td></tr>
+    <tr><td>give</td><td>gave</td><td>given</td><td></td></tr>
+    <tr><td>forgive</td><td>forgave</td><td>forgiven</td><td></td></tr>
+    <tr><td>forbid</td><td>forbade</td><td>forbidden</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>get</td><td>got</td><td>got/<i>gotten</i></td><td><i>gotten</i> is mainly American English</td></tr>
+    <tr><td>forget</td><td>forgot</td><td>forgotten</td><td></td></tr>
+    <tr><td>break</td><td>broke</td><td>broken</td><td></td></tr>
+    <tr><td>choose</td><td>chose</td><td>chosen</td><td></td></tr>
+    <tr><td>freeze</td><td>froze</td><td>frozen</td><td></td></tr>
+    <tr><td>steal</td><td>stole</td><td>stolen</td><td></td></tr>
+    <tr><td>speak</td><td>spoke</td><td>spoken</td><td></td></tr>
+    <tr><td>tread</td><td>trod</td><td>trodden</td><td></td></tr>
+    <tr><td>wake</td><td>woke</td><td>woken</td><td></td></tr>
+    <tr><td>awake</td><td>awoke/awaked</td><td>awoken/awaked</td><td><i>awoke/awoken</i> are much more common</td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>shine</td><td>shone</td><td>shone</td><td></td></tr>
+    <tr><td>sit</td><td>sat</td><td>sat</td><td></td></tr>
+    <tr><td>spit</td><td>spat</td><td>spat</td><td></td></tr>
+    <tr><td>cling</td><td>clung</td><td>clung</td><td></td></tr>
+    <tr><td>dig</td><td>dug</td><td>dug</td><td></td></tr>
+    <tr><td>spin</td><td>spun</td><td>spun</td><td></td></tr>
+    <tr><td>stick</td><td>stuck</td><td>stuck</td><td></td></tr>
+    <tr><td>sting</td><td>stung</td><td>stung</td><td></td></tr>
+    <tr><td>swing</td><td>swung</td><td>swung</td><td></td></tr>
+    <tr><td>strike</td><td>struck</td><td>struck/<i>stricken</i></td><td><i>stricken</i> is mainly used as an adjective or to mean afflicted</td></tr>
+    <tr><td>hang</td><td>hung/hanged</td><td>hung/hanged</td><td><i>hanged</i> is only used for execution</td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>begin</td><td>began</td><td>begun</td><td></td></tr>
+    <tr><td>drink</td><td>drank</td><td>drunk</td><td></td></tr>
+    <tr><td>ring</td><td>rang</td><td>rung</td><td></td></tr>
+    <tr><td>shrink</td><td>shrank</td><td>shrunk</td><td></td></tr>
+    <tr><td>sing</td><td>sang</td><td>sung</td><td></td></tr>
+    <tr><td>sink</td><td>sank</td><td>sunk</td><td></td></tr>
+    <tr><td>spring</td><td>sprang</td><td>sprung</td><td></td></tr>
+    <tr><td>stink</td><td>stank</td><td>stunk</td><td></td></tr>
+    <tr><td>swim</td><td>swam</td><td>swum</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>bend</td><td>bent</td><td>bent</td><td></td></tr>
+    <tr><td>build</td><td>built</td><td>built</td><td></td></tr>
+    <tr><td>lend</td><td>lent</td><td>lent</td><td></td></tr>
+    <tr><td>send</td><td>sent</td><td>sent</td><td></td></tr>
+    <tr><td>spend</td><td>spent</td><td>spent</td><td></td></tr>
+    <tr><td>creep</td><td>crept</td><td>crept</td><td></td></tr>
+    <tr><td>feel</td><td>felt</td><td>felt</td><td></td></tr>
+    <tr><td>keep</td><td>kept</td><td>kept</td><td></td></tr>
+    <tr><td>kneel</td><td>knelt</td><td>knelt</td><td></td></tr>
+    <tr><td>sleep</td><td>slept</td><td>slept</td><td></td></tr>
+    <tr><td>weep</td><td>wept</td><td>wept</td><td></td></tr>
+    <tr><td>sweep</td><td>swept</td><td>swept</td><td></td></tr>
+    <tr><td>dwell</td><td>dwelt/dwelled</td><td>dwelt/dwelled</td><td></td></tr>
+    <tr><td>smell</td><td>smelt/smelled</td><td>smelt/smelled</td><td></td></tr>
+    <tr><td>leave</td><td>left</td><td>left</td><td></td></tr>
+    <tr><td>lose</td><td>lost</td><td>lost</td><td></td></tr>
+    <tr><td>deal</td><td>dealt</td><td>dealt</td><td></td></tr>
+    <tr><td>mean</td><td>meant</td><td>meant</td><td></td></tr>
+    <tr><td>burn</td><td>burnt/burned</td><td>burnt/burned</td><td></td></tr>
+    <tr><td>dream</td><td>dreamt/dreamed</td><td>dreamt/dreamed</td><td></td></tr>
+    <tr><td>lean</td><td>leant/leaned</td><td>leant/leaned</td><td></td></tr>
+    <tr><td>leap</td><td>leapt/leaped</td><td>leapt/leaped</td><td></td></tr>
+    <tr><td>learn</td><td>learnt/learned</td><td>learnt/learned</td><td></td></tr>
+    <tr><td>spoil</td><td>spoilt/spoiled</td><td>spoilt/spoiled</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>bring</td><td>brought</td><td>brought</td><td></td></tr>
+    <tr><td>buy</td><td>bought</td><td>bought</td><td></td></tr>
+    <tr><td>catch</td><td>caught</td><td>caught</td><td></td></tr>
+    <tr><td>fight</td><td>fought</td><td>fought</td><td></td></tr>
+    <tr><td>seek</td><td>sought</td><td>sought</td><td></td></tr>
+    <tr><td>think</td><td>thought</td><td>thought</td><td></td></tr>
+    <tr><td>teach</td><td>taught</td><td>taught</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>bind</td><td>bound</td><td>bound</td><td></td></tr>
+    <tr><td>find</td><td>found</td><td>found</td><td></td></tr>
+    <tr><td>grind</td><td>ground</td><td>ground</td><td></td></tr>
+    <tr><td>wind</td><td>wound</td><td>wound</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>blow</td><td>blew</td><td>blown</td><td></td></tr>
+    <tr><td>draw</td><td>drew</td><td>drawn</td><td></td></tr>
+    <tr><td>withdraw</td><td>withdrew</td><td>withdrawn</td><td></td></tr>
+    <tr><td>fly</td><td>flew</td><td>flown</td><td></td></tr>
+    <tr><td>know</td><td>knew</td><td>known</td><td></td></tr>
+    <tr><td>grow</td><td>grew</td><td>grown</td><td></td></tr>
+    <tr><td>throw</td><td>threw</td><td>thrown</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>lay</td><td>laid</td><td>laid</td><td></td></tr>
+    <tr><td>pay</td><td>paid</td><td>paid</td><td></td></tr>
+    <tr><td>say</td><td>said</td><td>said</td><td></td></tr>
+    <tr><td>lie</td><td>lay</td><td>lain</td><td>when <i>lie</i> means to recline</td></tr>
+    <tr><td>lie</td><td>lied</td><td>lied</td><td>when <i>lie</i> means to deceive</td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>sell</td><td>sold</td><td>sold</td><td></td></tr>
+    <tr><td>tell</td><td>told</td><td>told</td><td></td></tr>
+    <tr><td>foretell</td><td>foretold</td><td>foretold</td><td></td></tr>
+    <tr><td>hold</td><td>held</td><td>held</td><td></td></tr>
+    <tr><td>bleed</td><td>bled</td><td>bled</td><td></td></tr>
+    <tr><td>breed</td><td>bred</td><td>bred</td><td></td></tr>
+    <tr><td>feed</td><td>fed</td><td>fed</td><td></td></tr>
+    <tr><td>meet</td><td>met</td><td>met</td><td></td></tr>
+    <tr><td>shoot</td><td>shot</td><td>shot</td><td></td></tr>
+    <tr><td>plead</td><td>pled/pleaded</td><td>pled/pleaded</td><td><i>pled</i> is mainly used in legal contexts, especially in American English</td></tr>
+    <tr><td>lead</td><td>led</td><td>led</td><td></td></tr>
+    <tr><td>mislead</td><td>misled</td><td>misled</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>bear</td><td>bore</td><td>born/borne</td><td>only use <i>born</i> to indicate birth; otherwise use <i>borne</i></td></tr>
+    <tr><td>tear</td><td>tore</td><td>torn</td><td></td></tr>
+    <tr><td>wear</td><td>wore</td><td>worn</td><td></td></tr>
+    <tr><td>swear</td><td>swore</td><td>sworn</td><td></td></tr>
+    <tr><td>flee</td><td>fled</td><td>fled</td><td></td></tr>
+    <tr><td>light</td><td>lit/lighted</td><td>lit/lighted</td><td><i>lit</i> is more common</td></tr>
+    <tr><td>slide</td><td>slid</td><td>slid</td><td></td></tr>
+    <tr><td>win</td><td>won</td><td>won</td><td></td></tr>
+    <tr><td>stand</td><td>stood</td><td>stood</td><td></td></tr>
+    <tr><td>understand</td><td>understood</td><td>understood</td><td></td></tr>
+    <tr><td>withstand</td><td>withstood</td><td>withstood</td><td></td></tr>
+  </tbody>
+  <tbody class="table-group-1">
+    <tr><td>have</td><td>had</td><td>had</td><td></td></tr>
+    <tr><td>make</td><td>made</td><td>made</td><td></td></tr>
+    <tr><td>remake</td><td>remade</td><td>remade</td><td></td></tr>
+    <tr><td>hear</td><td>heard</td><td>heard</td><td></td></tr>
+    <tr><td>clothe</td><td>clothed</td><td>clad/clothed</td><td></td></tr>
+    <tr><td>prove</td><td>proved</td><td>proven/proved</td><td><i>proven</i> is more common in American English</td></tr>
+    <tr><td>show</td><td>showed</td><td>shown/showed</td><td><i>shown</i> is more common</td></tr>
+    <tr><td>sew</td><td>sewed</td><td>sewn/sewed</td><td><i>sewn</i> is more common</td></tr>
+  </tbody>
+  <tbody class="table-group-2">
+    <tr><td>do</td><td>did</td><td>done</td><td></td></tr>
+    <tr><td>redo</td><td>redid</td><td>redone</td><td></td></tr>
+    <tr><td>go</td><td>went</td><td>gone</td><td></td></tr>
+    <tr><td>undergo</td><td>underwent</td><td>undergone</td><td></td></tr>
+    <tr><td>see</td><td>saw</td><td>seen</td><td></td></tr>
+    <tr><td>foresee</td><td>foresaw</td><td>foreseen</td><td></td></tr>
+  </tbody>
+</table>

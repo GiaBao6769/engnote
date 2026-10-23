@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "12/10/2026"
 update-date: "17/10/2026"
-thumbnail: "./images/grammar_thumbnail.png"
+thumbnail: "./images/future_simple_thumbnail.png"
 ---
 
 # I. TÁC DỤNG
@@ -27,7 +27,7 @@ Thì *tương lai đơn* được dùng để diễn tả:
 
     - "Don't worry! I will answer it."
 
-- lời hứa, đề nghị
+- lời hứa, đề nghị tại thời điểm nói
 
     - I will give you a new bag on your birhtday.
 
@@ -35,9 +35,7 @@ Thì *tương lai đơn* được dùng để diễn tả:
 
     - I will carry your bag.
 
-
-
-- sự thật, chân lí
+- sự thật, chân lí sẽ diễn rả
 
     - The museum will open at 9AM.
     
@@ -47,17 +45,33 @@ Thì *tương lai đơn* được dùng để diễn tả:
 
 Thì tương lai đơn được xây dựng dựa trên modal verb *will*, vì vậy cấu trúc mệnh đề tương lai đơn tương tự như cấu trúc của modal verbs.
 
+
+<div class="center-div">
+
+<div class="text-box">
+
 (+) S + will + V
 
 (-) S + will not + V
 
 (?) Will + S + V ?
 
--> Yes, S will
+</div>
 
--> No, S will not
+</div>
 
-will thường được viết tắt thành 'll, còn will not thường được viết tắt thành won't
+Trong đó:
+
+- **S** là chủ ngữ
+
+- **V** là động từ chính nguyên mẫu
+
+<br>
+
+**Viết tắt:**
+
+- will &rarr; 'll
+- will not &rarr; won't
 
 
 # NOTES:

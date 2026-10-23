@@ -31,7 +31,7 @@ Trợ động từ trong thì quá khứ hoàn thành là "had", và được d�
 
 (+) S + "had" + V<sub>(phân từ quá khứ)</sub> .
 
-(-) S + "had not" + VV<sub>(phân từ quá khứ)</sub> .
+(-) S + "had not" + V<sub>(phân từ quá khứ)</sub> .
 
 (?) "Had" + S + V<sub>(phân từ quá khứ)</sub> ?
 
@@ -58,7 +58,6 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 
 - By the weekend, I had finished the report.
 
-
 **By the time** (subConj): trước thời điểm 
 
 - By the time the police came, the thieves had already gone away.
@@ -83,7 +82,7 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 
 - My grandparents had just left when my family visited them.
 
-**Already** (adv): đã _(dùng để nhấn mạnh việc đã hoàn thành)_
+**Already** (adv): đã _(nhấn mạnh hành động đã hoàn thành)_
 
 - He didn't buy this book because he had already bought one.
 
@@ -104,3 +103,4 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 - Until the police came, the thieves had already gone away.
 
 
+**Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _quá khứ hoàn thành_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.

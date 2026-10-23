@@ -67,7 +67,7 @@ body.darkmode{
     --clr: rgb(83, 141, 180);
     --clr-main: rgb(139, 191, 239);
 
-    --clr-main-light: rgb(230, 236, 248);
+    --clr-main-light: rgb(18, 92, 123);
     --clr-silent: rgb(158, 163, 168);
 
     --border: 4px solid var(--clr-main);
@@ -175,15 +175,22 @@ main{
 
 
 /* FOOTER */
-/* 
+
 footer{
-    background-color: rgb(140, 140, 140);
-    height: 16rem;
-} */
+    background-color: rgb(185, 185, 185);
+    height: 16rem;    
+
+    display: none;
+}
+
+footer div{
+    border: 1px solid black;
+}
 
 .center-section {
     margin-inline: auto;
     width: 50vw;
+    /* padding: 1rem; */
 }
 
 @media (max-width: 1200px){

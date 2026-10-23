@@ -1,5 +1,5 @@
 ---
-title: "Thì hiện tại đơn\n(Present simple)
+title: "Hiện tại đơn\n(Present simple)
 description: " "
 authors: "Gia Bao"
 upload-date: "21/10/2026"
@@ -47,6 +47,8 @@ Thì _hiện tại đơn_ diễn tả:
     - danh từ số nhiều
 
     - danh từ riêng số nhiều
+
+    - đại từ bất định số nhiều
 
 - **be &rarr; is:** chủ ngữ ngôi thứ ba số ít
 
@@ -161,52 +163,53 @@ Trong đó:
 
 **Cụm từ chỉ tần suất và khoảng thời gian lặp lại**:
 
-- **every + [danh từ số ít chỉ thời gian**]: mỗi ...
+- **every + [danh từ số ít chỉ thời gian]:** mỗi ...
     - every day/week/month/year
     - every morning/evening
     - every Monday
 
-- **once/twice/three times + a + [danh từ chỉ thời gian]**: một lần/hai lần/ba lần mỗi ...
+- **once/twice/three times + a + [danh từ chỉ thời gian]:** một lần/hai lần/ba lần mỗi ...
     - once a day
     - twice a week
     - three times a month
 
-- **once/twice/three times + every + [khoảng thời gian]**:
+- **once/twice/three times + every + [khoảng thời gian]:**
     - twice every two weeks
 
-- **daily/weekly/monthly/yearly**: hằng ngày/hằng tuần/hằng tháng/hằng năm
+- **daily/weekly/monthly/yearly:** hằng ngày/hằng tuần/hằng tháng/hằng năm
 
 <br>
 
-**Cụm giới từ chỉ thời gian**:
+**Cụm giới từ chỉ thời gian:**
 
-- **at + [thời điểm cụ thể]**:
+- **at + [thời điểm cụ thể]:**
 
 - **at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak**
 
-- **at night / at midnight (prepP)**: vào ban đêm / vào đêm khuya
+- **at night / at midnight (prepP):** vào ban đêm / vào đêm khuya
 
 - **at weekends** _(Anh-Anh)_ / **on weekends** _(Anh-Mỹ)_ (prepP): vào cuối tuần
 
-- **on + [thứ trong tuần]**: vào thứ
+- **on + [thứ trong tuần]:** vào thứ
     - on Mondays
 
-- **on + [ngày]**: vào ngày 
+- **on + [ngày]:** vào ngày 
     - on 21 October
 
 - **on + [ngày lễ]**
     - on Christmas Day (còn được viết là _at Christmas_ trong tiếng Anh-Anh)
 
-- **in the morning/afternoon/evening**: vào buổi sáng/trưa/chiều
+- **in the morning/afternoon/evening** (prepP): vào buổi sáng/trưa/chiều
 
-- **in + [tháng]**
+- **in + [tháng]"**
     - in September
 
-- **in + [năm]**:
+- **in + [mùa]:**
+    - In most places in Vietnam, it doesn't snow in winter.
+
+- **in + [năm]:**
     - in 2026
 
-- **in + [mùa]**:
-    - In most places in Vietnam, it doesn't snow in winter.
 
 
 <!-- - **according to the schedule/timetable**: theo lịch trình/thời khóa biểu -->

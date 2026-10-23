@@ -5,6 +5,20 @@
 
 # TO-DO LIST
 
+fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
+maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present
+
+NEED IMPROVEMENT
+
+NEED CORRECTION:
+
+"**Yet** (adv): chưa / đã ... chưa" in present perfect
+
+add word class for prepP in present simple
+
+add more example in:
+- past simple
+
 \[
 S + V + (O/C/A)
 \]

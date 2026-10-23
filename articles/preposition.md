@@ -7,9 +7,7 @@ update-date: "17/10/2026"
 thumbnail: "./images/WIP_thumbnail.jpg"
 ---
 
-# GIỚI TỪ (PREPOSITION) VÀ CỤM GIỚI TỪ (PREPOSTION PHRASES)
-
-## I. ĐỊNH NGHĨA VỀ GIỚI TỪ
+# I. ĐỊNH NGHĨA VỀ GIỚI TỪ
 Giới từ (Preposition) là từ được dùng để liên kết các từ hoặc cụm từ (thường là danh từ hoặc đại từ) với các thành phần khác trong câu.
 
 Giới từ có thể biểu thị quan hệ về vị trí, thời gian, nguyên nhân, cách thức, sự sở hữu,.v.v.
@@ -18,48 +16,48 @@ Giới từ được chia thành hai loại bao gồm:
 - Giới từ đơn (Simple Prepositions): chỉ gồm một từ duy nhất. Ví dụ: in, on, at, by.
 - Giới từ phức (Complex Prepositions): gồm nhiều từ. Ví dụ: next to, in front of, because of.
 
-## II. CHỨC NĂNG CỦA GIỚI TỪ
+# II. CHỨC NĂNG CỦA GIỚI TỪ
 
-### 1. Làm trạng ngữ bổ nghĩa cho động từ
+## 1. Làm trạng ngữ bổ nghĩa cho động từ
 
 * They arrived **after** us.
 * I live **with** my parents.
 * We play video games ***for*** fun.
 
-### 2. Làm hậu phụ ngữ bổ nghĩa cho danh từ (Postmodifiers)
+## 2. Làm hậu phụ ngữ bổ nghĩa cho danh từ (Postmodifiers)
 
 * the book ***on the table***
 * the guy ***with*** glasses
 * a friend ***from*** Japan
 
-### 3. Bổ nghĩa cho tính từ
+## 3. Bổ nghĩa cho tính từ
 
 * good ***at*** Maths
 * specialized ***in*** linguistic
 * scared ***of*** the dark
 
-## III. PHÂN LOẠI GIỚI TỪ
+# III. PHÂN LOẠI GIỚI TỪ
 
-### 1. Giới từ chỉ nơi chốn
+## 1. Giới từ chỉ nơi chốn
 
-### 2. Giới từ chỉ thời gian
+## 2. Giới từ chỉ thời gian
 
-### 3. Giới từ chỉ vị trí
+## 3. Giới từ chỉ vị trí
 
-### 4. Giới từ chỉ sự chuyển động
+## 4. Giới từ chỉ sự chuyển động
 
-### 5. Giới từ chỉ phương tiện
+## 5. Giới từ chỉ phương tiện
 
-### 6. Giới từ chỉ công cụ
+## 6. Giới từ chỉ công cụ
 
-### 7. Giới từ chỉ mục đích
+## 7. Giới từ chỉ mục đích
 
-### 8. Giới từ chỉ nguyên nhân
+## 8. Giới từ chỉ nguyên nhân
 
-### 9. Giới từ chỉ sở hữu
+## 9. Giới từ chỉ sở hữu
 
 
-## III. DANH TỪ, ĐỘNG TỪ, TÍNH TỪ ĐƯỢC KẾT HỢP VỚI GIỚI TỪ
+# III. DANH TỪ, ĐỘNG TỪ, TÍNH TỪ ĐƯỢC KẾT HỢP VỚI GIỚI TỪ
 Giới từ không phải lúc nào cũng mang nghĩa của riêng nó. Trong rất nhiều trường hợp, giới từ đóng vai trò làm thành phần của một cụm từ cố định (collocation). 
 
 Ví dụ:
@@ -69,7 +67,7 @@ Ví dụ:
 
 Không có quy luật nào giúp chúng ta biết được giới từ nào sẽ dùng trong một cụm từ cố định cụ thể. Vì vậy, chúng ta buộc phải học thuộc các cụm một cách riêng lẻ.
 
-### 1. Động từ đi chung với giới từ
+## 1. Động từ đi chung với giới từ
 
 Nhiều động từ cần một giới từ để nối với tân ngữ. Với một số động từ, ta cần một hoặc một vài giới từ nhất định để nối nó với tân ngữ ở phía sau. Ví dụ:
 
@@ -85,7 +83,7 @@ Nội động từ (Intransitive Verbs) không thể có tân ngữ trực tiế
 Xét thêm song động từ và giới từ đi kèm. VD: apologize to someone for doing something, remind someone of someone/something
 
 
-### 2. Danh từ đi chung với giới từ
+## 2. Danh từ đi chung với giới từ
 
 Một số danh từ thường đi chung với một giới từ nhất định để liên kết với thành phần bổ nghĩa. Ví dụ:
 
@@ -94,7 +92,7 @@ Một số danh từ thường đi chung với một giới từ nhất định 
 * the solution ***to*** the problem
 * an interest ***in*** art
 
-### 3. Tính từ đi với giới từ
+## 3. Tính từ đi với giới từ
 
 Một số tính từ cần một giới từ để nối với phần bổ nghĩa. Ví dụ:
 
@@ -103,7 +101,7 @@ Một số tính từ cần một giới từ để nối với phần bổ ngh�
 * proud ***of*** yourself
 * famous ***for*** your talents
 
-### 4. Các lưu ý chung
+## 4. Các lưu ý chung
 
 Các động từ, danh từ, và tính từ tương tự như trên luôn đi kèm với một hoặc một số giới từ cố định. Chúng ta không được tự ý thay đổi các giới từ cố định đó thành giới từ khác.
 

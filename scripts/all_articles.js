@@ -1,6 +1,7 @@
 import { getJson, getComponent, isExistingPath } from "./main.js"
 
 const main = document.querySelector("main");
+const groupContainer = document.getElementById("GROUP-CONTAINER");
 
 const articlesJson = await getJson("./articles.json");
 
@@ -93,7 +94,7 @@ async function addGroup(group){
 
     }
 
-    main.appendChild(div);
+    groupContainer.appendChild(div);
 }
 
 for (const group of articlesJson){

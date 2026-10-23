@@ -3,7 +3,7 @@ title: "Hiện tại tiếp diễn\n(Present continuous)"
 description: ""
 authors: "Gia Bao"
 upload-date: "19/10/2026"
-update-date: "21/10/2026"
+update-date: "23/10/2026"
 ---
 
 # 1. TÁC DỤNG
@@ -12,7 +12,9 @@ Thì hiện tại hoàn thành diễn tả:
 
 - hành động đang diễn ra ở thời điểm hiện tại
 
-     -  
+     - We are having a chess game now.
+
+    - For the time being, he is finishing his project.
 
 - hành động tạm thời mà trái với thường lệ
 
@@ -27,6 +29,12 @@ Thì hiện tại hoàn thành diễn tả:
 
 Động từ chính trong thì hiện tại hoàn thành được chia ở dạng *phân từ hiện tại*, theo sau động từ *be* chia ở dạng hiện tại.
 
+<span>
+
+Để đưa động từ về dạng *phân từ hiện tại*, ta thêm đuôi _ing_ vào cuối động từ.
+
+</span>
+
 (+) S + be <sub>(hiện tại)</sub> + V<sub>(phân từ hiện tại)</sub>
 
 (-) S + be <sub>(hiện tại)</sub> not + V<sub>(phân từ hiện tại)</sub>
@@ -34,19 +42,61 @@ Thì hiện tại hoàn thành diễn tả:
 (?) Be <sub>(hiện tại)</sub> + S + V<sub>(phân từ hiện tại)</sub>
 
 
-
 # 3. MỘT VÀI DẤU HIỆU
 
-**Now** (adv): bây giờ
+**Trạng ngữ chỉ thời gian ở hiện tại**:
 
-**Right now** (adv): ngay bây giờ
+- **Now** (adv): bây giờ
 
-**At the present**
+- **Right now** (adv): ngay bây giờ
 
-**At the moment**
+- **Just now** (adv): ngay bây giờ
 
-**For the time being**
+- **At the present**: tại thời điểm bây giờ
 
-Kêu gọi sự chú ý (kèm dấu chấm thang): "Look!", "Listen!", "Pay attention!".
+- **At the moment**: tại khoảnh khắc này
 
-**Currently** (adv): 
+- **For the time being**: trong thời điểm hiện tại
+
+- **Currently** (adv): bây giờ
+
+
+**Kêu gọi sự chú ý (kèm dấu chấm thang):** _"Look!", "Listen!", "Pay attention!"_
+
+- Watch out! The car is running towards us.
+
+- Listen! Someone is playing the piano.
+
+
+**Trạng từ chỉ tần suất cao _(dùng khi diễn tả thói quen gây khó chịu)_**: _always, constantly, forever, over and over_
+
+# 4. BÀI TẬP
+
+## 4.1. Trắc nghiệm nhiều lựa chọn
+
+<quiz data-answers="DCA">
+
+1. I can't go now because I _____ my homework.
+    - A. do
+    - B. don't do
+    - C. did
+    - D. am doing
+
+2. Hurry up! Everyone _____ for you in the car.
+    - A. wait
+    - B. waits
+    - C. is waiting
+    - D. are waiting
+
+3. My sister _____ always _____ my clothes without asking
+    - A. is / borrowing  
+    - B. does / borrow  
+    - C. borrowed  
+    - D. borrows
+
+<details>
+  <summary><b>Đáp án</b></summary>
+  <p>1.D 2.C 3.A</p>
+</details>
+
+</quiz>

@@ -4,8 +4,9 @@
         "article-paths": 
         [
             "present_simple.md",
-            "present_continuous.md",
             "present_perfect.md",
+            
+            "past_simple.md",
             "past_perfect.md",
             "future_simple.md",
             "future_continuous.md"
@@ -17,7 +18,8 @@
         "article-paths":
         [
             "superlative.md",
-            "preposition.md"
+            "preposition.md",
+            "irregular_verbs_grouped_by_patterns.md"
         ]
     }
 ]

@@ -1,6 +1,11 @@
+body{
+    /* background-image: url("../images/pattern1.png"); */
+    background-position: center;
+}
 
 .center-section{
     margin-top: var(--space-mid);
+    background-color: var(--clr-bg);
 }
 
 .article-card{
