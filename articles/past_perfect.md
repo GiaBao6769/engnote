@@ -54,7 +54,7 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 
 **By** (prep): trước thời điểm
 
-- By 2015, 
+- I had finished high school by 2015.
 
 - By the weekend, I had finished the report.
 
