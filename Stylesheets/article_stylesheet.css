@@ -154,20 +154,28 @@ main > * {
 
 #CONTENT > h2, h3 {
     margin-top: var(--space-small);
-    font-size: var(--font-head2);
     padding-left: var(--head1-padding);
 }
 
-#CONTENT p{
+#CONTENT > h2 {
+    font-size: var(--font-head2);
+    border-bottom: 2px solid var(--clr-main);
+}
+
+#CONTENT > h3 {
+    font-size: var(--font-head3);
+}
+
+#CONTENT p {
     padding-left: var(--para-padding);
     padding-right: var(--para-padding);
 }
 
-#CONTENT > ul, ol{
+#CONTENT > ul, ol {
     padding-left: var(--list-padding);
 }
 
-#CONTENT ul ul{
+#CONTENT ul ul {
     padding-left: 2.5rem;
 }
 
