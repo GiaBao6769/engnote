@@ -7,7 +7,7 @@ update-date: "17/10/2026"
 thumbnail: "./images/superlative_thumbnail.png"
 ---
 
-![](./images/superlative_thumbnail.png)
+![](/images/superlative_thumbnail.png)
 
 <div class="center-div">
     <div id="CONTENT-SUMMARY">

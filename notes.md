@@ -5,10 +5,14 @@
 
 # TO-DO LIST
 
+- improve web performance
+
 fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
 maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present
 
-NEED IMPROVEMENT
+NEED IMPROVEMENT;
+
+- Create a standard way to store images
 
 NEED CORRECTION:
 

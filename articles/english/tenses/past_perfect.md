@@ -23,6 +23,8 @@ Thì _quá khứ hoàn thành_ diễn tả hành động, sự việc diễn ra 
 
 Động từ chính trong thì quá khứ hoàn thành được chia ở dạng _phân từ quá khứ_.
 
+[Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
+
 Trợ động từ trong thì quá khứ hoàn thành là "had", và được dùng trong cả ba dạng.
 
 <div class="center-div">
