@@ -1,6 +1,6 @@
 ---
 title: "Giới thiệu về từ loại"
-description: ""
+description: "(Bài viết đang được hoàn thiện)"
 authors: "Gia Bao"
 upload-date: "24/10/2026"
 update-date: "24/10/2026"

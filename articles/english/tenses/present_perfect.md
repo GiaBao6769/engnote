@@ -37,6 +37,12 @@ Thì *hiện tại hoàn thành* diễn tả:
 
 Động từ chính trong thì hiện tại hoàn thành được chia ở *phân từ quá khứ*. Trợ động từ là *have* được chia ở hiện tại dựa theo chủ ngữ trở thành _have_ hoặc _has_ và dùng trong cả ba dạng.
 
+Các động từ chia ở dạng _phân từ quá khứ_ được phân thành 2 nhóm và biến đổi theo cách khác nhau:
+
+- **động từ có quy tắc**: thêm đuôi _-ed_ vào cuối động từ
+- **động từ bất quy tắc**: biến đổi dựa theo bảng chia từ quá khứ
+
+
 [Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
 
 

@@ -69,6 +69,7 @@ Các tính ngoại lệ từ có dạng đặc biệt khi so sánh nhất bao g�
 Tính từ so sánh nhất về bản chất vẫn là tính từ. Vì vậy, tính từ so sánh nhất có thể được dùng để bổ nghĩa cho danh từ hoặc đứng sau động từ liên kết. Lưu ý, ta luôn cần mạo từ "the" đứng trước tính từ so sánh nhất vì đối tượng được so sánh luôn xác định, bất kể có danh từ phía sau hay không.
 
 **"the" + Adj (dạng so sánh nhất) + N**
+
 **S + be (chia theo thì) + "the" + Adj (dạng so sánh nhất) + (N)**
 
 với "N" là danh từ đối tượng đang được so sánh.
@@ -114,7 +115,7 @@ Trạng từ so sánh nhất có tác dụng tương tự một trạng từ th�
 - Mark runs the fastest in our school.
 - Linda speaks English the most fluenly in our class.
 
-
+<!-- 
 # NOTE (unformatted)
 - Khi muốn nói về thứ tự: ta thêm từ chỉ thứ từ (first, second, third) vào giữa "the" và tính từ hoặc trạng từ.
 
@@ -125,4 +126,4 @@ Trạng từ so sánh nhất có tác dụng tương tự một trạng từ th�
 - Các loại tính từ và trạng từ có thể đưa về dạng so sánh nhất (chỉ mức độ, trạng thái, cách thức, etc.)
 - có thể trực tiếp sử dụng trạng từ để modify tính từ so sánh hay không
 
-</div>
+</div> -->

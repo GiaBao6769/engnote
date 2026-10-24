@@ -23,6 +23,11 @@ Thì _quá khứ hoàn thành_ diễn tả hành động, sự việc diễn ra 
 
 Động từ chính trong thì quá khứ hoàn thành được chia ở dạng _phân từ quá khứ_.
 
+Các động từ chia ở dạng _phân từ quá khứ_ được phân thành 2 nhóm và biến đổi theo cách khác nhau:
+
+- **động từ có quy tắc**: thêm đuôi _-ed_ vào cuối động từ
+- **động từ bất quy tắc**: biến đổi dựa theo bảng chia từ quá khứ
+
 [Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
 
 Trợ động từ trong thì quá khứ hoàn thành là "had", và được dùng trong cả ba dạng.

@@ -21,9 +21,10 @@ Grouped by patterns -->
     </tr>
   </thead>
 
-  <tboday class="table-group-1">
+  <tbody class="table-group-1">
     <tr><td>be</td><td>was/were</td><td>been</td><td></td></tr>
   </tbody>
+  
   <tbody class="table-group-2">
     <tr><td>bet</td><td>bet</td><td>bet</td><td></td></tr>
     <tr><td>burst</td><td>burst</td><td>burst</td><td></td></tr>
@@ -42,6 +43,7 @@ Grouped by patterns -->
     <tr><td>split</td><td>split</td><td>split</td><td></td></tr>
     <tr><td>spread</td><td>spread</td><td>spread</td><td></td></tr>
   </tbody>
+
   <tbody class="table-group-1">
     <tr><td>come</td><td>came</td><td>come</td><td></td></tr>
     <tr><td>become</td><td>became</td><td>become</td><td></td></tr>

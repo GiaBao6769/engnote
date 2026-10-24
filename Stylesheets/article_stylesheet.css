@@ -219,9 +219,10 @@ table {
 }
 
 th, td{
-    padding: 0.4rem;
+    padding: var(--space-3);
     border-left: 1px solid black;
     border-right: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 th{
@@ -229,7 +230,12 @@ th{
 }
 
 .table-group-1{
-    background-color: rgb(228, 228, 228);
+    background-color: var(--clr-table-separate);
+}
+
+.table-group-1, .table-group-2{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 table{

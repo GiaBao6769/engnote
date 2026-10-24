@@ -29,11 +29,16 @@ Thì hiện tại hoàn thành diễn tả:
 
 Động từ chính trong thì hiện tại hoàn thành được chia ở dạng *phân từ hiện tại*, theo sau động từ *be* chia ở dạng hiện tại.
 
-<span>
+Để chia động từ thành dạng *phân từ hiện tại*, ta thêm đuôi _ing_ vào cuối động từ. Ví dụ:
 
-Để đưa động từ về dạng *phân từ hiện tại*, ta thêm đuôi _ing_ vào cuối động từ.
+- Go &rarr; going
+- See &rarr; seeing
+- Check &rarr; checking
+- leave &rarr; leaving
+- lie &rarr; lying
 
-</span>
+<!-- [cụ thể hơn về _phân từ hiện tại_]() -->
+
 
 (+) S + be <sub>(hiện tại)</sub> + V<sub>(phân từ hiện tại)</sub>
 
@@ -70,7 +75,7 @@ Thì hiện tại hoàn thành diễn tả:
 
 **Trạng từ chỉ tần suất cao _(dùng khi diễn tả thói quen gây khó chịu)_**: _always, constantly, forever, over and over_
 
-# 4. BÀI TẬP
+# 4. BÀI TẬP VẬN DỤNG
 
 ## 4.1. Trắc nghiệm nhiều lựa chọn
 

@@ -34,13 +34,13 @@ Thì _quá khứ đơn_ được dùng để diễn tả:
 
 Động từ _be_ được chia là _was_ với hoặc _were_ tùy theo chủ ngữ chính trong mệnh đề.
 
-| Be | was | were |
-|:--|:--|:--|
-| Chủ ngữ | Đại từ: I, he, she, it | You, we, they |
-| | Danh từ số ít | Danh từ số nhiều |
-| | Danh từ không đếm được | Danh từ riêng số nhiều |
-| | Danh từ riêng | Đại từ bất định số nhiều |
-| | Đại từ bất định số ít |  | 
+| Be        | was                       | were                      |
+|:--        |:--                        |:--                        |
+| Chủ ngữ   | Đại từ: I, he, she, it    | Đại từ: You, we, they     |
+|           | Danh từ số ít             | Danh từ số nhiều          |
+|           | Danh từ không đếm được    | Danh từ riêng số nhiều    |
+|           | Danh từ riêng số ít       | Đại từ bất định số nhiều  |
+|           | Đại từ bất định số ít     |                           | 
 
 <br>
 
@@ -171,3 +171,11 @@ Thì *\_quá khứ đơn\_* thường đi kèm với các trạng từ, cụm tr
 Các trạng từ tần suất trên không chỉ dùng với thì quá khứ đơn; cần dựa vào ngữ cảnh để xác định thời điểm của hành động.
 
 **Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _quá khứ đơn_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
+
+
+
+<!-- 
+
+there theo sau là số ít + was, ngược lại + were
+
+ -->

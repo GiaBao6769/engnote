@@ -5,10 +5,14 @@
 
 # TO-DO LIST
 
+- các thành phần trong câu: chủ ngữ, bổ ngữ, trạng ngữ
+
 - improve web performance
 
 fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
 maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present
+
+- các động từ không thể chia ở dạng _phân từ hiện tại_
 
 NEED IMPROVEMENT;
 

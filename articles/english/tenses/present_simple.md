@@ -30,6 +30,18 @@ Thì _hiện tại đơn_ diễn tả:
 
 Động từ trong thì hiện tại đơn được chia ở dạng *hiện tại*.
 
+
+|                   |               |                           |                           |
+|:--                |:--            |:--                        |:--                        |
+| **Động từ Be**    | am            | are                       | is                        |
+| **Động từ V**     | V             | V                         | V_s/-es                   |
+| **Trợ động từ**   | do            | do                        | does                      |
+| **Chủ ngữ**       | Đại từ: I     | Đại từ: You, we, they     | đại từ he, she, it        |
+|                   |               | Danh từ số nhiều          | Danh từ số ít             |
+|                   |               | Danh từ riêng số nhiều    | Danh từ không đếm được    |
+|                   |               | Đại từ bất định số nhiều  | Danh từ riêng số ít       |
+|                   |               | Đại từ bất định số ít     |                           | 
+
 ## 2.1. Cấu trúc đối với động từ _be_
 
 Động từ *be* được chia ở dạng hiện tại dựa vào các chủ ngữ sau đây:

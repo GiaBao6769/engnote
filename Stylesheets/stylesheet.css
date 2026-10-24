@@ -56,6 +56,8 @@ body.lightmode{
 
     --border: 4px solid var(--clr-main);
     --border-radius: var(--space-small);
+
+    --clr-table-separate: rgb(240, 240, 240);
 }
 
 body.darkmode{
@@ -73,6 +75,9 @@ body.darkmode{
 
     --border: 4px solid var(--clr-main);
     --border-radius: var(--space-small);
+
+    --clr-table-separate: rgb(60, 60, 60);
+
 }
 
 body{
