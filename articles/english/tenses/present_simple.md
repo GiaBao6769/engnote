@@ -34,9 +34,9 @@ Thì _hiện tại đơn_ diễn tả:
 |                   |               |                           |                           |
 |:--                |:--            |:--                        |:--                        |
 | **Động từ Be**    | am            | are                       | is                        |
-| **Động từ V**     | V             | V                         | V_s/-es                   |
+| **Động từ V**     | V             | V                         | V_ _-s/-es_               |
 | **Trợ động từ**   | do            | do                        | does                      |
-| **Chủ ngữ**       | Đại từ: I     | Đại từ: You, we, they     | đại từ he, she, it        |
+| **Chủ ngữ**       | Đại từ: I     | Đại từ: You, we, they     | Đại từ he, she, it        |
 |                   |               | Danh từ số nhiều          | Danh từ số ít             |
 |                   |               | Danh từ riêng số nhiều    | Danh từ không đếm được    |
 |                   |               | Đại từ bất định số nhiều  | Danh từ riêng số ít       |
@@ -241,6 +241,65 @@ Trong đó:
     - He doesn't usually eat breakfast.
 
 Trạng từ chỉ tần suất không phải dấu hiệu riêng của thì hiện tại đơn; chúng cũng có thể xuất hiện với các thì khác tùy theo ý nghĩa của câu.
+
+# 4. BÀI TẬP VẬN DỤNG
+
+<quiz data-answers="BADDBCAD">
+
+1. The Earth _____ the Sun.
+	- A. orbit
+	- B. orbits
+	- C. is orbiting
+	- D. orbited
+
+2. My parents _____ coffee every morning.
+	- A. drink
+	- B. drinks
+	- C. are drinking
+	- D. drank
+
+3. How often _____ your brother _____ video games?
+	- A. do / play
+	- B. does / plays
+	- C. is / playing
+	- D. does / play
+
+4. Water _____ at 100°C under standard atmospheric pressure.
+	- A. boil
+	- B. is boiling
+	- C. boiled
+	- D. boils
+
+5. My English teacher _____ us homework every Friday.
+	- A. give
+	- B. gives
+	- C. is giving
+	- D. giving
+
+6. They _____ live near the school, so they walk there every day.
+	- A. doesn't
+	- B. aren't
+	- C. don't
+	- D. didn't
+
+7. _____ your siblings usually _____ breakfast at home?
+	- A. Does / have
+	- B. Do / has
+	- C. Is / having
+	- D. Does / has
+
+8. The train to Da Nang _____ at 7 a.m. every day.
+	- A. leave
+	- B. is leaving
+	- C. left
+	- D. leaves
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. B  2. A  3. D  4. D  5. B  6. C  7. A  8. D</p>
+</details>
+
+</quiz>
 
 <!-- 
 

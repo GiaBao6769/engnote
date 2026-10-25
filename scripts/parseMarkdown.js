@@ -126,7 +126,7 @@ function renderMultipleChoices() {
                 input.type = "radio";
                 input.name = `quiz-${quizId}-q${questionId}`;
                 input.value = letter;
-                input.required = true;
+                // input.required = true;
 
                 const label = document.createElement("label");
                 label.classList.add("quiz-option");
@@ -147,10 +147,11 @@ function renderMultipleChoices() {
 
         const submitButton = document.createElement("button");
         submitButton.type = "submit";
-        submitButton.textContent = "Submit";
+        submitButton.textContent = "Nộp bài";
 
         const resetButton = document.createElement("button");
-        resetButton.textContent = "reset";
+        resetButton.type = "button"; 
+        resetButton.textContent = "Làm lại";
         resetButton.addEventListener("click", () => {
             form.reset();
 
@@ -165,6 +166,7 @@ function renderMultipleChoices() {
         resetButton.classList.add("formButton");
 
         form.addEventListener("submit", (event) => {
+            console.log("Received!");
             event.preventDefault();
             const questions = form.querySelectorAll("fieldset[data-correct]");
 
@@ -199,7 +201,7 @@ function renderMultipleChoices() {
 const params = new URLSearchParams(window.location.search);
 const path = params.get("p");
 await renderArticle(path).catch(console.error);
-// renderMultipleChoices();
+renderMultipleChoices();
 
 
 

@@ -172,7 +172,76 @@ Các trạng từ tần suất trên không chỉ dùng với thì quá khứ đ
 
 **Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _quá khứ đơn_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
 
+# 4. BÀI TẬP VẬN DỤNG
 
+## 4.1. Trắc nghiệm
+
+<quiz data-answers="CBDCBADCBC">
+
+1. Last weekend, we _____ our grandparents in the countryside.
+	- A. visit
+	- B. have visited
+	- C. visited
+	- D. are visiting
+
+2. She _____ to school yesterday because she was sick.
+	- A. doesn't go
+	- B. didn't go
+	- C. hasn't gone
+	- D. wasn't going
+
+3. _____ you _____ the football match last night?
+	- A. Do / watch
+	- B. Have / watched
+	- C. Were / watching
+	- D. Did / watch
+
+4. My father _____ a new car two months ago.
+	- A. buys
+	- B. has bought
+	- C. bought
+	- D. had bought
+
+5. While I was walking home, I _____ an old friend at the bus stop.
+	- A. meet
+	- B. met
+	- C. have met
+	- D. was meeting
+
+6. They _____ at the hotel during their trip to Da Lat last summer.
+	- A. stayed
+	- B. stay
+	- C. have stayed
+	- D. are staying
+
+7. The students _____ the classroom after the lesson ended.
+	- A. clean
+	- B. have cleaned
+	- C. are cleaning
+	- D. cleaned
+
+8. He _____ his homework last night, so he couldn't watch TV.
+	- A. doesn't finish
+	- B. hasn't finished
+	- C. didn't finish
+	- D. wasn't finishing
+
+9. When _____ you _____ your best friend?
+	- A. have / met
+	- B. did / meet
+	- C. do / meet
+	- D. were / meeting
+
+10. The children _____ excited when they saw the fireworks.
+	- A. are
+	- B. have been
+	- C. were
+	- D. had been
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. C  2. B  3. D  4. C  5. B  6. A  7. D  8. C  9. B  10. C</p>
+</details></quiz>
 
 <!-- 
 

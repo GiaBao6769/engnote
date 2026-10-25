@@ -3,13 +3,24 @@
     --para-padding: 2rem;
     --list-padding: 5rem;
 
-    --clr-correct: green;
-    --clr-incorrect: red;
+
 }
 
 body{
     /* background-image: url("../images/pattern1.png"); */
     background-position: center;
+}
+
+body.lightmode{
+    --clr-correct: rgb(155, 251, 155);
+    --clr-incorrect: rgb(231, 99, 99);
+    --clr-table-separate: rgb(240, 240, 240);
+}
+
+body.darkmode{
+    --clr-correct: rgb(25, 107, 25);
+    --clr-incorrect: rgb(141, 10, 10);
+    --clr-table-separate: rgb(60, 60, 60);
 }
 
 main{
@@ -304,7 +315,7 @@ quiz input[type="radio"] {
 }
 
 .quiz-form .quiz-option:has(input:checked){
-    background-color: lightblue;
+    background-color: var(--clr-main-light);
 }
 
 .optionLetter {

@@ -94,6 +94,70 @@ Một số cách diễn đạt một thời điểm hoặc khoảng thời gian 
 
 **Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _tương lai tiếp diễn_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
 
+# 4. BÀI TẬP VẬN DỤNG
+
+## 4.1. Trắc nghiệm
+
+<quiz data-answers="CBDABCDCB">
+
+1. This time tomorrow, I _____ to Singapore.
+	- A. fly
+	- B. will fly
+	- C. will be flying
+	- D. am flying
+
+2. At 8 p.m. tonight, we _____ dinner with our relatives.
+	- A. have
+	- B. will be having
+	- C. had
+	- D. are having
+
+3. Don't call me at noon. I _____ an important meeting then.
+	- A. will attend
+	- B. attended
+	- C. am attending
+	- D. will be attending
+
+4. This time next week, they _____ on the beach.
+	- A. will be relaxing
+	- B. relax
+	- C. relaxed
+	- D. have relaxed
+
+5. _____ you _____ at home this evening?
+	- A. Do / stay
+	- B. Will / be staying
+	- C. Are / staying
+	- D. Did / stay
+
+6. At 10 a.m. tomorrow, the students _____ their final examination.
+	- A. take
+	- B. will take
+	- C. will be taking
+	- D. took
+
+7. When you arrive, we _____ for you outside the station.
+	- A. waited
+	- B. wait
+	- C. have waited
+	- D. will be waiting
+
+8. At this time next month, my sister _____ at a university in London.
+	- A. studies
+	- B. studied
+	- C. will be studying
+	- D. has studied
+
+9. What _____ you _____ at this time tomorrow?
+	- A. do / do
+	- B. will / be doing
+	- C. are / doing
+	- D. did / do
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. C  2. B  3. D  4. A  5. B  6. C  7. D  8. C  9. B</p>
+</details></quiz>
 
 
 

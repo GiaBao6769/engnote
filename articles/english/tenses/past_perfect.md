@@ -111,3 +111,74 @@ Các từ được gợi ý dưới đây chỉ bao gồm từ loại và nghĩa
 
 
 **Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _quá khứ hoàn thành_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
+
+# 4. BÀI TẬP VẬN DỤNG
+
+## 4.1. Trắc nghiệm
+
+<quiz data-answers="BDACBADCBA">
+
+1. When I arrived at the station, the train _____.
+	- A. leaves
+	- B. had left
+	- C. has left
+	- D. was leaving
+
+2. She _____ dinner before her parents came home.
+	- A. prepared
+	- B. has prepared
+	- C. prepares
+	- D. had prepared
+
+3. By the time the teacher entered the classroom, the students _____ their homework.
+	- A. had finished
+	- B. finish
+	- C. have finished
+	- D. were finishing
+
+4. He couldn't get into his house because he _____ his keys.
+	- A. forgets
+	- B. has forgotten
+	- C. had forgotten
+	- D. was forgetting
+
+5. After they _____ the museum, they went to a nearby restaurant.
+	- A. visited
+	- B. had visited
+	- C. have visited
+	- D. visit
+
+6. I realized that I _____ my wallet at home.
+	- A. had left
+	- B. leave
+	- C. have left
+	- D. was leaving
+
+7. The film _____ by the time we got to the cinema.
+	- A. starts
+	- B. has started
+	- C. was starting
+	- D. had started
+
+8. She was nervous because she _____ on a plane before.
+	- A. never flew
+	- B. has never flown
+	- C. had never flown
+	- D. never flies
+
+9. _____ you _____ the report before the manager asked for it?
+	- A. Did / complete
+	- B. Had / completed
+	- C. Have / completed
+	- D. Were / completing
+
+10. The streets were wet because it _____ heavily during the night.
+	- A. had rained
+	- B. rains
+	- C. has rained
+	- D. was raining
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. B  2. D  3. A  4. C  5. B  6. A  7. D  8. C  9. B  10. A</p>
+</details></quiz>

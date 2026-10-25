@@ -7,7 +7,7 @@ update-date: "17/10/2026"
 thumbnail: "./images/future_simple_thumbnail.png"
 ---
 
-# I. TÁC DỤNG
+# 1. TÁC DỤNG
 
 Thì *tương lai đơn* được dùng để diễn tả:
 
@@ -41,7 +41,7 @@ Thì *tương lai đơn* được dùng để diễn tả:
     
     - After I get home, I will have a bath.
 
-# II. CẤU TRÚC
+# 2. CẤU TRÚC
 
 Thì tương lai đơn được xây dựng dựa trên modal verb *will*, vì vậy cấu trúc mệnh đề tương lai đơn tương tự như cấu trúc của modal verbs.
 
@@ -73,6 +73,77 @@ Trong đó:
 - will &rarr; 'll
 - will not &rarr; won't
 
+
+# 3. BÀI TẬP VẬN DỤNG
+
+## 3.1. Trắc nghiệm
+
+ <quiz data-answers="BCAACCADBC">
+
+1. I think it _____ sunny tomorrow.
+	- A. is
+	- B. will be
+	- C. was
+	- D. has been
+
+2. Don't worry! I _____ you with your homework.
+	- A. helped
+	- B. am helping
+	- C. will help
+	- D. help
+
+3. She _____ probably _____ the competition next month.
+	- A. will / win
+	- B. is / winning
+	- C. does / win
+	- D. has / won
+
+4. I promise I _____ anyone your secret.
+	- A. won't tell
+	- B. don't tell
+	- C. didn't tell
+	- D. am not telling
+
+5. _____ you _____ me carry these bags, please?
+	- A. Do / help
+	- B. Are / helping
+	- C. Will / help
+	- D. Did / help
+
+6. Perhaps our teacher _____ us a test next week.
+	- A. gives
+	- B. gave
+	- C. will give
+	- D. has given
+
+7. I think people _____ electric cars more often in the future.
+	- A. will use
+	- B. used
+	- C. are using
+	- D. have used
+
+8. The phone is ringing. I _____ it.
+	- A. answered
+	- B. answer
+	- C. am answering
+	- D. will answer
+
+9. If you study hard, you _____ the exam.
+	- A. passed
+	- B. will pass
+	- C. have passed
+	- D. are passing
+
+10. I'm sure he _____ the right decision.
+	- A. made
+	- B. makes
+	- C. will make
+	- D. has made
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. B  2. C  3. A  4. A  5. C  6. C  7. A  8. D  9. B  10. C</p>
+</details></quiz>
 
 # NOTES:
 

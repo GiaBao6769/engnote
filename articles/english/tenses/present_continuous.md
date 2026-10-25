@@ -4,15 +4,16 @@ description: ""
 authors: "Gia Bao"
 upload-date: "19/10/2026"
 update-date: "23/10/2026"
+thumbnail: "./images/present_continuous_thumbnail.png"
 ---
 
 # 1. TÁC DỤNG
 
 Thì hiện tại hoàn thành diễn tả:
 
-- hành động đang diễn ra ở thời điểm hiện tại
+- hành động, sự việc đang diễn ra ở thời điểm hiện tại
 
-     - We are having a chess game now.
+    - We are having a chess game now.
 
     - For the time being, he is finishing his project.
 
@@ -22,7 +23,7 @@ Thì hiện tại hoàn thành diễn tả:
 
 - thói quen gây khó chịu (thường đi kèm với *trạng từ* chỉ tầng suất cao)
 
-    - He's **always** talking loudly. It's annoying.
+    - He's *always* talking loudly. It's annoying.
 
 
 # 2. CẤU TRÚC
@@ -40,6 +41,11 @@ Thì hiện tại hoàn thành diễn tả:
 <!-- [cụ thể hơn về _phân từ hiện tại_]() -->
 
 
+
+<div class="center-div">
+
+<div class="text-box">
+
 (+) S + be <sub>(hiện tại)</sub> + V<sub>(phân từ hiện tại)</sub>
 
 (-) S + be <sub>(hiện tại)</sub> not + V<sub>(phân từ hiện tại)</sub>
@@ -47,39 +53,56 @@ Thì hiện tại hoàn thành diễn tả:
 (?) Be <sub>(hiện tại)</sub> + S + V<sub>(phân từ hiện tại)</sub>
 
 
+</div>
+
+</div>
+
 # 3. MỘT VÀI DẤU HIỆU
 
-**Trạng ngữ chỉ thời gian ở hiện tại**:
+**Trạng ngữ chỉ thời gian ở hiện tại**
 
 - **Now** (adv): bây giờ
 
 - **Right now** (adv): ngay bây giờ
 
-- **Just now** (adv): ngay bây giờ
+- **Just now** (adv): vừa mới đây
 
-- **At the present**: tại thời điểm bây giờ
+- **At present** (adv): hiện tại
+
+- **In the present**: tại thời điểm bây giờ
 
 - **At the moment**: tại khoảnh khắc này
 
-- **For the time being**: trong thời điểm hiện tại
+- **For the time being**: trong thời điểm hiện tại _(nhấn mạnh tình trạng tạm thời)_
 
 - **Currently** (adv): bây giờ
 
 
-**Kêu gọi sự chú ý (kèm dấu chấm thang):** _"Look!", "Listen!", "Pay attention!"_
+**Các từ và cụm từ kêu gọi sự chú ý** 
+_(thường xuất hiện trước câu để thu hút sự chú ý của người nghe, thường đi kèm dấu chấm thang)_
 
-- Watch out! The car is running towards us.
+- Watch out! The car is comming towards us.
 
 - Listen! Someone is playing the piano.
 
+- Pay attention! The teacher is explaining the lesson.
 
-**Trạng từ chỉ tần suất cao _(dùng khi diễn tả thói quen gây khó chịu)_**: _always, constantly, forever, over and over_
+**Trạng từ chỉ tần suất cao**
+_(được dùng khi diễn tả thói quen lặp đi lặp lại gây khó chịu)_
+
+- He is always complaining about his job.
+
+- She is constantly interrupting me.
+
+- They are forever arguing with each other.
+
+- You are making the same mistake over and over again.
 
 # 4. BÀI TẬP VẬN DỤNG
 
 ## 4.1. Trắc nghiệm nhiều lựa chọn
 
-<quiz data-answers="DCA">
+<quiz data-answers="DCAC">
 
 1. I can't go now because I _____ my homework.
     - A. do
@@ -99,9 +122,16 @@ Thì hiện tại hoàn thành diễn tả:
     - C. borrowed  
     - D. borrows
 
+4. It _____ in Hue these days.
+
+    - A. rained
+    - B. will rain
+    - C. is raning
+    - D. rain
+
 <details>
   <summary><b>Đáp án</b></summary>
-  <p>1.D 2.C 3.A</p>
+  <p>1.D 2.C 3.A 4. C</p>
 </details>
 
 </quiz>

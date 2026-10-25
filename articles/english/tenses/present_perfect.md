@@ -145,8 +145,81 @@ Trong đó:
 
 **Lưu ý:** Các cụm từ trên không nhất thiết bắt buộc đi với thì _hiện tại hoàn thành_. Việc lựa chọn thì phụ thuộc vào ý nghĩa và cách người nói nhìn nhận hành động. Các cách diễn đạt tương tự vẫn có thể được chấp nhận.
 
+# 4. BÀI TẬP VẬN DỤNG
+
+## 4.1. Trắc nghiệm
+
+ <quiz data-answers="CABDCAABDC">
+
+1. I _____ this book three times, so I know the story very well.
+	- A. read
+	- B. am reading
+	- C. have read
+	- D. had read
+
+2. She _____ her homework yet, so she cannot go out.
+	- A. hasn't finished
+	- B. didn't finish
+	- C. doesn't finish
+	- D. isn't finishing
+
+3. _____ you ever _____ a famous person?
+	- A. Did / meet
+	- B. Have / met
+	- C. Do / meet
+	- D. Are / meeting
+
+4. My brother _____ in this city since 2020.
+	- A. lived
+	- B. lives
+	- C. is living
+	- D. has lived
+
+5. We _____ each other for five years.
+	- A. know
+	- B. knew
+	- C. have known
+	- D. are knowing
+
+6. Tom isn't here. He _____ to the supermarket.
+	- A. has gone
+	- B. has been
+	- C. went
+	- D. goes
+
+7. They _____ just _____ the news about the competition.
+	- A. have / heard
+	- B. did / hear
+	- C. are / hearing
+	- D. has / heard
+
+8. My parents _____ never _____ abroad.
+	- A. did / travel
+	- B. have / traveled
+	- C. are / traveling
+	- D. has / traveled
+
+9. How long _____ your sister _____ at this school?
+	- A. does / study
+	- B. did / study
+	- C. is / studying
+	- D. has / studied
+
+10. I _____ my keys, so I can't open the door.
+	- A. lose
+	- B. lost
+	- C. have lost
+	- D. am losing
+
+<details>
+	<summary><b>Đáp án</b></summary>
+	<p>1. C  2. A  3. B  4. D  5. C  6. A  7. A  8. B  9. D  10. C</p>
+</details></quiz>
 
 
+<!-- 
+Expain the different between gone and been
+ -->
 
 
 
