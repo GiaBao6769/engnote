@@ -5,6 +5,10 @@
 
 # TO-DO LIST
 
+- change font
+
+- change the theme color for the thumbnails of past and future tenses
+
 - các thành phần trong câu: chủ ngữ, bổ ngữ, trạng ngữ
 
 - improve web performance

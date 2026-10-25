@@ -17,11 +17,11 @@ Thì hiện tại hoàn thành diễn tả:
 
     - For the time being, he is finishing his project.
 
-- hành động tạm thời mà trái với thường lệ
+- hành động tạm thời mà trái với thường lệ ở thời điểm hiện tại
 
     - I'm staying at my grandparents's home this week because my parents are absent during this time.
 
-- thói quen gây khó chịu (thường đi kèm với *trạng từ* chỉ tầng suất cao)
+- thói quen gây khó lặp đi lặp lại chịu ở thời điểm hiện tại (thường đi kèm với *trạng từ* chỉ tầng suất cao)
 
     - He's *always* talking loudly. It's annoying.
 
