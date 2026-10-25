@@ -111,4 +111,5 @@ function toggleMode(){
     else{
         setMode("lightmode");
     }
+    console.log("Mode changed")
 }

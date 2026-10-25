@@ -1,5 +1,5 @@
 #HERO{
-    background-color: lightblue;
+    background-color: var(--clr-main-light);
     display: flex;
     flex-direction: column;
     justify-content: center;
