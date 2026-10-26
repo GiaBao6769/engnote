@@ -21,7 +21,7 @@ Thì hiện tại hoàn thành diễn tả:
 
     - I'm staying at my grandparents's home this week because my parents are absent during this time.
 
-- thói quen gây khó lặp đi lặp lại chịu ở thời điểm hiện tại (thường đi kèm với *trạng từ* chỉ tầng suất cao)
+- thói quen gây khó chịu lặp đi lặp lại ở thời điểm hiện tại (thường đi kèm với *trạng từ* chỉ tầng suất cao)
 
     - He's *always* talking loudly. It's annoying.
 
