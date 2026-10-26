@@ -183,10 +183,10 @@ main{
 /* FOOTER */
 
 footer{
-    background-color: rgb(185, 185, 185);
-    height: 16rem;    
+    background-color: var(--clr-bg);
+    height: 5rem;    
 
-    display: none;
+    /* display: none; */
 }
 
 footer div{

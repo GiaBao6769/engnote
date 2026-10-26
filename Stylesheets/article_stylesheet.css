@@ -12,14 +12,17 @@ body{
 }
 
 body.lightmode{
-    --clr-correct: rgb(155, 251, 155);
+    --clr-correct: rgb(127, 238, 129);
     --clr-incorrect: rgb(231, 99, 99);
+    /* --clr-notchoose: rgb(146, 236, 121); */
     --clr-table-separate: rgb(240, 240, 240);
 }
 
 body.darkmode{
     --clr-correct: rgb(25, 107, 25);
     --clr-incorrect: rgb(141, 10, 10);
+    /* --clr-notchoose: rgb(141, 39, 172); */
+
     --clr-table-separate: rgb(60, 60, 60);
 }
 
@@ -318,6 +321,22 @@ quiz input[type="radio"] {
     background-color: var(--clr-main-light);
 }
 
+/* was not selected */
+
+.quiz-form .correctOption{
+    background-color: var(--clr-correct);
+
+}
+
+/* select the correct answer */
+.quiz-form .quiz-option:has(input:checked).correctOption{
+    background-color: var(--clr-correct);
+    font-weight: bold;
+}
+.quiz-form .quiz-option:has(input:checked).incorrectOption{
+    background-color: var(--clr-incorrect);
+}
+
 .optionLetter {
     /* width: 0.25rem;
     height: 4rem; */
@@ -333,13 +352,7 @@ quiz input[type="radio"] {
     flex-shrink: 0; */
 }
 
-.quiz-form .correctOption{
-    background-color: var(--clr-correct);
-}
 
-.quiz-form .incorrectOption{
-    background-color: var(--clr-incorrect);
-}
 
 .formButton{
     background-color: white;

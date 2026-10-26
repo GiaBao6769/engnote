@@ -152,8 +152,15 @@ function renderMultipleChoices() {
         const resetButton = document.createElement("button");
         resetButton.type = "button"; 
         resetButton.textContent = "Làm lại";
+
         resetButton.addEventListener("click", () => {
             form.reset();
+
+            form.querySelectorAll("fieldset[data-correct]")
+                .forEach((fieldset) => {
+                    fieldset.disabled = false;
+                });
+
 
             form.querySelectorAll(".correctOption, .incorrectOption")
                 .forEach(label => {
@@ -166,14 +173,17 @@ function renderMultipleChoices() {
         resetButton.classList.add("formButton");
 
         form.addEventListener("submit", (event) => {
-            console.log("Received!");
+            // console.log("Received!");
             event.preventDefault();
-            const questions = form.querySelectorAll("fieldset[data-correct]");
 
-            questions.forEach((question) => {
-                const correctAnswer = question.dataset.correct;
+            const fieldsets = form.querySelectorAll("fieldset[data-correct]");
 
-                const options = question.querySelectorAll('input[type="radio"]');
+            fieldsets.forEach((fieldset) => {
+                fieldset.disabled = true;
+
+                const correctAnswer = fieldset.dataset.correct;
+
+                const options = fieldset.querySelectorAll('input[type="radio"]');
 
                 options.forEach((input) => {
                     const label = input.closest("label");
@@ -188,7 +198,7 @@ function renderMultipleChoices() {
 
 
 
-            form.reset();
+            // form.reset();
 
         });
 

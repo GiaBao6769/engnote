@@ -4,6 +4,7 @@ description: "(Bài viết đang được hoàn thiện)"
 authors: "Gia Bao"
 upload-date: "24/10/2026"
 update-date: "24/10/2026"
+thumbnail: "./images/grammar_thumbnail.png"
 ---
 
 # I. GIỚI THIỆU VỀ TỪ LOẠI

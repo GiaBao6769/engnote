@@ -5,6 +5,8 @@
 
 # TO-DO LIST
 
+- add padding to h3
+
 - change font
 
 - change the theme color for the thumbnails of past and future tenses

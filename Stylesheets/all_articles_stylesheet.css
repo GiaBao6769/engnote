@@ -40,16 +40,35 @@ body{
     display: flex;
 }
 
-.article-card .card-info{
+.card-info{
     margin-left: var(--space-small);
 }
 .card-title{
     color: var(--clr-main);
-    font-size: 2rem;
+    font-size: 1.7rem;
+    /* line-height: 0.95; */
+
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+
+    border-bottom: 1px double var(--clr-main);
 }
 
 .card-desc{
     font-size: 1.2rem;
+    line-height: 1;
+
+    /* padding-top: var(--space-tiny); */
+    /* padding-top: var(--space-1); */
+
+
+    /* line-height: 1rem; */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
 }
 
 
