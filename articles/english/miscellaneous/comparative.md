@@ -1,5 +1,5 @@
 ---
-title: "So sánh hơn (Comparative)"
+title: "So sánh hơn\n(Comparative)"
 description: "Cấu trúc được sử dụng để so sánh sự hơn kém của hai đối tượng."
 authors: "Gia Bao"
 upload-date: 27/10/2026
