@@ -1,5 +1,5 @@
 ---
-title: "So sánh hơn (comparative)"
+title: "So sánh hơn (Comparative)"
 description: "Cấu trúc được sử dụng để so sánh sự hơn kém của hai đối tượng."
 authors: "Gia Bao"
 upload-date: 27/10/2026
@@ -7,7 +7,7 @@ update-date: 27/10/2026
 thumbnail: "./images/comparative_thumbnail.png"
 ---
 
-![](/images/comparative_thumbnail.png)
+![](./images/comparative_thumbnail.png)
 
 # 1. GIỚI THIỆU VỀ SO SÁNH HƠN
 
@@ -95,7 +95,7 @@ Ngoài ra, để so sánh trực tiếp hai đối tượng, ta sử dụng _tha
 
 ## 3.1. Dạng so sánh hơn của trạng từ
 
-Trong cấu trúc so sánh hơn của trạng từ, giống như tính từ, ta cũng chia trạng từ thành hai loại là _trạng từ ngắn_ và _trạng từ dài_.
+Trong cấu trúc so sánh hơn của trạng từ, giống như tính từ, ta cũng chia trạng từ thành hai loại là _trạng từ ngắn (short adverbs)_ và _trạng từ dài (long adverbs)_.
 	
 Trạng từ ngắn là các trạng từ có một âm tiết. Ví dụ: _fast, hard, soon, late_.
 	
