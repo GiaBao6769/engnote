@@ -33,8 +33,8 @@ Thì _hiện tại đơn_ diễn tả:
 
 |                   |               |                           |                           |
 |:--                |:--            |:--                        |:--                        |
-| **Động từ Be**    | am            | are                       | is                        |
-| **Động từ V**     | V             | V                         | V_ _-s/-es_               |
+| **Động từ Be**    | **am**        | **are**                   | **is**                    |
+| **Động từ V**     | **V**         |**V**                      | **V_ _-s/-es_**           |
 | **Trợ động từ**   | do            | do                        | does                      |
 | **Chủ ngữ**       | Đại từ: I     | Đại từ: You, we, they     | Đại từ he, she, it        |
 |                   |               | Danh từ số nhiều          | Danh từ số ít             |

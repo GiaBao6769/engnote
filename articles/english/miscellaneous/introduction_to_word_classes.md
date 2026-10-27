@@ -116,6 +116,25 @@ _Động từ nối_ là động từ dùng để nối chủ ngữ với bổ n
 
 _Tính từ_ là từ dùng để miêu tả hoặc bổ nghĩa cho một _danh từ_ hoặc _đại từ_.
 
+Nếu các tính từ đứng trước một danh từ để bổ nghĩa, chúng thường được sắp xếp theo thứ tự chức năng sau:
+
+| Chức năng                     | Ví dụ                         |
+| :--                           | :--                           |
+| **opinion _(quan điểm)_**     | beautiful, good               |
+| **size _(kích thước)_**       | small, large, tiny, large     |
+| **age _(tuổi)_**              | old, new                      |
+| **shape _(hình dạng)_**       | round, circular               |
+| **color _(màu sắc)_**         | yellow, black, cyan, scarlet  |
+| **origin _(nguồn gốc)_**      | American, Italian, Vietnamese |
+| **material _(nguyên liệu)_**  | wooden, leather               |
+| **purpose _(mục đích)_**      | sports, washing, cooking      |
+
+Ví dụ:
+
+- a delicious Japanese dish
+- a black leather jacket
+- a large old washing machine
+
 ## 4. Trạng từ (adverbs)
 
 Trạng từ là từ dùng để bổ nghĩa cho động từ, tính từ, trạng từ khác, hoặc cả câu.

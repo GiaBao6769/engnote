@@ -5,6 +5,8 @@
 
 # TO-DO LIST
 
+- các động từ chung gốc thường chia giống nhau trong bảng chia từ
+
 - add padding to h3
 
 - change font
