@@ -73,12 +73,12 @@ async function renderArticle(mdPath){
     const [metadata, content] = await processMd(mdPath);
 
     // console.log(metadata);
-    document.title = metadata["title"];
-    title.innerText = metadata["title"];
-    uploadDate.innerText = metadata["upload-date"];
-    updateDate.innerText = metadata["update-date"];
+    document.title = metadata["title"] ?? "N/A";
+    title.innerText = metadata["title"] ?? "N/A";
+    uploadDate.innerText = metadata["upload-date"] ?? "N/A";
+    updateDate.innerText = metadata["update-date"] ?? "N/A";
 
-    const authorsText = metadata["authors"];
+    const authorsText = metadata["authors"] ?? "N/A";
 
     for (const author of authorsText.split(",")){
         const li = document.createElement("li");
@@ -92,6 +92,8 @@ async function renderArticle(mdPath){
 
 function renderMultipleChoices() {
     const quizBlocks = contentSection.querySelectorAll("quiz");
+
+    if (quizBlocks === null) return;
 
     quizBlocks.forEach((quiz, quizId) => {
         const form = document.createElement("form");

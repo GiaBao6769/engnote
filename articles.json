@@ -24,5 +24,13 @@
             "english/miscellaneous/preposition.md",
             "english/miscellaneous/irregular_verbs_grouped_by_patterns.md"
         ]
+    },
+
+    {
+        "name":"Từ vựng (vocabulary)",
+        "article-paths":
+        [
+            "english/vocabulary/school.md"
+        ]
     }
 ]
