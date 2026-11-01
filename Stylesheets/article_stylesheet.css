@@ -162,6 +162,8 @@ main > * {
     font-weight: bold;
     margin-bottom: var(--space-small); 
     color: var(--clr-main);
+
+    padding-top: var(--space-1);
 }
 
 

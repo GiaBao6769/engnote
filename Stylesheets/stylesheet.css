@@ -43,6 +43,7 @@
 
 body.lightmode{
     --clr-font: black;
+    --clr-font-70: rgba(0, 0, 0, 0.773);
     --clr-bg: white;
 
     --clr-nav: rgb(255, 255, 253);
@@ -61,8 +62,9 @@ body.lightmode{
 }
 
 body.darkmode{
-    --clr-font: rgb(209, 208, 208);
-    --clr-bg: rgb(42, 42, 42);
+    --clr-font: rgb(222, 222, 222);
+    --clr-font-70: rgba(214, 211, 211, 0.708);
+    --clr-bg: rgb(36, 36, 36);
 
     --clr-nav: rgb(40, 39, 39);
     --clr-shadow: rgb(6, 11, 24);
@@ -85,6 +87,9 @@ body{
     color: var(--clr-font);
 }
 
+*{
+    font-family: "Times New Roman", Times, serif;
+}
 
 
 #BANNER{
@@ -196,7 +201,6 @@ footer div{
 .center-section {
     margin-inline: auto;
     width: 50vw;
-    /* padding: 1rem; */
 }
 
 @media (max-width: 1200px){
@@ -208,7 +212,6 @@ footer div{
 @media (max-width: 1000px){
     .center-section{
         width: 75vw;
-        /* background-color: red; */
     }
 }
 

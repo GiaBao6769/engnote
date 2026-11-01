@@ -1,5 +1,5 @@
 ---
-title: "Từ vựng về trường học"
+title: "Từ vựng về Học tập"
 authors: "Gia Bao"
 upload-date: "30/10/2026"
 update-date: "30/10/2026"
@@ -303,12 +303,14 @@ update-date: "30/10/2026"
 
 **enroll _[US]_ | enrol _[UK]_** (v/I): đăng ký tham gia (một khóa học hoặc chương trình học)
 
-- enroll at + [trường học, tổ chức giáo dục]
+- enroll at + [trường học, tổ chức giáo dục cụ thể]
     - enroll at a community college
+    - enroll at the University of Science and Technology
 
-- enroll in/on  + [khóa học, môn học]
+- enroll in/on  + [chương trình học, khóa học, môn học]
     - enroll in an online course
     - enroll on a management course
+    - enroll in kindergarten
 
 - enroll for + [sự kiện, bài thi]
     - enroll for the language test
@@ -316,6 +318,12 @@ update-date: "30/10/2026"
 
 
 ## 7. School Rules and Discipline
+
+**bully** (v/T): bắt nạt
+
+**bullying** (n/U): hành vi bắt nạt
+
+**plagiarism** (n/U): hành vi đạo văn
 
 **school rules** (np/n/C): nội quy trường học
 
@@ -352,12 +360,6 @@ update-date: "30/10/2026"
 **break the rules** (v/T): vi phạm nội quy
 
 **cheat in an exam** (v/I): gian lận trong kỳ thi
-
-**bully** (v/T): bắt nạt
-
-**bullying** (n/U): hành vi bắt nạt
-
-**plagiarism** (n/U): hành vi đạo văn
 
 ## 8. Exams and Academic Performance
 
@@ -504,19 +506,23 @@ update-date: "30/10/2026"
 
 **have access to education** (v/T): có cơ hội tiếp cận giáo dục
 
-**meet academic requirements** (v/T): đáp ứng yêu cầu học tập
+**meet a requirement** (v/T): đáp ứng một yêu cầu
+- **meet academic requirements** (v/T): đáp ứng yêu cầu học tập
 
 **meet a deadline** (v/T): hoàn thành đúng thời hạn
 
 **fall behind in one's studies** (v/I): tụt hậu trong việc học
 
-**keep up with lessons** (v/T): theo kịp bài học
+**keep up** (pv/I): bắt kịp
+- **keep up with lessons** (v/T): theo kịp bài học
 
-**concentrate on one's studies** (v/I): tập trung vào việc học
+**concentrate** (v/I): tập trung
+- **concentrate on one's studies** (v/I): tập trung vào việc học
 
 **struggle with a subject** (v/I): gặp khó khăn với một môn học
 
 **be good at a subject** (v/I): giỏi một môn học
+<!-- **be excel at/in** [\] -->
 
 **be under pressure** (v/I): chịu áp lực
 
@@ -524,6 +530,92 @@ update-date: "30/10/2026"
 
 
 # BÀI TẬP VẬN DỤNG
+
+## 1. Trắc nghiệm
+<!-- 
+### 1.1. 
+
+1. Reading books and exploring different subjects can help students _____.
+
+A. acquire knowledge　 B. make progress　 C. meet requirements　 D. gain experience
+
+2. Travelling to different countries can help people _____ about other cultures.
+
+A. develop skills　 B. broaden their knowledge　 C. achieve good results　 D. receive an education
+
+3. Working part-time while studying allows university students to _____ in a professional environment.
+
+A. make progress　 B. acquire knowledge　 C. gain experience　 D. meet a deadline
+
+4. Taking part in group projects can help students _____ such as communication and teamwork.
+
+A. academic requirements　 B. good results　 C. higher education　 D. develop skills
+
+5. Students should review their lessons regularly to _____.
+
+A. improve academic performance　 B. provide education　 C. gain experience　 D. meet a deadline
+
+6. With enough preparation and hard work, students can _____ in their final examinations.
+
+A. make progress　 B. achieve good results　 C. acquire knowledge　 D. receive an education
+
+7. Although learning a new language takes time, regular practice helps learners _____.
+
+A. meet academic requirements　 B. take responsibility　 C. make progress　 D. provide education
+
+8. After finishing high school, many students choose to _____ at a university.
+
+A. receive an education　 B. have access to education　 C. meet academic requirements　 D. pursue higher education
+
+9. The government should invest more money in schools to _____ for children in rural areas.
+
+A. provide education　 B. gain experience　 C. make progress　 D. meet a deadline
+
+10. Every child should have the opportunity to _____, regardless of their family background.
+
+A. achieve good results　 B. have access to education　 C. develop skills　 D. improve academic performance
+
+11. Students must _____ before they can graduate from the university.
+
+A. broaden their knowledge　 B. gain experience　 C. meet academic requirements　 D. keep up with lessons
+
+12. We have to _____ and submit our assignments before Friday.
+
+A. make progress　 B. acquire knowledge　 C. pursue higher education　 D. meet a deadline
+
+13. Students who miss too many classes may _____.
+
+A. fall behind in their studies　 B. achieve good results　 C. develop skills　 D. receive an education
+
+14. It is important to _____ so that you do not miss any important information.
+
+A. struggle with a subject　 B. keep up with lessons　 C. provide education　 D. gain experience
+
+15. Students should _____ when studying for important examinations.
+
+A. meet academic requirements　 B. have access to education　 C. concentrate on their studies　 D. broaden their knowledge
+
+16. Some students _____ because they find mathematics particularly difficult.
+
+A. make progress　 B. achieve good results　 C. acquire knowledge　 D. struggle with a subject
+
+17. My sister _____ biology because she understands its concepts easily.
+
+A. is good at　 B. is under pressure　 C. falls behind in　 D. takes responsibility for
+
+18. Many students _____ before important examinations because they want to achieve high scores.
+
+A. gain experience　 B. are under pressure　 C. provide education　 D. make progress
+
+19. Students should _____ instead of depending entirely on their teachers.
+
+A. meet a deadline　 B. receive an education　 C. take responsibility for their learning　 D. improve academic performance
+
+20. Schools should encourage students to _____ through reading, research, and practical activities.
+
+A. fail an exam　 B. meet a deadline　 C. fall behind in their studies　 D. acquire knowledge 
+
+### 1.2.-->
 
 <quiz data-answers="CADBACBDACBDACBDACBDACBDACBDAC">
 
@@ -735,3 +827,251 @@ update-date: "30/10/2026"
     - D. pursue higher education
 
 </quiz>
+
+<!-- 
+## 2. Fill the gaps with the correct words provided in the box. You can only use each word once.
+
+<fill-quiz>
+
+<box> 
+
+- obey the rules
+- kindergarten
+- enroll in
+- classmate
+- keep up with the lesson
+- make progress
+- canteen
+- fail an exam
+
+</box>
+
+1. Students can _______ in English by practising regularly.
+
+2. All students must ________ of their school.
+
+3. My younger brother will ________ kindergarten next year.
+
+4. If you don't study hard, you may ________.
+
+5. We usually have lunch at the school ________.
+
+6. She studies hard every day to ________.
+
+7. My ________ often helps me with difficult exercises.
+
+8. Children usually start attending ________ at the age of three or four.
+
+<details>
+
+<summary><b>Đáp án</b></summary>
+
+1. make progress
+2. obey the rules
+3. enroll in
+4. fail an exam
+5. canteen
+6. keep up with the lesson
+7. classmate
+8. kindergarten
+
+
+</details>
+
+
+
+<fill-quiz>
+
+
+
+
+
+## 3. Completes sentences with the given clues
+
+1. Barack Obama / graduate from / Harvard Law School / 1991.
+
+2. My sister / enroll in / a university / next September.
+
+3. Students / have to / obey / school rules.
+
+4. Tom / make progress / in / English / recently.
+
+5. Our school / provide / students / modern learning facilities.
+
+6. Many children / start / attend / kindergarten / at the age of five.
+
+7. Lisa / fail / her mathematics exam / last week.
+
+8. We / usually / have lunch / the school canteen.
+
+9. My classmates / help / me / keep up / the lessons.
+
+10. The teacher / encourage / students / take responsibility for / their learning.
+
+11. Students / need / develop / their communication skills / through group activities.
+
+12. He / be good at / Physics / but / struggle with / Chemistry.
+
+13. Our school / organize / a sports competition / every year.
+
+14. She / receive / a scholarship / because / achieve / excellent academic results.
+
+15. Students / should / concentrate on / their studies / during lessons.
+
+16. My brother / pursue / higher education / after / graduate from / high school.
+
+17. The school library / provide / a quiet place / for students / study.
+
+18. Some students / fall behind in / their studies / because / miss / too many classes.
+
+19. We / have to / submit / our assignments / before / the deadline.
+
+20. Teachers / play / an important role / in / provide / education / to young people.
+
+<details>
+
+<summary><b>Đáp án</b><summary>
+
+1. Barack Obama graduated from Harvard Law School in 1991.
+
+2. My sister will enroll in a university next September.
+
+3. Students have to obey school rules.
+
+4. Tom has made progress in English recently.
+
+5. Our school provides students with modern learning facilities.
+
+6. Many children start attending kindergarten at the age of five.
+
+7. Lisa failed her mathematics exam last week.
+
+8. We usually have lunch at the school canteen.
+
+9. My classmates help me keep up with the lessons.
+
+10. The teacher encourages students to take responsibility for their learning.
+
+11. Students need to develop their communication skills through group activities.
+
+12. He is good at Physics but struggles with Chemistry.
+
+13. Our school organizes a sports competition every year.
+
+14. She received a scholarship because she achieved excellent academic results.
+
+15. Students should concentrate on their studies during lessons.
+
+16. My brother pursued higher education after graduating from high school.
+
+17. The school library provides a quiet place for students to study.
+
+18. Some students fall behind in their studies because they miss too many classes.
+
+19. We have to submit our assignments before the deadline.
+
+20. Teachers play an important role in providing education to young people.
+
+</details>
+
+
+## 4.
+
+1. All students must follow the rules of their school. (OBEY)
+
+2. She is improving in English every day. (PROGRESS)
+
+3. He finds it difficult to understand Physics. (STRUGGLES)
+
+4. Our school gives students access to modern learning facilities. (PROVIDES)
+
+5. Students should be responsible for their own learning. (RESPONSIBILITY)
+
+6. My brother started attending kindergarten when he was five. (ENROLLED)
+
+7. Lan is very good at Mathematics. (EXCELS)
+
+8. You should finish your assignment before the final date. (DEADLINE)
+
+9. He cannot study at the same pace as his classmates because he missed several lessons. (BEHIND)
+
+10. Regular practice helps students improve their abilities. (DEVELOP)
+
+11. She studies hard because she wants to get excellent academic results. (ACHIEVE)
+
+12. Students can learn a lot of new things through reading. (ACQUIRE)
+
+13. My sister wants to continue her education at university. (PURSUE)
+
+14. The school offers free education to children in the area. (PROVIDES)
+
+15. Many students feel stressed because of their upcoming examinations. (PRESSURE)
+
+16. It is important for students to pay attention to their lessons. (CONCENTRATE)
+
+17. He has difficulty keeping pace with the lessons. (KEEP)
+
+18. The teacher encouraged us to learn from our own experiences. (GAIN)
+
+19. Students who study regularly usually get better results. (PERFORMANCE)
+
+20. She did not pass the final examination last semester. (FAILED)
+
+21. The school has a large room where students can read books and study. (LIBRARY)
+
+22. We usually eat lunch in the place where food is served at school. (CANTEEN)
+
+23. Students must have the necessary qualifications to enter the university. (REQUIREMENTS)
+
+24. The school organized an event to help students improve their practical abilities. (SKILLS)
+
+25. My classmates and I work together to complete difficult assignments. (GROUP)
+
+26. Students who miss too many lessons may have difficulty understanding new topics. (FALL)
+
+27. The school provides students with opportunities to learn outside the classroom. (ACTIVITIES)
+
+28. Teachers help students understand the importance of education. (ROLE)
+
+29. She has learned a lot since she started working at the school. (EXPERIENCE)
+
+30. Every student should be given the opportunity to receive an education. (ACCESS)
+
+<details>
+
+1. All students must obey their school rules.
+2. She is making progress in English every day.
+3. He struggles to understand Physics.
+4. Our school provides students with access to modern learning facilities.
+5. Students should take responsibility for their own learning.
+6. My brother enrolled in kindergarten when he was five.
+7. Lan excels at Mathematics.
+8. You should meet the deadline for submitting your assignment.
+9. He is falling behind his classmates because he missed several lessons.
+10. Regular practice helps students develop their abilities.
+11. She studies hard because she wants to achieve excellent academic results.
+12. Students can acquire a lot of new knowledge through reading.
+13. My sister wants to pursue higher education at university.
+14. The school provides children in the area with free education.
+15. Many students are under pressure because of their upcoming examinations.
+16. It is important for students to concentrate on their lessons.
+17. He cannot keep up with the lessons.
+18. The teacher encouraged us to gain experience from our own activities.
+19. Regular study usually leads to improved academic performance.
+20. She failed the final examination last semester.
+21. The school has a large library where students can read books and study.
+22. We usually eat lunch in the school canteen.
+23. Students must meet the academic requirements to enter the university.
+24. The school organized an event to help students develop practical skills.
+25. My classmates and I work together to complete difficult assignments as a group.
+26. Students who miss too many lessons may fall behind in their studies.
+27. The school provides students with opportunities to participate in extracurricular activities.
+28. Teachers play an important role in helping students understand the importance of education.
+29. She has gained a lot of experience since she started working at the school.
+30. Every student should have access to education.
+
+<details>
+ -->
+
+
+<!-- Subjective exams - fall under the pressure-->

@@ -8,6 +8,9 @@ body{
     background-color: var(--clr-bg);
 }
 
+
+/*########## CARDS ##########*/
+
 .article-card{
     height: var(--space-big);
     /* border: var(--border); */
@@ -41,6 +44,8 @@ body{
 }
 
 .card-info{
+    margin-top: var(--space-tiny);
+
     margin-left: var(--space-small);
 }
 .card-title{
@@ -53,14 +58,17 @@ body{
     -webkit-line-clamp: 2;
     overflow: hidden;
 
-    border-bottom: 1px double var(--clr-main);
+    /* border-bottom: 1px solid var(--clr-main); */
 }
 
 .card-desc{
     font-size: 1.2rem;
-    line-height: 1;
+    color: var(--clr-font-70);
 
-    /* padding-top: var(--space-tiny); */
+    /* background-color: red; */
+
+    margin-top: var(--space-tiny);
+    font-family: sans-serif;
     /* padding-top: var(--space-1); */
 
 
