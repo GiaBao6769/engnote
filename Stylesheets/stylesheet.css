@@ -231,8 +231,8 @@ footer div{
     }
 
     .center-section{
-        width: 95vw;
+        width: 90vw;
         /* padding-left: var(--space-small); */
-        padding-right:var(--space-small);
+        /* padding-right:var(--space-small); */
     }
 }
