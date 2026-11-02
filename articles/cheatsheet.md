@@ -188,7 +188,7 @@ __Phần lãnh thổ phía Nam__
 
 - __Cảnh quan thiên nhiên:__ rừng cận xích đạo gió mùa; rừng ngập mặn, rừng tràm (đồng bằng sông Cửu Long)
 
-- __Sinh vật: __
+- __Sinh vật:__
     - thực vật: rừng có nhiều loài cây chịu hạn, rụng lá vào mùa khô (cây họ Dầu); rừng thưa nhiệt đới khô (rừng khộp) ở Tây Nguyên
     - động vật: 
         - các loài thú lớn như voi, hổ, báo, bò rừng,...
