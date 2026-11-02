@@ -1,6 +1,6 @@
 ---
 title: "Lý thuyết Tin học\nSách giáo khoa"
-authors: "Gia Bao, Nguyễn Thị Bích Ngọc"
+authors: "Gia Bao, Võ Bích Ngọc"
 upload-date: "01/11/2026"
 update-date: "01/11/2026"
 ---

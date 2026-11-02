@@ -3,11 +3,19 @@
     margin: 0;
     padding: 0;
 
-    font-family: 'Tinos';
 }
 
-:root{
 
+body * {
+    @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+    font-family: "Tinos", serif;
+
+}
+
+
+
+
+:root{
     --clr-text: black;
     --clr-background: white;
 
