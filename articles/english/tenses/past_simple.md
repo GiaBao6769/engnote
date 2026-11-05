@@ -34,7 +34,7 @@ Thì _quá khứ đơn_ được dùng để diễn tả:
 
 Động từ _be_ được chia là _was_ với hoặc _were_ tùy theo chủ ngữ chính trong mệnh đề.
 
-| Be        | was                       | were                      |
+| Be        | Was                       | Were                      |
 |:--        |:--                        |:--                        |
 | Chủ ngữ   | Đại từ: I, he, she, it    | Đại từ: You, we, they     |
 |           | Danh từ số ít             | Danh từ số nhiều          |

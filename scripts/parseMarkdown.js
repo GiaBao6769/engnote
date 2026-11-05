@@ -6,6 +6,7 @@ const uploadDate = document.getElementById("UPLOAD-DATE");
 const updateDate = document.getElementById("UPDATE-DATE");
 const contentSection = document.getElementById("CONTENT");
 const authors = document.getElementById("AUTHORS");
+const desc = document.getElementById("DESC");
 
 
 // rename to a better name
@@ -21,7 +22,8 @@ async function processMd(mdPath){
     const match = md.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
 
     if (!match) {
-        throw new Error("Metadata not found");
+        console.error("Metadata not found");
+        return [{}, md];
     }
 
     const metadataText = match[1];
@@ -68,6 +70,8 @@ renderer.listitem = function (token) {
     return `<li>${content}</li>\n`;
 };
 
+
+
 async function renderArticle(mdPath){
 
     const [metadata, content] = await processMd(mdPath);
@@ -78,11 +82,17 @@ async function renderArticle(mdPath){
     uploadDate.innerText = metadata["upload-date"] ?? "N/A";
     updateDate.innerText = metadata["update-date"] ?? "N/A";
 
+    // if (metadata["description"]){
+    //     desc.innerText = metadata["description"];
+    //     desc.classList.remove("hidden");
+    // }
+
+
     const authorsText = metadata["authors"] ?? "N/A";
 
     for (const author of authorsText.split(",")){
         const li = document.createElement("li");
-        li.textContent = author.trim();
+        li.innerHTML = marked.parseInline(author.trim());
         authors.appendChild(li);
     }
 

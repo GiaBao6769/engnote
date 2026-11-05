@@ -1,6 +1,6 @@
 ---
 title: "Hiện tại đơn\n(Present simple)
-description: " "
+description: ""
 authors: "Gia Bao"
 upload-date: "21/10/2026"
 update-date: "21/10/2026"

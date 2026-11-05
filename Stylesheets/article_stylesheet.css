@@ -242,7 +242,12 @@ table {
   border: 1px solid;
 }
 
-th, td{
+th{
+    border: 2px solid black;
+    padding: var(--space-3);
+}
+
+td{
     padding: var(--space-3);
     border-left: 1px solid black;
     border-right: 1px solid black;
