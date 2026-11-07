@@ -4,7 +4,7 @@ description: ""
 authors: Gia Bao
 upload-date: "19/10/2026"
 update-date: "24/10/2026"
-thumbnail: "./images/present_perfect_thumbnail.png"
+thumbnail: "./images/english_tenses/present_perfect_thumbnail.png"
 ---
 
 # 1. TÁC DỤNG

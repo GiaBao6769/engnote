@@ -3,6 +3,7 @@ title: "Từ vựng về Học tập"
 authors: "Gia Bao"
 upload-date: "30/10/2026"
 update-date: "30/10/2026"
+thumbnail: "./images/vocabulary_thumbnail.png"
 ---
 
 # I. PHÂN LOẠI

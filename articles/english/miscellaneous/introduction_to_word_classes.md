@@ -9,7 +9,7 @@ thumbnail: "./images/grammar_thumbnail.png"
 
 # I. GIỚI THIỆU VỀ TỪ LOẠI
 
-Các từ vựng được phân loại dựa trên chức năng ngữ pháp, cấu trúc, và tác dụng của chúng ở trong câu. Mỗi nhóm phân loại khác nhau được gọi là một _từ loại (word class)_.
+Trong tiếng Anh, các từ vựng được phân loại dựa trên chức năng ngữ pháp, cấu trúc, và tác dụng của chúng ở trong câu. Mỗi nhóm phân loại khác nhau được gọi là một _từ loại (word class)_.
 
 Các nhóm từ loại bao gồm:
 

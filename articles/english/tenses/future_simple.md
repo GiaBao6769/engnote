@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "12/10/2026"
 update-date: "17/10/2026"
-thumbnail: "./images/future_simple_thumbnail.png"
+thumbnail: "./images/english_tenses/future_simple_thumbnail.png"
 ---
 
 # 1. TÁC DỤNG

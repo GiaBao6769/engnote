@@ -7,6 +7,7 @@ const updateDate = document.getElementById("UPDATE-DATE");
 const contentSection = document.getElementById("CONTENT");
 const authors = document.getElementById("AUTHORS");
 const desc = document.getElementById("DESC");
+const loadingSection = document.getElementById("LOADING-SECTION");
 
 
 // rename to a better name
@@ -222,7 +223,14 @@ function renderMultipleChoices() {
 
 const params = new URLSearchParams(window.location.search);
 const path = params.get("p");
-await renderArticle(path).catch(console.error);
+await renderArticle(path)
+    .then(() => {
+        loadingSection.classList.add("hidden");
+    })
+    .catch(error => {
+        console.error(error);
+    });
+
 renderMultipleChoices();
 
 

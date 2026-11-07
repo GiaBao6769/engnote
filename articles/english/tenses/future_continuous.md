@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "21/10/2026"
 update-date: "21/10/2026"
-thumbnail: "./images/future_continuous_thumbnail.png"
+thumbnail: "./images/english_tenses/future_continuous_thumbnail.png"
 ---
 
 

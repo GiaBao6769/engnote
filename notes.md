@@ -5,7 +5,28 @@
 
 # TO-DO LIST
 
+## Articles
+
+- thành phần bổ nghĩa hoặc tạo thành mệnh đề phân từ của present particle
+
+- động từ tình thái là modal verbs
+
+- mệnh đề, câu
+
+- deverbal nouns
+
+- to infinitive
+
 - các động từ chung gốc thường chia giống nhau trong bảng chia từ
+
+- các thành phần trong câu: chủ ngữ, bổ ngữ, trạng ngữ
+
+fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
+maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present
+
+- các động từ không thể chia ở dạng _phân từ hiện tại_
+
+## Coding
 
 - add padding to h3
 
@@ -13,20 +34,15 @@
 
 - change the theme color for the thumbnails of past and future tenses
 
-- các thành phần trong câu: chủ ngữ, bổ ngữ, trạng ngữ
-
 - improve web performance
 
-fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
-maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present
 
-- các động từ không thể chia ở dạng _phân từ hiện tại_
 
-NEED IMPROVEMENT;
+# NEED IMPROVEMENT;
 
 - Create a standard way to store images
 
-NEED CORRECTION:
+# NEED CORRECTION:
 
 "**Yet** (adv): chưa / đã ... chưa" in present perfect
 

@@ -72,7 +72,7 @@ async function createCard(path){
 
 
 async function addGroup(group, parentDiv){
-    for (let path of group["article-paths"]){
+    for (let path of group["paths"]){
         try{
             const card = await createCard(path);
             parentDiv.appendChild(card);
@@ -86,17 +86,24 @@ async function addGroup(group, parentDiv){
     
 }
 
-for (const group of articlesJson){
-    // create the center section for articles
-    const div = document.createElement("div");
-    div.classList.add("center-section");
-
-    const h1 = document.createElement("h1");
-    h1.textContent = group["name"];
-    h1.classList.add("formal");
-    div.appendChild(h1);
-
-    groupContainer.appendChild(div);
-
-    addGroup(group, div);
+async function loadCategory(category){
+    for (const group of articlesJson[category]){
+        // create the center section for articles
+        const div = document.createElement("div");
+        div.classList.add("center-section");
+    
+        const h1 = document.createElement("h1");
+        h1.textContent = group["name"];
+        h1.classList.add("formal");
+        div.appendChild(h1);
+    
+        groupContainer.appendChild(div);
+    
+        addGroup(group, div);
+    }
 }
+
+const params = new URLSearchParams(window.location.search);
+const category = params.get("c") || "english";
+
+loadCategory(category);

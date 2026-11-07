@@ -1,7 +1,11 @@
+{
+
+"english": 
+
 [
     {
         "name": "thì (tenses)",
-        "article-paths": 
+        "paths": 
         [
             "english/tenses/present_simple.md",
             "english/tenses/present_continuous.md",
@@ -15,22 +19,47 @@
     },
 
     {
-        "name": "miscellaneous",
-        "article-paths":
+        "name": "Từ loại",
+        "paths":
         [
             "english/miscellaneous/introduction_to_word_classes.md",
+            "english/miscellaneous/gerund.md",
+            "english/miscellaneous/preposition.md"
+        ]
+    },
+
+    {
+        "name": "miscellaneous",
+        "paths":
+        [
             "english/miscellaneous/comparative.md",
             "english/miscellaneous/superlative.md",
-            "english/miscellaneous/preposition.md",
             "english/miscellaneous/irregular_verbs_grouped_by_patterns.md"
         ]
     },
 
     {
         "name":"Từ vựng (vocabulary)",
-        "article-paths":
+        "paths":
         [
             "english/vocabulary/school.md"
         ]
     }
+],
+
+"hidden":
+
+[
+    {
+        "name": "Hidden",
+        "paths": 
+        [
+            "dia_ly.md",
+            "lich_su_12_giua_ki_I.md",
+            "IT/ly_thuyet.md"
+
+        ]
+    }
 ]
+
+}

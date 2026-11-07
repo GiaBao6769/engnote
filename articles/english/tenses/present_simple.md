@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "21/10/2026"
 update-date: "21/10/2026"
-thumbnail: "./images/present_simple_thumbnail.png"
+thumbnail: "./images/english_tenses/present_simple_thumbnail.png"
 ---
 
 

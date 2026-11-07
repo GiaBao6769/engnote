@@ -4,7 +4,7 @@ description: ""
 authors: "Gia Bao"
 upload-date: "18/10/2026"
 update-date: "17/10/2026"
-thumbnail: "./images/past_perfect_thumbnail.png"
+thumbnail: "./images/english_tenses/past_perfect_thumbnail.png"
 ---
 
 # 1. TÁC DỤNG CỦA THÌ QUÁ KHỨ HOÀN THÀNH
