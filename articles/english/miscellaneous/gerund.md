@@ -114,7 +114,7 @@ _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (
 
 Cấu trúc _danh động từ sở hữu_ là một cụm có sắc thái _trang trọng_. Trong văn nói _không trạng trọng_, người nói thường sử dụng _đại từ_ ở dạng _tân ngữ_ hoặc _danh từ_ ở dạng thông thường thay cho dạng sở hữu. 
 
-- I don't mind his smoling. _(trang trọng)_
+- I don't mind his smoking. _(trang trọng)_
 - I don't mind him smoking. _(kém trang trọng hơn)_<br>_(Tôi không phiền việc anh ấy hút thuốc.)_
 
 Cả hai cấu trúc đều được sử dụng trong tiếng Anh hiện đại.

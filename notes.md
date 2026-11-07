@@ -7,6 +7,8 @@
 
 ## Articles
 
+- adding color for emphasized texts
+
 - thành phần bổ nghĩa hoặc tạo thành mệnh đề phân từ của present particle
 
 - động từ tình thái là modal verbs
