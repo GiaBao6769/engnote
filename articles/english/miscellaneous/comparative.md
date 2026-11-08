@@ -28,7 +28,11 @@ Một số tính từ có hai âm tiết trở lên vẫn được xem là tính
 - các tính từ kết thúc bằng đuôi -y: _happy, easy_
 - nhiều tính từ có hai âm tiết kết thúc bằng đuôi -er, -ow, -le: _clever, narrow, gentle_
 - một số ít tính từ kết thúc bằng đuôi -ure: _obscure_
-	
+
+Tính từ so sánh hơn có thể mang nghĩa hơn hoặc kém hơn tùy thuộc vào cách chúng ta biến đổi tính từ gốc.
+
+### 2.1.1. Dạng so sánh hơn của tính từ
+
 Đối với tính từ ngắn, dạng so sánh của chúng được thêm đuôi _-er_ vào cuối (nếu tính từ kết thúc bằng đuôi _-y_, ta trước tiên phải biến đổi chữ đó thành _i_). Ví dụ:
 	
 - tall &rarr; taller
@@ -46,13 +50,6 @@ Một số tính từ có hai âm tiết trở lên vẫn được xem là tính
 - expensive &rarr; more expensive
 - important &rarr; more important
 - difficult &rarr; more difficult
-
-Khi muốn diễn đạt ý nghĩa kém hơn, ta thêm _less_ trước tính từ (trong trường hợp này, tính từ ngắn không thêm đuôi _-er_). Ví dụ: 
-
-- beautiful &rarr; less beautiful
-- efficient &rarr; less efficient
-- tall &rarr; less tall
-- happy &rarr; less happy
  
 Các tính từ ngoại lệ có dạng đặc biệt khi so sánh hơn bao gồm:
  
@@ -71,10 +68,20 @@ Một số tính từ có hai âm tiết có thể được thêm đuôi _er_ v�
 - polite &rarr; politer / more polite
 - quiet &rarr; quieter / more quiet
 - simple &rarr; simpler / more simple
+- friendly &rarr; friendlier / more friendly
+
+### 2.1.2. Dạng so sánh kém hơn của tính từ
+
+Khi muốn diễn đạt ý nghĩa kém hơn, ta thêm _less_ trước tính từ (trong trường hợp này, tính từ ngắn không thêm đuôi _-er_). Ví dụ: 
+
+- beautiful &rarr; less beautiful
+- efficient &rarr; less efficient
+- tall &rarr; less tall
+- happy &rarr; less happy
 
 ## 2.2. Cách sử dụng tính từ ở dạng so sánh hơn
 
-Tính từ ở dạng so sánh hơn về bản chất vẫn là tính từ, nên chúng vẫn giữ các chức năng của tính từ như bổ nghĩa cho danh từ hoặc bổ ngữ trong câu. Ví dụ:
+Tính từ ở dạng so sánh hơn về bản chất vẫn là tính từ, nên chúng vẫn giữ các chức năng của tính từ như bổ nghĩa cho danh từ hoặc bổ ngữ trong câu.
 
 - She bought a _cheaper_ phone after her old one had broken.
 - A _less complicated_ solution to this problem is needed.
@@ -104,8 +111,12 @@ Phần lớn trạng từ dài là các trạng từ có đuôi -ly. Ví dụ: _
 Một số trạng từ có đuôi _-ly_ có thể được viết ở dạng so sánh hơn bằng cách thêm đuôi _-er_, trong đó _early_ là trường hợp phổ biến nhất còn được sử dụng đến hiện nay.
 
 - early &rarr; earlier
+
+Dạng so sánh hơn của trạng từ có thể mang nghĩa hơn hoặc kém hơn tùy thuộc vào cách chúng ta biến đổi trạng từ gốc.
+
+### 3.1.1. Dạng so sánh hơn của trạng từ
 	
-Tương tự với dạng so sánh của tính từ, ta biến trạng từ thành dạng so sánh hơn bằng cách thêm đuôi _-er_ cho trạng từ ngắn và từ _more_ trước trạng từ dài:
+Tương tự với dạng so sánh hơn của tính từ, ta biến trạng từ thành dạng so sánh hơn bằng cách thêm đuôi _-er_ cho trạng từ ngắn và từ _more_ trước trạng từ dài:
  
 - fast &rarr; faster
 - hard &rarr; harder
@@ -115,20 +126,22 @@ Tương tự với dạng so sánh của tính từ, ta biến trạng từ thà
 - carefully &rarr; more carefully
 - slowly &rarr; more slowly
  
-Khi muốn diễn đạt ý nghĩa kém hơn của cách thức hoặc hành động, ta thêm _less_ trước trạng từ (trong trường hợp này, trạng từ ngắn không thêm đuôi _-er_). Ví dụ: 
- 
-- efficiently &rarr; less efficiently
-- frequently &rarr; less frequently
-- fast &rarr; less fast
-- hard &rarr; less hard
- 
 Một số trạng từ ngoại lệ có dạng đặc biệt khi so sánh hơn bao gồm:
  
 - well &rarr; better
 - badly &rarr; worse
 - little &rarr; less
 - much &rarr; more
-- far &rarr; farther/further 
+- far &rarr; farther/further
+
+### 3.1.2. Dạng so sánh kém hơn của trạng từ 
+
+Khi muốn diễn đạt ý nghĩa kém hơn của cách thức hoặc hành động, ta thêm _less_ trước trạng từ (trong trường hợp này, trạng từ ngắn không thêm đuôi _-er_). Ví dụ: 
+ 
+- efficiently &rarr; less efficiently
+- frequently &rarr; less frequently
+- fast &rarr; less fast
+- hard &rarr; less hard
 
 ## 3.2. Cách sử dụng trạng từ so sánh hơn
 
@@ -142,8 +155,10 @@ Ví dụ câu so sánh hơn của trạng từ:
 
 Ngoài ra, để so sánh trực tiếp hai đối tượng, ta sử dụng _than_ để nối trạng từ ở dạng so sánh hơn với đối tượng được đem ra so sánh.
 
-- I often come to class _earlier_ than my classmates.
-- My mother drives _more carefully_ than my father.
+<!-- Need clarifying -->
+
+- She often goes to work _earlier_ than her coworkers.<br>_(Cô ấy thường đi làm sớm hơn đồng nghiệp của cô.)_
+- My mother drives _more carefully_ than my father.<br>_(Mẹ tôi lái xe cẩn thận hơn ba tôi.)_
 - He handled the situation _worse_ than expected.<br>_(Anh ấy xử lí vấn đề tệ hơn kỳ vọng.)_
 - I performed _worse_ today than I did last time.<br>_(Hôm nay tôi thể hiện kém hơn lần trước.)_
 
