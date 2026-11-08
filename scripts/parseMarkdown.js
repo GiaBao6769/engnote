@@ -229,6 +229,7 @@ await renderArticle(path)
     })
     .catch(error => {
         console.error(error);
+        loadingSection.textContent = "Không thể truy xuất bài viết.";
     });
 
 renderMultipleChoices();

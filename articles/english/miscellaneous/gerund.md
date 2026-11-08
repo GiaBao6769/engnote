@@ -50,21 +50,25 @@ Vì đóng vai trò làm _danh từ_, nên _danh động từ_ đảm nhận cá
     - Her hobby is *gardening*.<br>_(Sở thích của cô ấy là làm vườn)_
     - The hardest part will be *training new staff*.<br>_(Phần khó nhất sẽ là huấn luyện nhân viên mới.)_
 
-- __Đứng sau giới từ__
+- __Đứng sau giới từ hoặc liên từ__
     - Colin is interested in *playing the cello*.<br>_(Collin hứng thú với việc chơi trung vĩ cầm.)_
     - Thank you for *helping me*.<br>_(Cảm ơn đã giúp đỡ tôi.)_
     - He left without *saying goodbye*.<br>_(Anh ấy rời đi mà không thèm nói lời tiễn biệt.)_ <!-- Sound too rude -->
     - She cried upon *hearing the news*.<br>_(Cô ấy khóc khi nghe tin.)_
     - In spite of *studying hard*, he failed the exam.<br>_(Mặc dù học hành rất chăm chỉ, anh ấy lại thi trượt)_
-    - Vien is good at solving Math problem.
+    - Sorry for not telling you ealier.
+    - Vien is good at solving Math problems.
+    - Remember to wash your hand after coming back home.
 
 <br>
 
 ## 3. Phân biệt _danh động từ_ và _danh từ phái sinh_
 
-Một số dạng động từ có đuôi _-ing_ còn được sử dụng như danh từ thông thường, mang những nghĩa riêng biệt. Những danh từ được hình thành từ động từ được gọi là _deverbal nouns (danh từ phái sinh từ động từ)_.
+Một số dạng động từ có đuôi _-ing_ còn được sử dụng như danh từ thông thường, mang những nghĩa riêng biệt. Những danh từ được hình thành từ động từ được gọi là _danh từ phái sinh từ động từ (deverbal nouns)_.
 
-Cần phân biệt _danh động từ_ với _danh từ phái sinh_: mặc dù chúng có thể có cùng hình thức, chúng lại khác nhau về đặc tính ngữ pháp và chức năng trong mệnh đề.
+Mặc dù _danh động từ_ và _danh từ phái sinh_ có cùng hình thức, chúng lại khác nhau về đặc tính ngữ pháp và chức năng trong mệnh đề.
+
+<!-- [\] need fixing since deverbal nouns are broader than gerunds -->
 
 <!-- Mặc dù _danh động từ_ thường được xem là danh từ không đếm được, nhưng một số _danh động từ_ đã được phát triển thêm các nghĩa riêng biệt ở dạng danh từ đếm được.(chúng thường được gọi là _danh từ phái sinh (deverbal nouns)_). -->
 
@@ -118,3 +122,6 @@ Cấu trúc _danh động từ sở hữu_ là một cụm có sắc thái _tran
 - I don't mind him smoking. _(kém trang trọng hơn)_<br>_(Tôi không phiền việc anh ấy hút thuốc.)_
 
 Cả hai cấu trúc đều được sử dụng trong tiếng Anh hiện đại.
+
+
+<!-- Phủ định của gerund -->

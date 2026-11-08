@@ -30,6 +30,8 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 ## Coding
 
+- change the way to store authors from splitting ',' to lists
+
 - add padding to h3
 
 - change font

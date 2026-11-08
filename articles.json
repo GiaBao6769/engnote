@@ -13,6 +13,7 @@
             
             "english/tenses/past_simple.md",
             "english/tenses/past_perfect.md",
+            
             "english/tenses/future_simple.md",
             "english/tenses/future_continuous.md"
         ]
@@ -54,8 +55,8 @@
         "name": "Hidden",
         "paths": 
         [
-            "dia_ly.md",
-            "lich_su_12_giua_ki_I.md",
+            "hidden/dia_ly.md",
+            "hidden/lich_su_12_giua_ki_I.md",
             "IT/ly_thuyet.md"
 
         ]

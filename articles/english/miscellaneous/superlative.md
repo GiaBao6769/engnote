@@ -1,6 +1,6 @@
 ---
 title: "So sánh nhất\n(Superlative)"
-description: ""
+description: "(Bài viết chưa được hoàn thành)"
 authors: "Gia Bao"
 upload-date: "17/10/2026"
 update-date: "17/10/2026"
