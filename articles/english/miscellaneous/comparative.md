@@ -31,9 +31,7 @@ Một số tính từ có hai âm tiết trở lên vẫn được xem là tính
 
 Tính từ so sánh hơn có thể mang nghĩa hơn hoặc kém hơn tùy thuộc vào cách chúng ta biến đổi tính từ gốc.
 
-### 2.1.1. Dạng so sánh hơn của tính từ
-
-Đối với tính từ ngắn, dạng so sánh của chúng được thêm đuôi _-er_ vào cuối (nếu tính từ kết thúc bằng đuôi _-y_, ta trước tiên phải biến đổi chữ đó thành _i_). Ví dụ:
+Đối với tính từ ngắn, dạng so sánh hơn của chúng được thêm đuôi _-er_ vào cuối (nếu tính từ kết thúc bằng đuôi _-y_, ta trước tiên phải biến đổi chữ đó thành _i_). Ví dụ:
 	
 - tall &rarr; taller
 - fast &rarr; faster
@@ -44,7 +42,7 @@ Tính từ so sánh hơn có thể mang nghĩa hơn hoặc kém hơn tùy thuộ
 - pretty &rarr; prettier
 - obscure &rarr; obscurer 
 
-Đối với tính từ dài, dạng so sánh của chúng được thêm từ _more_ vào phía trước tính từ. Ví dụ:
+Đối với tính từ dài, dạng so sánh hơn của chúng được thêm từ _more_ vào phía trước tính từ. Ví dụ:
  
 - beautiful &rarr; more beautiful
 - expensive &rarr; more expensive
@@ -70,9 +68,9 @@ Một số tính từ có hai âm tiết có thể được thêm đuôi _er_ v�
 - simple &rarr; simpler / more simple
 - friendly &rarr; friendlier / more friendly
 
-### 2.1.2. Dạng so sánh kém hơn của tính từ
+<br>
 
-Khi muốn diễn đạt ý nghĩa kém hơn, ta thêm _less_ trước tính từ (trong trường hợp này, tính từ ngắn không thêm đuôi _-er_). Ví dụ: 
+Khi muốn diễn đạt ý nghĩa kém hơn của tính từ, ta thêm _less_ trước tính từ (trong trường hợp này, tính từ ngắn không thêm đuôi _-er_). Ví dụ: 
 
 - beautiful &rarr; less beautiful
 - efficient &rarr; less efficient
@@ -114,8 +112,6 @@ Một số trạng từ có đuôi _-ly_ có thể được viết ở dạng so
 
 Dạng so sánh hơn của trạng từ có thể mang nghĩa hơn hoặc kém hơn tùy thuộc vào cách chúng ta biến đổi trạng từ gốc.
 
-### 3.1.1. Dạng so sánh hơn của trạng từ
-	
 Tương tự với dạng so sánh hơn của tính từ, ta biến trạng từ thành dạng so sánh hơn bằng cách thêm đuôi _-er_ cho trạng từ ngắn và từ _more_ trước trạng từ dài:
  
 - fast &rarr; faster
@@ -134,9 +130,9 @@ Một số trạng từ ngoại lệ có dạng đặc biệt khi so sánh hơn 
 - much &rarr; more
 - far &rarr; farther/further
 
-### 3.1.2. Dạng so sánh kém hơn của trạng từ 
+<br>
 
-Khi muốn diễn đạt ý nghĩa kém hơn của cách thức hoặc hành động, ta thêm _less_ trước trạng từ (trong trường hợp này, trạng từ ngắn không thêm đuôi _-er_). Ví dụ: 
+Khi muốn diễn đạt ý nghĩa kém hơn của trạng từ, ta thêm _less_ trước trạng từ (trong trường hợp này, trạng từ ngắn không thêm đuôi _-er_). Ví dụ: 
  
 - efficiently &rarr; less efficiently
 - frequently &rarr; less frequently
