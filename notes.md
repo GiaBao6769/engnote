@@ -7,6 +7,13 @@
 
 ## Articles
 
+- nominal clause
+    - Note: ta có thể thay đổi mệnh đề danh từ thành một to-infinity hoặc một cụm danh động từ
+
+- noun includes noun phrase or noun phrase include noun
+
+- convert new definition in articles to singular
+
 - adding color for emphasized texts
 
 - thành phần bổ nghĩa hoặc tạo thành mệnh đề phân từ của present particle
@@ -30,13 +37,16 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 ## Coding
 
+- overhaul articles.json structure
+
+- check if _ _ and * * are rendered differently
+
 - change the way to store authors from splitting ',' to lists
 
 - add padding to h3
 
 - change font
 
-- change the theme color for the thumbnails of past and future tenses
 
 - improve web performance
 

@@ -15,7 +15,7 @@ Các nhóm từ loại bao gồm:
 
 - **Danh từ (nouns):** diễn tả người, động vật, sự vật, nơi chốn, .v.v.
 
-- **Động từ (verbs):** diễn tả hành động, sự việc, trạng thái
+- **Động từ (verbs):** diễn tả hành động, sự việc, trạng thái, quan hệ, sự tồn tại
 
 - **Tính từ (adjectives):** mô tả, bổ nghĩa cho danh từ hoặc đại từ
 
@@ -80,7 +80,7 @@ Ví dụ:
 
 ## 2. Động từ (verbs)
 
-Động từ là từ diễn tả hành động, quá trình, trạng thái hoặc sự tồn tại của chủ ngữ. Động từ là thành phần trung tâm của vị ngữ trong câu.
+Động từ là từ diễn tả hành động, quá trình, trạng thái, quan hệ, hoặc sự tồn tại của chủ ngữ. Động từ là thành phần trung tâm của vị ngữ trong câu.
 
 ### 2.1. Động từ thường (lexical/main verbs)
 

@@ -79,7 +79,7 @@ body.darkmode{
     --clr-main: rgb(139, 191, 239);
 
     --clr-main-light: rgb(18, 92, 123);
-    --clr-silent: rgb(158, 163, 168);
+    --clr-silent: rgb(182, 186, 190);
 
     --border: 4px solid var(--clr-main);
     --border-radius: var(--space-small);

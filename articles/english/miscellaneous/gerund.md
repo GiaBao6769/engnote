@@ -15,12 +15,12 @@ _Danh động từ_ thường được xem là _danh từ không đếm được
 
 <!-- ![Cách để thêm đuôi _-ing_ vào cuối động từ](link) -->
 
-- go &rarr; going _(việc đi lại)_
-- help &rarr; helping _(việc giúp đỡ)_
-- steal &rarr; stealing _(việc ăn cắp)_
-- leave &rarr; leaving _(sự rời đi)_
-- let &rarr; letting _(việc để)_
-- lie &rarr; lying _(sự nói dối)_
+- go &rarr; going <silent>(việc đi lại)</silent>
+- help &rarr; helping <silent>(việc giúp đỡ)</silent>
+- steal &rarr; stealing <silent>(việc ăn cắp)</silent>
+- leave &rarr; leaving <silent>(sự rời đi)</silent>
+- let &rarr; letting <silent>(việc để)</silent>
+- lie &rarr; lying <silent>(sự nói dối)</silent>
 
 
 Để tạo một cụm _danh động từ_ từ một _cụm động từ_, ta chỉ cần thêm đuôi _-ing_ vào _động từ_ chính trong _cụm động từ_.
@@ -37,25 +37,25 @@ _Danh động từ_ thường được xem là _danh từ không đếm được
 Vì đóng vai trò làm _danh từ_, nên _danh động từ_ đảm nhận các chức năng như một _danh từ_ trong mệnh đề:
 
 - __Làm chủ ngữ__
-    - Exercising is essential to maintain a healthy lifestyle.<br>_(Tập thể dục là vô cùng quan trọng để duy trì một lối sống khỏe mạnh.)_
-    - *Listening to music* is my hobby.<br>_(Nghe nhạc là sở thích của tôi.)_
-    - *Not obeying the rules* can cause you trouble.<br>_(Không tuân thủ quy tắc sẽ khiến bạn gặp rắc rối.)_
+    - Exercising is essential to maintain a healthy lifestyle.<br><silent>(Tập thể dục là vô cùng quan trọng để duy trì một lối sống khỏe mạnh.)</silent>
+    - *Listening to music* is my hobby.<br><silent>(Nghe nhạc là sở thích của tôi.)</silent>
+    - *Not obeying the rules* can cause you trouble.<br><silent>(Không tuân thủ quy tắc sẽ khiến bạn gặp rắc rối.)</silent>
 
 - __Làm tân ngữ trực tiếp__
-    - My cat loves *hunting* mice.<br>_(Con mèo nhà tôi thích đi săn chuột)_
-    - He stopped *working* as soon as he heard the news.<br>_(Anh ấy dừng làm việc ngay khi nghe tin)_
+    - My cat loves *hunting* mice.<br><silent>(Con mèo nhà tôi thích đi săn chuột)</silent>
+    - He stopped *working* as soon as he heard the news.<br><silent>(Anh ấy dừng làm việc ngay khi nghe tin)</silent>
 
 - __Làm bổ ngữ cho chủ ngữ__
-    <!-- - Our goal is *winning the championship*.<br>_(Mục tiêu của chúng tôi là thắng giải vô địch)_ -->
-    - Her hobby is *gardening*.<br>_(Sở thích của cô ấy là làm vườn)_
-    - The hardest part will be *training new staff*.<br>_(Phần khó nhất sẽ là huấn luyện nhân viên mới.)_
+    <!-- - Our goal is *winning the championship*.<br><silent>(Mục tiêu của chúng tôi là thắng giải vô địch)</silent> -->
+    - Her hobby is *gardening*.<br><silent>(Sở thích của cô ấy là làm vườn)</silent>
+    - The hardest part will be *training new staff*.<br><silent>(Phần khó nhất sẽ là huấn luyện nhân viên mới.)</silent>
 
 - __Đứng sau giới từ hoặc liên từ__
-    - Colin is interested in *playing the cello*.<br>_(Collin hứng thú với việc chơi trung vĩ cầm.)_
-    - Thank you for *helping me*.<br>_(Cảm ơn đã giúp đỡ tôi.)_
-    - He left without *saying goodbye*.<br>_(Anh ấy rời đi mà không thèm nói lời tiễn biệt.)_ <!-- Sound too rude -->
-    - She cried upon *hearing the news*.<br>_(Cô ấy khóc khi nghe tin.)_
-    - In spite of *studying hard*, he failed the exam.<br>_(Mặc dù học hành rất chăm chỉ, anh ấy lại thi trượt)_
+    - Colin is interested in *playing the cello*.<br><silent>(Collin hứng thú với việc chơi trung vĩ cầm.)</silent>
+    - Thank you for *helping me*.<br><silent>(Cảm ơn đã giúp đỡ tôi.)</silent>
+    - He left without *saying goodbye*.<br><silent>(Anh ấy rời đi mà không thèm nói lời tiễn biệt.)</silent> <!-- Sound too rude -->
+    - She cried upon *hearing the news*.<br><silent>(Cô ấy khóc khi nghe tin.)</silent>
+    - In spite of *studying hard*, he failed the exam.<br><silent>(Mặc dù học hành rất chăm chỉ, anh ấy lại thi trượt)</silent>
     - Sorry for not telling you ealier.
     - Vien is good at solving Math problems.
     - Remember to wash your hand after coming back home.
@@ -70,7 +70,7 @@ Mặc dù _danh động từ_ và _danh từ phái sinh_ có cùng hình thức,
 
 <!-- [\] need fixing since deverbal nouns are broader than gerunds -->
 
-<!-- Mặc dù _danh động từ_ thường được xem là danh từ không đếm được, nhưng một số _danh động từ_ đã được phát triển thêm các nghĩa riêng biệt ở dạng danh từ đếm được.(chúng thường được gọi là _danh từ phái sinh (deverbal nouns)_). -->
+<!-- Mặc dù _danh động từ_ thường được xem là danh từ không đếm được, nhưng một số _danh động từ_ đã được phát triển thêm các nghĩa riêng biệt ở dạng danh từ đếm được.(chúng thường được gọi là _danh từ phái sinh (deverbal nouns)_. -->
 
 - __building__
     - (gerund): việc xây dựng
@@ -96,6 +96,9 @@ Mặc dù _danh động từ_ và _danh từ phái sinh_ có cùng hình thức,
 _Danh động từ_ và _phân từ hiện tại_ đều có hình thức giống nhau, được tạo thành bằng cách thêm đuôi _-ing_ vào động từ. Tuy nhiên, chúng thường đảm nhận những chức năng cú pháp khác nhau.
 
 - _Danh động từ:_ đảm nhận chức năng của danh từ hoặc cụm danh từ.
+    - *Reading* is a good activity.
+    - My hobby is *reading books* in my free time.
+
 - _Động từ ở dạng phân từ hiện tại:_ được sử dụng trong cấu trúc tiếp diễn, làm thành phần bổ nghĩa hoặc tạo thành mệnh đề phân từ.
     - A woman was *walking* when she was robbed of her purse.
     - That *running* guy was a robber.
@@ -105,21 +108,21 @@ _Danh động từ_ và _phân từ hiện tại_ đều có hình thức giốn
 
 Khác với _phân từ hiện tại_, ta có thể biến đổi các _động từ trạng thái (stative verbs)_ thành _danh động từ_.
 
-- Recognizing patterns is a crucial part to solve any problems.<br>_(Nhận các khuôn mẫu là một phần thiết yếu để giải quyết các vấn đề.)_
-- Hating each others doesn't make you any better.<br>_(Thù ghét lẫn nhau không khiến ta tốt lên.)_
+- Recognizing patterns is a crucial part to solve any problems.<br><silent>(Nhận các khuôn mẫu là một phần thiết yếu để giải quyết các vấn đề.)</silent>
+- Hating each others doesn't make you any better.<br><silent>(Thù ghét lẫn nhau không khiến ta tốt lên.)</silent>
 
 ## 5. Danh động từ sở hữu (Possessive gerunds)
 
 _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (_định từ sở hữu_ hoặc _danh từ sở hữu_) kết hợp với một _danh động từ_. Lúc này, cụm sẽ biểu thị việc hành động được thực hiện bởi chính chủ thể sở hữu.
 
-- I really appreciate *your helping me*.<br>_(Tôi rất trân trọng việc bạn giúp tôi)_
+- I really appreciate *your helping me*.<br><silent>(Tôi rất trân trọng việc bạn giúp tôi)</silent>
 
-- We are surprised at *John's leaving* so early.<br>_(Chúng tôi rất bất ngờ về việc John đi về sớm.)_
+- We are surprised at *John's leaving* so early.<br><silent>(Chúng tôi rất bất ngờ về việc John đi về sớm.)</silent>
 
 Cấu trúc _danh động từ sở hữu_ là một cụm có sắc thái _trang trọng_. Trong văn nói _không trạng trọng_, người nói thường sử dụng _đại từ_ ở dạng _tân ngữ_ hoặc _danh từ_ ở dạng thông thường thay cho dạng sở hữu. 
 
-- I don't mind his smoking. _(trang trọng)_
-- I don't mind him smoking. _(kém trang trọng hơn)_<br>_(Tôi không phiền việc anh ấy hút thuốc.)_
+- I don't mind his smoking. <silent>(trang trọng)</silent>
+- I don't mind him smoking. <silent>(kém trang trọng hơn)</silent><br><silent>(Tôi không phiền việc anh ấy hút thuốc.)</silent>
 
 Cả hai cấu trúc đều được sử dụng trong tiếng Anh hiện đại.
 

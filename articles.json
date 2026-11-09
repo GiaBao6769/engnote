@@ -20,12 +20,13 @@
     },
 
     {
-        "name": "Từ loại",
+        "name": "Nền tảng ngôn ngữ",
         "paths":
         [
             "english/miscellaneous/introduction_to_word_classes.md",
             "english/miscellaneous/gerund.md",
-            "english/miscellaneous/preposition.md"
+            "english/miscellaneous/preposition.md",
+            "english/phrase-clause-sentence/clauses.md"
         ]
     },
 
