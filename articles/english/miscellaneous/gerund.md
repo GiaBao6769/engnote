@@ -1,5 +1,5 @@
 ---
-title: "Danh động từ\n(Gerunds)"
+title: "Danh động từ\n(Gerund)"
 description: ""
 authors: "Gia Bao"
 upload-date: "07/11/2026"
@@ -68,7 +68,7 @@ Một số dạng động từ có đuôi _-ing_ còn được sử dụng như 
 
 Mặc dù _danh động từ_ và _danh từ phái sinh_ có cùng hình thức, chúng lại khác nhau về đặc tính ngữ pháp và chức năng trong mệnh đề.
 
-<!-- [\] need fixing since deverbal nouns are broader than gerunds -->
+<!-- [\] need fixing since deverbal nouns are broader than gerund -->
 
 <!-- Mặc dù _danh động từ_ thường được xem là danh từ không đếm được, nhưng một số _danh động từ_ đã được phát triển thêm các nghĩa riêng biệt ở dạng danh từ đếm được.(chúng thường được gọi là _danh từ phái sinh (deverbal nouns)_. -->
 
@@ -111,7 +111,7 @@ Khác với _phân từ hiện tại_, ta có thể biến đổi các _động 
 - Recognizing patterns is a crucial part to solve any problems.<br><silent>(Nhận các khuôn mẫu là một phần thiết yếu để giải quyết các vấn đề.)</silent>
 - Hating each others doesn't make you any better.<br><silent>(Thù ghét lẫn nhau không khiến ta tốt lên.)</silent>
 
-## 5. Danh động từ sở hữu (Possessive gerunds)
+## 5. Danh động từ sở hữu (Possessive gerund)
 
 _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (_định từ sở hữu_ hoặc _danh từ sở hữu_) kết hợp với một _danh động từ_. Lúc này, cụm sẽ biểu thị việc hành động được thực hiện bởi chính chủ thể sở hữu.
 

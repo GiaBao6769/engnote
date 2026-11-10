@@ -367,7 +367,16 @@ quiz input[type="radio"] {
     flex-shrink: 0; */
 }
 
+#CONTENT fieldset{
+    /* border-bottom: 1px solid var(--clr-silent); */
 
+    border: none;
+
+    border-bottom: 1px solid var(--clr-silent);
+
+    
+    padding: var(--space-2);
+}
 
 .formButton{
     background-color: white;

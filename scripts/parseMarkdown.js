@@ -110,7 +110,9 @@ function renderMultipleChoices() {
         const form = document.createElement("form");
         form.classList.add("quiz-form");
 
-        const answers = quiz.dataset.answers;
+        const answers = quiz.dataset.answers.replace(/[^A-D]/g, "");
+        // console.log(answers);
+
         const questions = quiz.querySelectorAll("ol > li");
 
         questions.forEach((question, questionId) => {
@@ -120,6 +122,7 @@ function renderMultipleChoices() {
             // Extract the question text without its options list.
             const questionCopy = question.cloneNode(true);
             questionCopy.querySelectorAll("ul, ol").forEach(list => list.remove());
+            
             const questionText = questionCopy.textContent.trim();
 
             const legend = document.createElement("legend");

@@ -230,6 +230,57 @@ __Các liên từ phụ thuộc khác__
 
 ### 2.3. Mệnh đề trạng ngữ (Adverbial clause)
 
+Mệnh đề trạng ngữ (Adverbial clause hoặc Adverb clause) là một mệnh đề độc lập có chức năng làm trạng từ trong câu. Mệnh đề trạng ngữ thường cung cấp các thông tin với sự trợ giúp của các từ hoặc cụm từ sau:
+
+- Thời gian:
+    - when
+        - When I arrived home, it had already been locked.
+
+    - while
+    - before
+    - after
+    - since
+    - as soon as
+
+- Nơi chốn 
+    - wherever
+        - You can sit wherever you like.
+
+- Nguyên nhân:
+    - because
+        -  I brought an umbrella because it was raining.
+
+    - since
+    - as
+
+- Mục đích
+    - so that
+        - I'm doing my homework so that I will be free in the evening.
+    - in order that
+    - in case
+
+- Tương phản:
+    - although
+    - even though
+    - whereas
+    - while
+    - but
+
+- Cách thức:
+    - as
+    - as if / as though
+
+- Kết quả
+    - so
+    - so ... that
+    - such ... that
+
+- So sánh
+
+
+<!-- Dấu phẩy để ngăn cách mệnh đề độc lập và mệnh đề phụ thuộc -->
+        
+
 
 
 <!-- 

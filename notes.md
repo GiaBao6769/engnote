@@ -7,6 +7,16 @@
 
 ## Articles
 
+- lexial verb
+
+- indentify -> xác định
+
+- Genitive noun
+
+- Noun phrase in apposition
+
+- mệnh đề so sánh
+
 - nominal clause
     - Note: ta có thể thay đổi mệnh đề danh từ thành một to-infinity hoặc một cụm danh động từ
 
