@@ -217,6 +217,32 @@ Trong đó:
 </details></quiz>
 
 
+
+## 4.2. Hoàn thành câu với các từ trong ngoặc
+
+<fill-quiz>
+
+
+<div class="question-box">
+
+1. She can't find her book because she <span>_____</span> __(leave)__ it at home.
+2. This is the thirtieth time this contest <span>_____</span> __(take place)__ in this area.
+
+</div>
+
+<details>
+
+<summary><b>Đáp án</b></summary>
+
+1. has left
+2. has taken place
+
+</details>
+
+
+
+</fill-quiz>
+
 <!-- 
 Expain the different between gone and been
  -->

@@ -110,8 +110,10 @@ function renderMultipleChoices() {
         const form = document.createElement("form");
         form.classList.add("quiz-form");
 
-        const answers = quiz.dataset.answers.replace(/[^A-D]/g, "");
-        // console.log(answers);
+        // 
+
+        const answers = quiz.querySelector("details").querySelector("p").innerHTML.replace(/[^A-D]/g, "");;
+
 
         const questions = quiz.querySelectorAll("ol > li");
 
@@ -224,6 +226,110 @@ function renderMultipleChoices() {
     });
 }
 
+function resetFillQuizzes(questions){
+    questions.forEach((question) =>{
+
+        const input = question.querySelector(".input-box");
+        input.value = "";
+
+        question.classList.remove("correctOption");
+        question.classList.remove("incorrectOption");
+        question.classList.remove("correctOption");
+
+        input.disabled = false;
+
+    });
+}
+
+function submitFillQuizzes(questions, answers){
+
+    questions.forEach((question, questionId) => {
+
+        console.log(question);
+
+        const input = question.querySelector(".input-box");
+
+        const answer = input.value;
+        // add refine
+
+        if (answer == answers[questionId]){
+            question.classList.add("correctOption");
+        }
+        else if (answer === ""){
+            question.classList.add("incorrectOption");
+        }
+        else{
+            question.classList.add("incorrectOption");
+            input.value = answers[questionId];
+        }
+
+        input.disabled = true;
+
+        // input.classList.add("chosen");
+    });
+}
+
+function renderFillQuizzes(){
+    const quizBlocks = document.querySelectorAll("fill-quiz");
+
+    quizBlocks.forEach((quizBlock, quizId) => {
+
+        const questionBox = quizBlock.querySelector(".question-box");
+        const questions = questionBox.querySelectorAll("ol > li");
+
+        const details = quizBlock.querySelector("details");
+
+        details.classList.add("hidden");
+
+        const ps = details.querySelector("ol").querySelectorAll("p");
+
+        const answers = []
+
+        ps.forEach(p => {
+            answers.push(p.innerHTML);
+        });
+        
+        questions.forEach((question, questionId) => {
+
+            // console.log(question);
+
+            const input = document.createElement("input");
+            input.type = "text";
+            input.name = `quiz-${quizId}-question${questionId}`;
+            input.classList.add("input-box");
+
+            const span = question.querySelector("span");
+
+            span.replaceChildren(input);
+
+        });
+        
+        const submitButton = document.createElement("button");
+        const resetButton = document.createElement("button");
+
+        submitButton.classList.add("formButton");
+        submitButton.innerText = "Nộp bài"
+
+        resetButton.classList.add("formButton");
+        resetButton.innerText = "Làm bài"
+        
+        submitButton.addEventListener("click", () => {
+            console.log("submitted fill quizzes");
+            submitFillQuizzes(questions, answers);
+        });
+
+        resetButton.addEventListener("click", () => {
+            console.log("reset");
+            resetFillQuizzes(questions);
+        });
+
+        quizBlock.appendChild(submitButton);
+        quizBlock.appendChild(resetButton);
+
+
+    });
+}
+
 const params = new URLSearchParams(window.location.search);
 const path = params.get("p");
 await renderArticle(path)
@@ -235,7 +341,10 @@ await renderArticle(path)
         loadingSection.textContent = "Không thể truy xuất bài viết.";
     });
 
-renderMultipleChoices();
 
+
+
+renderMultipleChoices();
+renderFillQuizzes();
 
 

@@ -1,6 +1,9 @@
 import { getJson, getComponent, isExistingPath } from "./main.js"
+const params = new URLSearchParams(window.location.search);
 
-const main = document.querySelector("main");
+const permission = params.get("per");
+
+// const main = document.querySelector("main");
 const groupContainer = document.getElementById("GROUP-CONTAINER");
 
 const articlesJson = await getJson("./articles.json");
@@ -51,7 +54,7 @@ async function createCard(path){
     });
 
     const a = card.querySelector("a");
-    a.href = `article.html?p=${path}`;
+    a.href = `article.html?p=${path}`+ (permission ? `?per=${permission}` : "");
 
     const cardTitle = card.querySelector(".card-title");
     const cardDesc = card.querySelector(".card-desc");
@@ -103,7 +106,9 @@ async function loadCategory(category){
     }
 }
 
-const params = new URLSearchParams(window.location.search);
+
+
+
 const category = params.get("c") || "english";
 
 loadCategory(category);

@@ -322,7 +322,14 @@ quiz input[type="radio"] {
 
 .quiz-form fieldset {
     margin-bottom: 1.5rem;
+    /* display: flex; */
 }
+
+.quiz-form fieldset label{
+    /* border: 1px solid black; */
+}
+
+
 
 .quiz-form .quiz-option {
     display: flex;
@@ -379,8 +386,10 @@ quiz input[type="radio"] {
 }
 
 .formButton{
-    background-color: white;
-    border: 1px solid black;
+    color: var(--clr-font);
+    background-color: var(--clr-bg);
+    border: 1px solid var(--clr-font);
+
     padding: var(--space-2);
 
     border-radius: 0.5rem;
@@ -394,6 +403,10 @@ quiz input[type="radio"] {
     transform: scale(0.98);
 }
 
+.formButton:hover{
+    background-color: var(--clr-main-light)
+}
+
 quiz{
     margin-bottom: 0 !important;
 }
@@ -404,9 +417,6 @@ quiz label {
     display: block;
     cursor: pointer;
 }
-        
-        
-        
         
 quiz ol li ul{
 
@@ -424,6 +434,46 @@ quiz ol li ul li{
     flex-direction: column;
     
     justify-content: center;
+}
+
+
+/* FILL QUIZZES */
+
+.word-box ul{
+    /* background-color: tomato; */
+    list-style-type: none;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid var(--clr-font);
+    padding: var(--space-1);
+    margin-bottom: var(--space-small);
+}
+
+.word-box ul li{
+    display: block;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;   
+}
+
+.question-box input{
+    font-size: var(--font-mid);
+}
+
+.question-box li.correctOption input{
+    background-color: var(--clr-correct);
+    width: auto;
+}
+
+.question-box li.incorrectOption input{
+    background-color: var(--clr-incorrect);
 }
                 
 /* 

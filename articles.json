@@ -56,6 +56,8 @@
         "name": "Hidden",
         "paths": 
         [
+            "template.md",
+            "english/vocabulary/statistic_report.md",
             "hidden/gdqp.md",
             "hidden/dia_ly.md",
             "hidden/lich_su_12_giua_ki_I.md",

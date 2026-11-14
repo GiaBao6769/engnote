@@ -62,7 +62,14 @@ async function addComponent(targetId, componentId){
 }
 
 
-await addComponent("#NAVBAR", "#NAVBAR-TEMP");
+const params = new URLSearchParams(window.location.search);
+const permission = params.get("per");
+if (permission === "restrict"){
+    await addComponent("#NAVBAR" ,"#NAVBAR-RESTRICT-TEMP")
+}
+else{
+    await addComponent("#NAVBAR", "#NAVBAR-TEMP");
+}
 // await addComponent("#FOOTER", "#FOOTER-TEMP");
 
 // Change mode

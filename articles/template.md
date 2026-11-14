@@ -1,11 +1,12 @@
 ---
-title: ""
+title: "Template"
 description: ""
 authors: "***Real*** Gia Bao, Wyfar"
 upload-date: "12/10/2026"
 update-date: "17/10/2026"
 thumbnail: ""
 ---
+
 <!-- 
 
 #![ id = onboarding-form ]
@@ -79,7 +80,7 @@ I can help you draft the exact syntax you need.
 
 <fill-quiz>
 
-<box> 
+<div class="word-box"> 
 
 - obey the rules
 - kindergarten
@@ -90,23 +91,27 @@ I can help you draft the exact syntax you need.
 - canteen
 - fail an exam
 
-</box>
+</div>
 
-1. Students can _______ in English by practising regularly.
+<div class="question-box">
 
-2. All students must ________ of their school.
+1. Students can <span>_______</span> in English by practising regularly.
 
-3. My younger brother will ________ kindergarten next year.
+2. All students must <span>_______</span> of their school.
 
-4. If you don't study hard, you may ________.
+3. My younger brother will <span>_______</span> kindergarten next year.
 
-5. We usually have lunch at the school ________.
+4. If you don't study hard, you may <span>_______</span>.
 
-6. She studies hard every day to ________.
+5. We usually have lunch at the school <span>_______</span>.
 
-7. My ________ often helps me with difficult exercises.
+6. She studies hard every day to <span>_______</span>.
 
-8. Children usually start attending ________ at the age of three or four.
+7. My <span>_______</span> often helps me with difficult exercises.
+
+8. Children usually start attending <span>_______</span> at the age of three or four.
+
+</div>
 
 <details>
 
@@ -121,10 +126,8 @@ I can help you draft the exact syntax you need.
 7. classmate
 8. kindergarten
 
-
 </details>
 
 
 
-<fill-quiz>
-
+</fill-quiz>

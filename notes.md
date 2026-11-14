@@ -3,9 +3,24 @@
 
 - Ví dụ các tenses phải đủ cả 3 dạng khẳng định, phủ định, câu hỏi; đa dạng chủ ngữ; các dạng chia của động từ.
 
+
+tags:
+
+c - categories in _articles_
+p - article in _article_
+per - permission in _articles
+
+
 # TO-DO LIST
 
 ## Articles
+
+- past participle and present particle can both be used as complements after 'be' and before nouns to modify it.
+
+    - the running man / the man is running
+    - the damaged pot / the pot was damaged
+
+- affix: prefix and suffix
 
 - lexial verb
 
@@ -47,16 +62,19 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 ## Coding
 
-- overhaul articles.json structure
+- make table not overflow
 
-- check if _ _ and * * are rendered differently
+- define color for button
+
+- put 'params' to a export script
+
+- overhaul articles.json structure
 
 - change the way to store authors from splitting ',' to lists
 
 - add padding to h3
 
 - change font
-
 
 - improve web performance
 

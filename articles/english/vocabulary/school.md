@@ -489,7 +489,7 @@ thumbnail: "./images/vocabulary_thumbnail.png"
 
 **broaden one's knowledge** (v/T): mở rộng kiến thức
 
-**gain experience** (v/T): tích lũy kinh nghiệm
+**earn/gain/gather experience** (v/T): tích lũy kinh nghiệm
 
 **develop skills** (v/T): phát triển kỹ năng
 
@@ -508,7 +508,7 @@ thumbnail: "./images/vocabulary_thumbnail.png"
 **have access to education** (v/T): có cơ hội tiếp cận giáo dục
 
 **meet a requirement** (v/T): đáp ứng một yêu cầu
-- **meet academic requirements** (v/T): đáp ứng yêu cầu học tập
+- **meet academic requirements** (v/T): đáp ứng các chỉ tiêu học tập
 
 **meet a deadline** (v/T): hoàn thành đúng thời hạn
 
