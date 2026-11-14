@@ -41,7 +41,9 @@ Các danh từ có thể thuộc về một hoặc nhiều nhóm ở dưới đ�
 
 ### 1.1. Danh từ đếm được và không đếm được
 
-_Danh từ đếm được (countable nouns)_ là những danh từ có thể được đếm bằng số. Ở dạng số ít (chỉ có một), danh từ được viết như thường. Ở dạng số nhiều (khác một, bao gồm cả không, phần thập phân, âm), danh từ được thêm đuôi _-s_ hoặc _-es_.
+#### Danh từ đếm được (countable nouns)
+
+_Danh từ đếm được_ là những danh từ có thể được đếm bằng số. Ở dạng số ít (chỉ có một), danh từ được viết như thường. Ở dạng số nhiều (số lượng khác một, bao gồm cả số không, số thập phân, và số âm), danh từ được thêm đuôi _-s_ hoặc _-es_.
 
 - VD: book - books, box - boxes, apple - apples, .v.v.
 
@@ -53,7 +55,7 @@ Một số danh từ chỉ tồn tại ở dạng số ít hoặc số nhiều, 
 
 - VD: globe (số ít), whereabouts (số nhiều)
 
-<br>
+#### Danh từ không đếm được (uncountable noun)
 
 _Danh từ không đếm được_ là những danh từ không thể được đếm bằng số.
 
@@ -62,11 +64,11 @@ _Danh từ không đếm được_ là những danh từ không thể được �
 
 ### 1.2. Danh từ cụ thể và trừu tượng
 
-### 1.3. Danh từ tập hợp (collective nouns)
+### 1.3. Danh từ tập hợp (collective noun)
 
-### 1.4. Danh từ ghép (compound nouns)
+### 1.4. Danh từ ghép (compound noun)
 
-### 1.5. Danh từ theo giới tính (gender nouns)
+### 1.5. Danh từ theo giới tính (gender noun)
 
 _Danh từ theo giới tính_ là các danh từ có dạng khác nhau dựa theo giới tính của người hoặc động vật.
 
@@ -76,32 +78,32 @@ Ví dụ:
 - waiter (nam) - waitress (nữ)
 -  lion (đực) – lioness (cái)
 
-### 1.6. (concrete nouns)
+### 1.6. (concrete noun)
 
-## 2. Động từ (verbs)
+## 2. Động từ (verb)
 
 Động từ là từ diễn tả hành động, quá trình, trạng thái, quan hệ, hoặc sự tồn tại của chủ ngữ. Động từ là thành phần trung tâm của vị ngữ trong câu.
 
-### 2.1. Động từ thường (lexical/main verbs)
+### 2.1. Động từ thường (lexical/main verb)
 
-### 2.2. Trợ động từ (auxiliary verbs)
+### 2.2. Trợ động từ (auxiliary verb)
 
-### 2.3. Động từ khuyết thiếu (modal verbs)
+### 2.3. Động từ khuyết thiếu (modal verb)
 
-### 2.4. Nội động từ (ditransitive verbs)
+### 2.4. Nội động từ (ditransitive verb)
 
 Nội động từ là động từ đứng đơn lẻ và không cần _tân ngữ_ để hoàn chỉnh ý nghĩa.
 	
 VD: sleep, swim, disappear,.v.v.
 
 
-### 2.5. Ngoại động từ (transitive verbs)
+### 2.5. Ngoại động từ (transitive verb)
 
 _Ngoại động từ_ là động từ cần có _tân ngữ_ để hoàn chỉnh ý nghĩa.
 
-### 2.6. Động từ phức (complex transitive verbs)
+### 2.6. Động từ phức (complex transitive verb)
 
-### 2.7. Động từ hai tân ngữ (ditransitive verbs)
+### 2.7. Động từ hai tân ngữ (ditransitive verb)
 
 ### 2.8.  Động từ nối
 
@@ -110,9 +112,9 @@ _Động từ nối_ là động từ dùng để nối chủ ngữ với bổ n
 - VD: be, become, seem, feel, look, remain,.v.v.
 
 
-### 2.9. Cụm động từ (phrasal verbs)
+### 2.9. Cụm động từ (phrasal verb)
 
-## 3. Tính từ (adjectives)
+## 3. Tính từ (adjective)
 
 _Tính từ_ là từ dùng để miêu tả hoặc bổ nghĩa cho một _danh từ_ hoặc _đại từ_.
 
@@ -135,7 +137,7 @@ Ví dụ:
 - a black leather jacket
 - a large old washing machine
 
-## 4. Trạng từ (adverbs)
+## 4. Trạng từ (adverb)
 
 Trạng từ là từ dùng để bổ nghĩa cho động từ, tính từ, trạng từ khác, hoặc cả câu.
 
@@ -179,7 +181,7 @@ VD: unfortunately, .v.v.
 	
 VD: personally,.v.v.
     
-### 4.11. Trạng từ liên kết (conjunction adverbs)
+### 4.11. Trạng từ liên kết (conjunction adverb)
 
 _Trạng từ liên kết_ đóng vai trò kết nối hai mệnh đề hoặc câu, giúp thể hiện quan hệ nguyên nhân - kết quả, sự tương phản, sự bổ sung, trình tự, nhấn mạnh hoặc làm rõ.
 
@@ -200,7 +202,7 @@ Khác với _liên từ_, _trạng từ liên kết_ không thể kết nối ha
 - It was raining heavily. However, we went for a walk. _(đúng)_
 - It was raining heavily. We, however, went for a walk. _(đúng)_
 
-## 5. Đại từ (pronouns)
+## 5. Đại từ (pronoun)
 
 _Đại từ_ là từ được dùng để thay thế cho một danh từ để tránh trùng lặp.
 
@@ -213,66 +215,52 @@ I, you, he, she, it, we, they
 me, you, him, her, it, us, them
 
 
-## 6. Giới từ (prepositions)
+## 6. Giới từ (preposition)
 
 _Giới từ_ là từ thể hiện quan hệ giữa một _danh từ_ hoặc _đại từ_ với các từ khác trong một câu.
 
 VD: in, on, at, of, with, .v.v.
 
-## 7. Liên từ (conjunctions)
+## 7. Liên từ (conjunction)
 
 _Liên từ_ là từ dùng để nối các từ, cụng từ, hoặc mệnh đề.
 
 VD: and, but, or, so, because, .v.v.
 
-## 8. Thán từ (interjections)
+## 8. Thán từ (interjection)
 
 _Thán từ_ là từ thể hiện cảm xúc mạnh.
 
 VD: wow, oh, ouch, oops, .v.v.
 
-## 9. Định từ (determiners)
+## 9. Định từ (determiner)
 
 **Định từ** là từ đứng trước danh từ để cung cấp thông tin về danh tính, số lượng, sự sở hữu, hoặc phạm vi của danh từ đó.
 
-### 9.1. Mạo từ (articles)
+### 9.1. Mạo từ (article)
 	
 Bao gồm a, an, the.
 
-### 9.2. Định từ chỉ định (demonstrative determiners)
+### 9.2. Định từ chỉ định (demonstrative determiner)
 	
 Bao gồm this, that, these, those.
 
-### 9.3. Định từ sở hữu (possessive determiners)
+### 9.3. Định từ sở hữu (possessive determiner)
 	
 Bao gồm my, our, your, his, her, their.
 
-### 9.4. Định từ nghi vấn (interrogative determiners)
+### 9.4. Định từ nghi vấn (interrogative determiner)
 	
 VD: what, which, whose,.v.v.
 
-### 9.5. Định từ phân phối (distributive determiners)
+### 9.5. Định từ phân phối (distributive determiner)
 	
 VD: each, every, either, neither, .v.v.
 
-### 9.6. Định từ chỉ số lượng (quantifying determiners)
+### 9.6. Định từ chỉ số lượng (quantifying determiner)
 
 VD: some, any, much, many, few, little, several, enough, all, half, both,.v.v.
 
-### 9.7. Định từ chỉ số (numeral determiners)
+### 9.7. Định từ chỉ số (numeral determiner)
 
 VD: one, six, seven, first, second,.v.v.
-
-
-
-<!-- 
-
-bổ ngữ, tân ngữ, phụ ngữ
-
-
- -->
-
-
-
-
-
