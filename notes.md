@@ -57,6 +57,7 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 - change font
 
+- add an example div that only show, say, 3 examples at once, user can expand it to see more
 
 - improve web performance
 

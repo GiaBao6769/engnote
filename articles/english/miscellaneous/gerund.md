@@ -19,15 +19,18 @@ _Danh động từ_ thường được xem là _danh từ không đếm được
 - help &rarr; helping <silent>(việc giúp đỡ)</silent>
 - steal &rarr; stealing <silent>(việc ăn cắp)</silent>
 - leave &rarr; leaving <silent>(sự rời đi)</silent>
-- let &rarr; letting <silent>(việc để)</silent>
+- put &rarr; putting <silent>(việc để, đặt)</silent>
 - lie &rarr; lying <silent>(sự nói dối)</silent>
 
 
 Để tạo một cụm _danh động từ_ từ một _cụm động từ_, ta chỉ cần thêm đuôi _-ing_ vào _động từ_ chính trong _cụm động từ_.
 
 - listen to music &rarr; listening to music
+
 - read a book &rarr; reading a book
+
 - go jogging &rarr; going jogging
+
 - not obey the rules &rarr; not obeying the rules
 
 <!-- Phrasal verb -->
@@ -38,26 +41,37 @@ Vì đóng vai trò làm _danh từ_, nên _danh động từ_ đảm nhận cá
 
 - __Làm chủ ngữ__
     - Exercising is essential to maintain a healthy lifestyle.<br><silent>(Tập thể dục là vô cùng quan trọng để duy trì một lối sống khỏe mạnh.)</silent>
+
     - *Listening to music* is my hobby.<br><silent>(Nghe nhạc là sở thích của tôi.)</silent>
+
     - *Not obeying the rules* can cause you trouble.<br><silent>(Không tuân thủ quy tắc sẽ khiến bạn gặp rắc rối.)</silent>
 
 - __Làm tân ngữ trực tiếp__
     - My cat loves *hunting* mice.<br><silent>(Con mèo nhà tôi thích đi săn chuột)</silent>
+
     - He stopped *working* as soon as he heard the news.<br><silent>(Anh ấy dừng làm việc ngay khi nghe tin)</silent>
 
 - __Làm bổ ngữ cho chủ ngữ__
     <!-- - Our goal is *winning the championship*.<br><silent>(Mục tiêu của chúng tôi là thắng giải vô địch)</silent> -->
     - Her hobby is *gardening*.<br><silent>(Sở thích của cô ấy là làm vườn)</silent>
+
     - The hardest part will be *training new staff*.<br><silent>(Phần khó nhất sẽ là huấn luyện nhân viên mới.)</silent>
 
 - __Đứng sau giới từ hoặc liên từ__
     - Colin is interested in *playing the cello*.<br><silent>(Collin hứng thú với việc chơi trung vĩ cầm.)</silent>
+
     - Thank you for *helping me*.<br><silent>(Cảm ơn đã giúp đỡ tôi.)</silent>
+
     - He left without *saying goodbye*.<br><silent>(Anh ấy rời đi mà không thèm nói lời tiễn biệt.)</silent> <!-- Sound too rude -->
+
     - She cried upon *hearing the news*.<br><silent>(Cô ấy khóc khi nghe tin.)</silent>
+
     - In spite of *studying hard*, he failed the exam.<br><silent>(Mặc dù học hành rất chăm chỉ, anh ấy lại thi trượt)</silent>
+
     - Sorry for not telling you ealier.
+
     - Vien is good at solving Math problems.
+
     - Remember to wash your hand after coming back home.
 
 <br>
@@ -99,7 +113,7 @@ _Danh động từ_ và _phân từ hiện tại_ đều có hình thức giốn
     - *Reading* is a good activity.
     - My hobby is *reading books* in my free time.
 
-- _Động từ ở dạng phân từ hiện tại:_ được sử dụng trong cấu trúc tiếp diễn, làm thành phần bổ nghĩa hoặc tạo thành mệnh đề phân từ.
+- _Động từ ở dạng phân từ hiện tại:_ được sử dụng trong cấu trúc tiếp diễn, làm thành phần bổ nghĩa, hoặc tạo thành mệnh đề phân từ.
     - A woman was *walking* when she was robbed of her purse.
     - That *running* guy was a robber.
     - When trying to hide, he was caught by the police.
@@ -109,6 +123,7 @@ _Danh động từ_ và _phân từ hiện tại_ đều có hình thức giốn
 Khác với _phân từ hiện tại_, ta có thể biến đổi các _động từ trạng thái (stative verbs)_ thành _danh động từ_.
 
 - Recognizing patterns is a crucial part to solve any problems.<br><silent>(Nhận các khuôn mẫu là một phần thiết yếu để giải quyết các vấn đề.)</silent>
+
 - Hating each others doesn't make you any better.<br><silent>(Thù ghét lẫn nhau không khiến ta tốt lên.)</silent>
 
 ## 5. Danh động từ sở hữu (Possessive gerund)
@@ -122,6 +137,7 @@ _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (
 Cấu trúc _danh động từ sở hữu_ là một cụm có sắc thái _trang trọng_. Trong văn nói _không trạng trọng_, người nói thường sử dụng _đại từ_ ở dạng _tân ngữ_ hoặc _danh từ_ ở dạng thông thường thay cho dạng sở hữu. 
 
 - I don't mind his smoking. <silent>(trang trọng)</silent>
+
 - I don't mind him smoking. <silent>(kém trang trọng hơn)</silent><br><silent>(Tôi không phiền việc anh ấy hút thuốc.)</silent>
 
 Cả hai cấu trúc đều được sử dụng trong tiếng Anh hiện đại.
