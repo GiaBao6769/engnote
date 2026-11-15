@@ -8,6 +8,7 @@ thumbnail: "./images/WIP_thumbnail.jpg"
 ---
 
 # I. ĐỊNH NGHĨA VỀ GIỚI TỪ
+
 Giới từ (Preposition) là từ được dùng để liên kết các từ hoặc cụm từ (thường là danh từ hoặc đại từ) với các thành phần khác trong câu.
 
 Giới từ có thể biểu thị quan hệ về vị trí, thời gian, nguyên nhân, cách thức, sự sở hữu,.v.v.

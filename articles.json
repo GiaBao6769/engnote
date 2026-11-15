@@ -4,9 +4,19 @@
 
 [
     {
+        "name": "",
+        "paths": 
+        [
+            "update_log.md"
+        ]
+    },
+
+    {
         "name": "thì (tenses)",
         "paths": 
         [
+            "english/tenses/tense.md",
+
             "english/tenses/present_simple.md",
             "english/tenses/present_continuous.md",
             "english/tenses/present_perfect.md",
@@ -25,7 +35,6 @@
         [
             "english/miscellaneous/introduction_to_word_classes.md",
             "english/miscellaneous/gerund.md",
-            "english/miscellaneous/preposition.md",
             "english/phrase-clause-sentence/clauses.md"
         ]
     },

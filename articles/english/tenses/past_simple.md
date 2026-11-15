@@ -28,7 +28,7 @@ Thì _quá khứ đơn_ được dùng để diễn tả:
 
 Động từ trong thì _quá khứ đơn_ được chia ở dạng _quá khứ_.
 
-[Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
+[Bảng chia động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
 
 ## 1. Đối với động từ _be_
 

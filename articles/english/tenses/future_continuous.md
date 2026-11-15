@@ -29,9 +29,7 @@ exam.<br>_(Ngày mai tại thời điểm này, chúng tôi sẽ đang làm bài
 
 Động từ chính trong thì _tương lai tiếp diễn_ được chia ở dạng _phân từ hiện tại_, theo sau động từ _be_ được chia ở tương lai với _động từ khuyết thiếu_ _will_.
 
-<br>
-
-<div class="center-div">
+<center>
 
 <div class="text-box">
 
@@ -43,15 +41,13 @@ exam.<br>_(Ngày mai tại thời điểm này, chúng tôi sẽ đang làm bài
 
 </div>
 
-</div>
+</center>
 
 Trong đó:
 
 - **S** là chủ ngữ
 
 - **V<sub>phân từ hiện tại</sub>** là động từ được chia ở phân từ hiện tại
-
-<br>
 
 **Viết tắt**:
 

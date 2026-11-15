@@ -59,9 +59,12 @@ async function createCard(path){
     const cardTitle = card.querySelector(".card-title");
     const cardDesc = card.querySelector(".card-desc");
     const cardThumbnail = card.querySelector(".article-thumbnail");
+    const cardDate = card.querySelector(".card-date");
+
 
     cardTitle.textContent = metadata["title"];
     cardDesc.textContent = metadata["description"];
+    cardDate.textContent = metadata["update-date"];
     
     cardThumbnail.onerror = () => {
         cardThumbnail.onerror = null;

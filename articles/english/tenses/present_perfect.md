@@ -39,11 +39,11 @@ Thì *hiện tại hoàn thành* diễn tả:
 
 Các động từ chia ở dạng _phân từ quá khứ_ được phân thành 2 nhóm và biến đổi theo cách khác nhau:
 
-- **động từ có quy tắc**: thêm đuôi _-ed_ vào cuối động từ
-- **động từ bất quy tắc**: biến đổi dựa theo bảng chia từ quá khứ
+- **động từ có quy tắc**: được thêm đuôi _-ed_ vào cuối động từ
+- **động từ bất quy tắc**: được biến đổi riêng biệt đối với từng từ
 
 
-[Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
+[Bảng chia động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
 
 
 <div class="center-div">

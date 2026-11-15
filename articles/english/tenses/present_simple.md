@@ -8,6 +8,7 @@ thumbnail: "./images/english_tenses/present_simple_thumbnail.png"
 ---
 
 
+
 # 1. TÁC DỤNG
 
 Thì _hiện tại đơn_ diễn tả:
@@ -76,7 +77,7 @@ Thì _hiện tại đơn_ diễn tả:
 
 <br>
 
-<div class="center-div">
+<center>
 
 <div class="text-box">
 
@@ -89,7 +90,8 @@ Thì _hiện tại đơn_ diễn tả:
 
 </div>
 
-</div>
+</center>
+
 
 Trong đó:
 
@@ -129,7 +131,7 @@ Trợ động từ được dùng trong thì **hiện tại đơn** là _do_, kh
 
 <br>
 
-<div class="center-div">
+<center>
 
 <div class="text-box">
 
@@ -141,7 +143,8 @@ Trợ động từ được dùng trong thì **hiện tại đơn** là _do_, kh
 
 </div>
 
-</div>
+</center>
+
 
 Trong đó:
 

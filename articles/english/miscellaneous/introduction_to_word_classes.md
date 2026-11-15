@@ -3,7 +3,7 @@ title: "Giới thiệu về từ loại"
 description: "(Bài viết đang được hoàn thiện)"
 authors: "Gia Bao"
 upload-date: "24/10/2026"
-update-date: "24/10/2026"
+update-date: "14/11/2026"
 thumbnail: "./images/grammar_thumbnail.png"
 ---
 
@@ -13,23 +13,23 @@ Trong tiếng Anh, các từ vựng được phân loại dựa trên chức nă
 
 Các nhóm từ loại bao gồm:
 
-- **Danh từ (nouns):** diễn tả người, động vật, sự vật, nơi chốn, .v.v.
+- **Danh từ (noun):** diễn tả người, động vật, sự vật, nơi chốn, .v.v.
 
-- **Động từ (verbs):** diễn tả hành động, sự việc, trạng thái, quan hệ, sự tồn tại
+- **Động từ (verb):** diễn tả hành động, sự việc, trạng thái, quan hệ, sự tồn tại
 
-- **Tính từ (adjectives):** mô tả, bổ nghĩa cho danh từ hoặc đại từ
+- **Tính từ (adjective):** mô tả, bổ nghĩa cho danh từ hoặc đại từ
 
-- **Trạng từ (adverbs):** mô tả, bổ nghĩa cho động từ, tính từ, hoặc trạng từ khác
+- **Trạng từ (adverb):** mô tả, bổ nghĩa cho động từ, tính từ, hoặc trạng từ khác
 
-- **Đại từ (pronouns):** được dùng để thay thế danh từ nhằm tránh sự trùng lặp
+- **Đại từ (pronoun):** được dùng để thay thế danh từ nhằm tránh sự trùng lặp
 
-- **Giới từ (prepositions):** diễn tả quan hệ giữa danh từ hoặc đại từ đối với các từ khác trong câu
+- **Giới từ (preposition):** diễn tả quan hệ giữa danh từ hoặc đại từ đối với các từ khác trong câu
 
-- **Liên từ (conjunctions):** liên kết các từ, các câu, hoặc các mệnh đề
+- **Liên từ (conjunction):** liên kết các từ, các câu, hoặc các mệnh đề
 
-- **Thán từ (interjections):** thường được thốt lên trong câu để diễn tả cảm giác hoặc cảm xúc bất chợt
+- **Thán từ (interjection):** thường được thốt lên trong câu để diễn tả cảm giác hoặc cảm xúc bất chợt
 
-- **Định từ (determiners):** xác định và làm rõ số lượng, vị trí, sự sở hữu của danh từ
+- **Định từ (determiner):** xác định và làm rõ số lượng, vị trí, sự sở hữu của danh từ
 
 # II. CHI TIẾT VỀ TỪ LOẠI
 
@@ -76,7 +76,7 @@ Ví dụ:
 - actor (nam) – actress (nữ)
 - emperor (nam) – empress (nữ)
 - waiter (nam) - waitress (nữ)
--  lion (đực) – lioness (cái)
+- lion (đực) – lioness (cái)
 
 ### 1.6. (concrete noun)
 
@@ -214,12 +214,22 @@ I, you, he, she, it, we, they
 
 me, you, him, her, it, us, them
 
+### 5.3. Đại từ bất định
+
+### 5.4. Đại từ sở hữu
+
 
 ## 6. Giới từ (preposition)
 
-_Giới từ_ là từ thể hiện quan hệ giữa một _danh từ_ hoặc _đại từ_ với các từ khác trong một câu.
+Giới từ là từ được dùng để liên kết các từ hoặc cụm từ (thường là danh từ hoặc đại từ) với các thành phần khác trong câu.
 
-VD: in, on, at, of, with, .v.v.
+Giới từ có thể biểu thị quan hệ về vị trí, thời gian, nguyên nhân, cách thức, sự sở hữu,.v.v.
+
+Giới từ được chia thành hai loại bao gồm:
+
+- Giới từ đơn (Simple prepositions): chỉ gồm một từ duy nhất. Ví dụ: in, on, at, by.
+
+- Giới từ phức (Complex prepositions): gồm nhiều từ. Ví dụ: next to, in front of, because of.
 
 ## 7. Liên từ (conjunction)
 

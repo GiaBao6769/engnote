@@ -1,3 +1,14 @@
+Thì (tense) - thái (voice) - thức (mood)
+
+### Thứ tự đại từ
+
+### Thứ tự động từ be
+
+am/are/is
+was/were
+
+
+
 - Different pronunciation between verbs and nouns
 - Some meanings belong to a specific field such as Mathematic or Law. Try to store them in such a way that I can querry the field later.
 
@@ -10,10 +21,20 @@ c - categories in _articles_
 p - article in _article_
 per - permission in _articles
 
+# Format
+
+Capitalize the first letter in the paranthesis if the word/phrase it indicate is also capitalized
+
 
 # TO-DO LIST
 
 ## Articles
+
+- thống nhất tên gọi 'thuận quy tắc' và 'có quy tắc' của động từ ở quá khứ
+
+- thì hiện tại đơn và quá khứ đơn có động từ chính là _be_ không cần trợ động từ
+
+- morphology
 
 - past participle and present particle can both be used as complements after 'be' and before nouns to modify it.
 
@@ -76,11 +97,8 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 - change font
 
-<<<<<<< HEAD
-=======
 - add an example div that only show, say, 3 examples at once, user can expand it to see more
 
->>>>>>> d4c492498d996b1cb4dd9f514e3f2d1e5541a5be
 - improve web performance
 
 

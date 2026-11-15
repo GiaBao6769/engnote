@@ -45,8 +45,18 @@ body{
 
 .card-info{
     margin-top: var(--space-tiny);
-
     margin-left: var(--space-small);
+
+    display: flex;
+
+    width: 100%;
+
+    gap: var(--space-1);
+
+    /* background-color: red; */
+
+    flex-direction: column;
+    justify-content: space-between;
 }
 .card-title{
     color: var(--clr-main);
@@ -67,7 +77,7 @@ body{
 
     /* background-color: red; */
 
-    margin-top: var(--space-tiny);
+    margin-top: var(--space-1);
     font-family: sans-serif;
     /* padding-top: var(--space-1); */
 
@@ -75,8 +85,23 @@ body{
     /* line-height: 1rem; */
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     overflow: hidden;
+}
+
+.card-date-div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-date-div * {
+    font-family: sans-serif;
+    white-space: pre-wrap;
+    color: var(--clr-silent);
+}
+
+.card-date {
+
 }
 
 

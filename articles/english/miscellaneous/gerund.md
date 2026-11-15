@@ -3,7 +3,7 @@ title: "Danh động từ\n(Gerund)"
 description: ""
 authors: "Gia Bao"
 upload-date: "07/11/2026"
-update-date: "07/11/2026"
+update-date: "15/11/2026"
 thumbnail: "./images/grammar_thumbnail.png"
 ---
 
@@ -126,7 +126,7 @@ Khác với _phân từ hiện tại_, ta có thể biến đổi các _động 
 
 - Hating each others doesn't make you any better.<br><silent>(Thù ghét lẫn nhau không khiến ta tốt lên.)</silent>
 
-## 5. Danh động từ sở hữu (Possessive gerund)
+## 5. Danh động từ sở hữu (possessive gerund)
 
 _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (_định từ sở hữu_ hoặc _danh từ sở hữu_) kết hợp với một _danh động từ_. Lúc này, cụm sẽ biểu thị việc hành động được thực hiện bởi chính chủ thể sở hữu.
 
