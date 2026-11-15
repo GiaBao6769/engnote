@@ -100,10 +100,6 @@ body{
     color: var(--clr-silent);
 }
 
-.card-date {
-
-}
-
 
 @media (max-width: 800px){
     .card-title{

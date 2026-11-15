@@ -22,7 +22,7 @@ _Thời gian_ của của hành động được chia thành 3 quãng thời gia
 
 Các hành động được chia thành 4 _thể (aspect)_, dựa theo cách mà hành động điễn ra:
 
-- __Thể đơn (simple aspect):__ diễn tả sự thật chung, hành động lặp đi lặp lại hoặc thói quen, tình huống tại một thời điểm.
+- __Thể đơn (simple):__ diễn tả sự thật chung, hành động lặp đi lặp lại hoặc thói quen, tình huống tại một thời điểm.
 
 - __Thể tiếp diễn (continuous):__ chỉ hành động, sự việc đang diễn ra hoặc một hành động tạm thời tại một thời điểm.
 
