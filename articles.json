@@ -35,7 +35,7 @@
         [
             "english/miscellaneous/introduction_to_word_classes.md",
             "english/miscellaneous/gerund.md",
-            "english/phrase-clause-sentence/clauses.md"
+            "english/phrase-clause-sentence/clause.md"
         ]
     },
 
@@ -66,6 +66,7 @@
         "paths": 
         [
             "template.md",
+            "english/phrase-clause-sentence/phrase.md",
             "english/vocabulary/statistic_report.md",
             "hidden/gdqp.md",
             "hidden/dia_ly.md",

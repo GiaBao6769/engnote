@@ -1,5 +1,5 @@
 ---
-title: "Cụm từ (Phrase)"
+title: "Cụm từ\n(Phrase)"
 description: "(Bài viết đang được hoàn thiện)"
 authors: "Gia Bao"
 upload-date: "10/11/2026"

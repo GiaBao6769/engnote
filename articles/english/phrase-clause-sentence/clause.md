@@ -147,7 +147,7 @@ Mệnh đề phụ thuộc là một mệnh đề không có ý nghĩa hoàn ch�
 
 Mệnh đề phụ thuộc cần phải được kết nối với một mệnh đề độc lập khác để hoàn thiện ý nghĩa.
 - I want to become a doctor *when I grow up*.
-- *Although this dish is expensive*, it tastes really deliciuous.
+- *Although this dish is expensive*, it tastes really delicious.
 - We couldn't solve the problem with our current approach, *so we tried another way*.
 - I believe *that things will become better*.
 
