@@ -7,12 +7,12 @@
         "name": "",
         "paths": 
         [
-            "update_log.md"
+            "update_logs.md"
         ]
     },
 
     {
-        "name": "thì (tenses)",
+        "name": "Thì (Tense)",
         "paths": 
         [
             "english/tenses/tense.md",

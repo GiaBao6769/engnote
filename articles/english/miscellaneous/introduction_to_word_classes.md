@@ -227,9 +227,9 @@ Giới từ có thể biểu thị quan hệ về vị trí, thời gian, nguyê
 
 Giới từ được chia thành hai loại bao gồm:
 
-- Giới từ đơn (Simple prepositions): chỉ gồm một từ duy nhất. Ví dụ: in, on, at, by.
+- Giới từ đơn (simple prepositions): chỉ gồm một từ duy nhất. Ví dụ: in, on, at, by.
 
-- Giới từ phức (Complex prepositions): gồm nhiều từ. Ví dụ: next to, in front of, because of.
+- Giới từ phức (complex prepositions): gồm nhiều từ. Ví dụ: next to, in front of, because of.
 
 ## 7. Liên từ (conjunction)
 
