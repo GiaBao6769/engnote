@@ -226,6 +226,47 @@ function renderMultipleChoices() {
     });
 }
 
+
+function saveFillAnswer(quizBlockId, userAnswers){
+
+    let string = "";
+    
+    userAnswers.forEach(answer => {
+        string += answer + ";";
+    });
+
+    localStorage.setItem(`fill-quiz${quizBlockId}`);
+}
+
+function loadFillQuizzes(questions, quizBlockId){
+    const string = localStorage.getItem(`fill-quiz${quizBlockId}`);
+
+    const userAnswers = "";
+
+    questions.forEach((question, questionId) => {
+
+        const input = question.querySelector(".input-box");
+
+        const answer = input.value;
+        // add refine
+
+        if (answer == answers[questionId]){
+            question.classList.add("correctOption");
+        }
+        else if (answer === ""){
+            question.classList.add("incorrectOption");
+        }
+        else{
+            question.classList.add("incorrectOption");
+            input.value = answers[questionId];
+        }
+
+        input.disabled = true;
+
+        // input.classList.add("chosen");
+    });
+}   
+
 function resetFillQuizzes(questions){
     questions.forEach((question) =>{
 
@@ -244,8 +285,6 @@ function resetFillQuizzes(questions){
 function submitFillQuizzes(questions, answers){
 
     questions.forEach((question, questionId) => {
-
-        console.log(question);
 
         const input = question.querySelector(".input-box");
 
@@ -269,10 +308,15 @@ function submitFillQuizzes(questions, answers){
     });
 }
 
+let GLOBAL_QUIZ_ID = 0;
+
 function renderFillQuizzes(){
     const quizBlocks = document.querySelectorAll("fill-quiz");
 
     quizBlocks.forEach((quizBlock, quizId) => {
+
+        quizBlocks.dataset["QUIZ_ID"] = GLOBAL_QUIZ_ID;
+        GLOBAL_QUIZ_ID += 1;
 
         const questionBox = quizBlock.querySelector(".question-box");
         const questions = questionBox.querySelectorAll("ol > li");

@@ -26,7 +26,7 @@ Các hành động được chia thành 4 _thể (aspect)_, dựa theo cách mà
 
 - __Thể tiếp diễn (continuous):__ chỉ hành động, sự việc đang diễn ra hoặc một hành động tạm thời tại một thời điểm.
 
-- __Thể hoành thành (perfect):__ chỉ hành động, sự việc đã hoàn thành trước một thời điểm hoặc có sự ảnh hưởng và tác động đến thời điểm đó.
+- __Thể hoàn thành (perfect):__ chỉ hành động, sự việc đã hoàn thành trước một thời điểm hoặc có sự ảnh hưởng và tác động đến thời điểm đó.
 
 - __Thể hoàn thành tiếp diễn (perfect continuous):__ diễn tả hành động diễn ra lên tục và đã hoàn thành trước một thời điểm.
 
@@ -38,7 +38,7 @@ Các thì trong tiếng Anh là sự kết hợp giữa _thời gian_ và _thể
 
 <!-- [\] Too rough -->
 
-Thì trong một mệnh đề là thì của động từ chính của mệnh đề đó. Cùng một câu, chúng ta cũng có thể diễn đạt bằng nhiều thì khác nhau chứ không bị bó buộc vào một thì duy nhất.
+Cùng một câu, chúng ta cũng có thể diễn đạt bằng nhiều thì khác nhau chứ không bị bó buộc vào một thì duy nhất.
 
 
 # 2. TRỢ ĐỘNG TỪ & DẠNG VÀ CẤU TRÚC CỦA ĐỘNG TỪ
@@ -126,7 +126,7 @@ Cấu trúc của động từ ở thể hoàn thành gồm _trợ động từ 
 <center>
 
 | Thể hoàn thành | hiện tại | quá khứ    | tương lai |
-| :--            | :---     | :---       | :---      |
+| :---           | :---     | :---       | :---      |
 | Trợ động từ    | have/has | had        | will have |      
 
 </center>

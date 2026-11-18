@@ -7,12 +7,12 @@
         "name": "",
         "paths": 
         [
-            "update_log.md"
+            "update_logs.md"
         ]
     },
 
     {
-        "name": "thì (tenses)",
+        "name": "Các Thì (Tenses)",
         "paths": 
         [
             "english/tenses/tense.md",
@@ -30,7 +30,7 @@
     },
 
     {
-        "name": "Nền tảng ngôn ngữ",
+        "name": "Các đơn vị ngữ pháp (Grammar Units)",
         "paths":
         [
             "english/miscellaneous/introduction_to_word_classes.md",
@@ -66,7 +66,9 @@
         "paths": 
         [
             "template.md",
+            "english/miscellaneous/grammar.md",
             "english/phrase-clause-sentence/phrase.md",
+            "english/phrase-clause-sentence/relative_clause.md",
             "english/vocabulary/statistic_report.md",
             "hidden/gdqp.md",
             "hidden/dia_ly.md",
