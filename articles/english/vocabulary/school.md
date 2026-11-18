@@ -2,7 +2,7 @@
 title: "Từ vựng về Học tập"
 authors: "Gia Bao"
 upload-date: "30/10/2026"
-update-date: "30/10/2026"
+update-date: "16/11/2026"
 thumbnail: "./images/vocabulary_thumbnail.png"
 ---
 
@@ -828,6 +828,15 @@ A. fail an exam　 B. meet a deadline　 C. fall behind in their studies　 D. a
     - D. pursue higher education
 
 </quiz>
+
+<details>
+
+<summary>Đáp án</summary>
+
+<p>CADBACBDACBDACBDACBDACBDACBDAC</p>
+
+</details>
+
 
 <!-- 
 ## 2. Fill the gaps with the correct words provided in the box. You can only use each word once.

@@ -104,7 +104,10 @@ Hậu phụ ngữ là phần đứng sau _danh từ trung tâm_ và bao gồm c�
 
 Trợ động từ tình thái:
 
-    - can, may, should, must
+- can
+- may
+- should
+- must
 
 Trợ động từ chính
 
