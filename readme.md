@@ -31,9 +31,9 @@ p: article being rendered in _article.html_
 per - permission: permissions in _article.html_
     - per=restrict: users can't access the main page (used for people who don't understand how a website works and you don't want them to find out about other things in your page.
 
-    - per=private: no one can read
+    - per=private: no one can read [ ]
 
-    - per
+    - per=restrict: read but unable to access [x]
 
 ### Pathname
 

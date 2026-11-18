@@ -212,12 +212,19 @@ I, you, he, she, it, we, they
 
 ### 5.2. Đại từ làm tân ngữ 
 
-me, you, him, her, it, us, them
+me, you, us, them, him, her, it
 
 ### 5.3. Đại từ bất định
 
 ### 5.4. Đại từ sở hữu
 
+- mine 
+- yours
+- ours
+- theirs
+- his
+- hers
+- its (ít thông dụng)
 
 ## 6. Giới từ (preposition)
 
@@ -233,9 +240,27 @@ Giới từ được chia thành hai loại bao gồm:
 
 ## 7. Liên từ (conjunction)
 
-_Liên từ_ là từ dùng để nối các từ, cụng từ, hoặc mệnh đề.
+_Liên từ_ là từ dùng để nối các từ, cụm từ, hoặc mệnh đề.
 
-VD: and, but, or, so, because, .v.v.
+### 7.1. Liên từ nối (coordinating conjunction)
+
+- For
+- And
+- Nor
+- But
+- Or
+- Yet
+
+## 7.2. Liên từ phụ thuộc (subordinating conjunction)
+
+## 7.3. Liên từ tương quan (correlative conjunction)
+
+- either ... or ...
+- neither ... nor ...
+- both ... and 
+- whether ... or
+- not only ... but also
+
 
 ## 8. Thán từ (interjection)
 
@@ -259,7 +284,12 @@ Bao gồm this, that, these, those.
 
 ### 9.3. Định từ sở hữu (possessive determiner)
 	
-Bao gồm my, our, your, his, her, their.
+- my
+-  your
+- our
+- their
+- his
+- her
 
 ### 9.4. Định từ nghi vấn (interrogative determiner)
 	

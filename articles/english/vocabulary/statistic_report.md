@@ -215,7 +215,9 @@ __subsequently__
 
 __in contrast__
 
-__as a result__
+__as a result_
+
+__conversely__
 
 but, likewise, also, while, according to statistics/survey data/estimation, According to the graph/figures, it is clear that, it can be seen that, it is noticeable that, in contrast, however, whereas, on the other hand, in addition, furthermore
 
