@@ -21,7 +21,7 @@ thumbnail: "./images/superlative_thumbnail.png"
     </div>
 </div>
 
-Bài viết này được viết dựa trên các định nghĩa được viết ở bài [_So sánh hơn_]().
+Bài viết này được viết dựa trên các định nghĩa được viết ở bài [_So sánh hơn_](article.html?p=english/miscellaneous/comparative.md).
 
 # I. GIỚI THIỆU VỀ CẤU TRÚC SO SÁNH NHẤT
 

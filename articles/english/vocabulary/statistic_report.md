@@ -215,7 +215,7 @@ __subsequently__
 
 __in contrast__
 
-__as a result_
+__as a result__
 
 __conversely__
 

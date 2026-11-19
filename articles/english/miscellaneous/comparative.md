@@ -9,6 +9,11 @@ thumbnail: "./images/comparative_thumbnail.png"
 
 ![](./images/comparative_thumbnail.png)
 
+<!-- 
+- Các tính từ không có dạng so sánh hơn / nhất
+
+ -->
+
 # 1. GIỚI THIỆU VỀ SO SÁNH HƠN
 
 _So sánh hơn_ là một hình thức ngữ pháp được dùng để so sánh sự hơn kém giữa hai người, sự vật, hiện tượng, hoặc đối tượng dựa trên một phương diện, đặc điểm, hoặc tính chất nhất định.

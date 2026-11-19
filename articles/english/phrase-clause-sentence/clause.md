@@ -1,5 +1,5 @@
 ---
-title: "Mệnh đề (Clause)"
+title: "Mệnh đề\n(Clause)"
 description: "Mệnh đề là một đơn vị ngữ pháp cơ bản trong tiếng Anh để xây dựng các câu có cấu trúc đơn giản lẫn phức tạp."
 authors: "Gia Bao"
 upload-date: "09/11/2026"
