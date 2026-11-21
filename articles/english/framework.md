@@ -128,3 +128,25 @@ Irregular inflection -->
     - Abbreviation
 
 
+
+# Mixcellaneous
+
+- article
+- question tags
+- indirect questions
+- so - such, too - enough
+- reported speech
+
+![alt text]({33256AFE-754B-43DA-BC8D-CA7EED2E9E8D}.png)
+
+
+# Short
+
+- find someone/something adj
+- used to
+- be used to
+- as long as, so long as,provided that
+- causuative:
+    - have someone to
+    - make someone/something adj/V
+    

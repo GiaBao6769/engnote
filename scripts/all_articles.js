@@ -1,5 +1,4 @@
-import { getJson, getComponent, isExistingPath } from "./main.js"
-const params = new URLSearchParams(window.location.search);
+import { getJson, getComponent, isExistingPath, params} from "./main.js"
 
 const permission = params.get("per");
 
@@ -54,7 +53,7 @@ async function createCard(path){
     });
 
     const a = card.querySelector("a");
-    a.href = `article.html?p=${path}`+ (permission ? `?per=${permission}` : "");
+    a.href = `article.html?p=${path}`+ (permission ? `&per=${permission}` : "");
 
     const cardTitle = card.querySelector(".card-title");
     const cardDesc = card.querySelector(".card-desc");

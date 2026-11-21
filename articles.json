@@ -43,6 +43,7 @@
         "name": "miscellaneous",
         "paths":
         [
+            "english/miscellaneous/passive_voice.md",
             "english/miscellaneous/comparative.md",
             "english/miscellaneous/superlative.md",
             "english/miscellaneous/inversion.md",

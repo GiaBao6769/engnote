@@ -35,6 +35,14 @@ per - permission: permissions in _article.html_
 
     - per=restrict: read but unable to access [x]
 
+### Quiz name conventions
+
+#### Multiple choices
+
+- _q1_{id}_
+- _q2_{id}_
+
+
 ### Pathname
 
 ### Articles

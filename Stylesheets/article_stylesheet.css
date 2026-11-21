@@ -286,6 +286,11 @@ table{
     border-collapse: collapse;
 }
 
+
+/* code {
+    color: rgb(221, 219, 219)
+} */
+
 .text-box {
     display: inline-flex;
     flex-direction: column;
@@ -345,13 +350,8 @@ quiz input[type="radio"] {
     /* display: flex; */
 }
 
-.quiz-form fieldset label{
-    /* border: 1px solid black; */
-}
 
-
-
-.quiz-form .quiz-option {
+.quiz-option {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -359,39 +359,32 @@ quiz input[type="radio"] {
     cursor: pointer;
 }
 
-.quiz-form .quiz-option:has(input:checked){
+.quiz-option:has(input:checked){
     background-color: var(--clr-main-light);
 }
 
 /* was not selected */
 
-.quiz-form .correctOption{
+.correctOption{
     background-color: var(--clr-correct);
 
 }
 
 /* select the correct answer */
-.quiz-form .quiz-option:has(input:checked).correctOption{
+.quiz-option:has(input:checked).correctOption{
     background-color: var(--clr-correct);
     font-weight: bold;
 }
-.quiz-form .quiz-option:has(input:checked).incorrectOption{
+.quiz-option:has(input:checked).incorrectOption{
     background-color: var(--clr-incorrect);
 }
 
 .optionLetter {
-    /* width: 0.25rem;
-    height: 4rem; */
-
     font-weight: bold;
 
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    /* margin: 0;
-    border: 1px solid black;
-    border-radius: 50%;
-    flex-shrink: 0; */
 }
 
 #CONTENT fieldset{
@@ -437,15 +430,20 @@ quiz label {
     display: block;
     cursor: pointer;
 }
+
+quiz ol{
+    padding-left: 0;
+    margin-bottom: var(--space-4);
+}
         
-quiz ol li ul{
+/* quiz ol li ul{
 
     display: flex;
 
     justify-content: space-evenly;
-}
+} */
             
-quiz ol li ul li{
+/* quiz ol li ul li{
     
     
     list-style-type: none;
@@ -454,10 +452,10 @@ quiz ol li ul li{
     flex-direction: column;
     
     justify-content: center;
-}
+} */
 
 
-/* FILL QUIZZES */
+/*########## FILL QUIZZES ##########*/
 
 .word-box ul{
     /* background-color: tomato; */
@@ -527,3 +525,19 @@ multiple-choices div:has(input[type="radio"]:checked){
 
 */
 
+
+/* ########## TRUE FALSE QUIZZES */
+
+
+tf-quiz{
+    background-color: red;
+}
+
+.statement{
+    display: flex;
+    border: 1px solid black;
+}
+
+.tf-div{
+    border: 1px dotted black;
+}

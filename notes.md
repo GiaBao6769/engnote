@@ -2,6 +2,10 @@ Thì (tense) - thái (voice) - thức (mood)
 
 ### Thứ tự đại từ
 
+I, you, he, she, it, we, they
+
+
+
 ### Thứ tự động từ be
 
 am/are/is
@@ -29,6 +33,8 @@ Capitalize the first letter in the paranthesis if the word/phrase it indicate is
 # TO-DO LIST
 
 ## Articles
+
+- Thêm các đoạn hoặc bài văn dài thay vì chỉ có ví dụ trong các bài viết [ ]
 
 - thống nhất tên gọi 'thuận quy tắc' và 'có quy tắc' của động từ ở quá khứ
 
@@ -72,9 +78,13 @@ Capitalize the first letter in the paranthesis if the word/phrase it indicate is
 
 - to infinitive
 
+- finite form
+
 - các động từ chung gốc thường chia giống nhau trong bảng chia từ
 
 - các thành phần trong câu: chủ ngữ, bổ ngữ, trạng ngữ
+
+- https://share.google/aimode/wNAZPMlOrWE7ka5Lt
 
 fix "at noon / at dawn / at sunrise / at sunset / at dusk / at daybreak" in present simple and past simple
 maybe put the preposition signals to a separated article and only refer to it as prepositions and persition phrases refering to the past/present

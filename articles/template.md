@@ -69,14 +69,32 @@ I can help you draft the exact syntax you need.
 	- C. Choices 3
 	- D. Choices 4
 
+3. This is the third question
+	- A. Choices 1
+	- B. Choices 2
+	- C. Choices 3 (correct)
+
+
 <details>
 	<summary><b>Đáp án</b></summary>
-	<p>1. A 2. B</p>
+	<p>1. A 2. B 3. C</p>
 </details>
 
 </quiz>
 
-## 2. Fill in the blanks
+## 2. True/False
+
+<tf-quiz>
+
+1. Statement 1
+2. Statement 2
+3. Statement 3
+4. Statement 4
+5. Statement 5
+
+</tf-quiz>
+
+## 3. Fill in the blanks
 
 <fill-quiz>
 

@@ -62,8 +62,9 @@ async function addComponent(targetId, componentId){
 }
 
 
-const params = new URLSearchParams(window.location.search);
+export const params = new URLSearchParams(window.location.search);
 const permission = params.get("per");
+
 if (permission === "restrict"){
     await addComponent("#NAVBAR" ,"#NAVBAR-RESTRICT-TEMP")
 }

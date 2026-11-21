@@ -10,6 +10,12 @@ const desc = document.getElementById("DESC");
 const loadingSection = document.getElementById("LOADING-SECTION");
 
 
+const quizParse = "q1"
+// q1-{quizBlockId}-{questionId}
+
+
+
+
 // rename to a better name
 async function processMd(mdPath){
     const res = await fetch(`./articles/${mdPath}`);
@@ -101,51 +107,219 @@ async function renderArticle(mdPath){
     contentSection.innerHTML = html;
 }
 
+function saveMultipleChoices() {
+
+}
+
+function loadSavedMultipleChoices(quiz){
+    return false;
+    const quizId = quiz.dataset.quizId;
+    
+    const userAnswers = "CBB";
+
+    const questions = quiz.querySelectorAll("fieldset");
+
+    questions.forEach((question, questionId) => {
+        const options = question.querySelectorAll('input[type="radio"]');
+        options.forEach((option, optionId) => {
+            if (option.value == userAnswers[questionId]){
+                option.checked = true;
+            }
+        });
+    });
+
+    return true;
+}
+
+function submitMultipleChoices(quiz) {
+    const correctAnswers = quiz.dataset.correctAnswers;
+
+    const questions = quiz.querySelectorAll("fieldset");
+
+    let correctAnsCnt = 0;
+
+    questions.forEach((question, questionId) => {
+        question.disabled = true;
+
+        const options = question.querySelectorAll('input[type="radio"]');
+
+        options.forEach((input) => {
+            const label = input.closest("label");
+
+            if (input.value == correctAnswers[questionId]) {
+                label.classList.add("correctOption");
+                if (input.checked){
+                    correctAnsCnt += 1;
+                }
+            } 
+            else if (input.checked){
+                label.classList.add("incorrectOption");
+            }
+        });
+
+    });
+}
+
+function resetMultipleChoices(quiz){
+    quiz.querySelectorAll("fieldset")
+        .forEach((fieldset) => {
+            fieldset.disabled = false;
+        });
+
+
+    quiz.querySelectorAll(".correctOption, .incorrectOption")
+        .forEach(label => {
+            label.classList.remove("correctOption", "incorrectOption");
+            const input = label.querySelector("input");
+            input.checked = false;
+        });
+}
+
+// function renderMultipleChoices() {
+//     const quizBlocks = contentSection.querySelectorAll("quiz");
+
+//     if (quizBlocks === null) return;
+
+//     quizBlocks.forEach((quiz, quizId) => {
+//         const form = document.createElement("form");
+//         form.classList.add("quiz-form");
+//         // 
+//         const answers = quiz.querySelector("details").querySelector("p").innerHTML.replace(/[^A-D]/g, "");;
+
+//         const questions = quiz.querySelectorAll("ol > li");
+
+//         questions.forEach((question, questionId) => {
+//             const fieldset = document.createElement("fieldset");
+
+//             fieldset.dataset.correct = answers[questionId];
+//             fieldset.dataset.quizId = `${quizParse}-${questionId}`;
+
+//             // Extract the question text without its options list.
+//             const questionCopy = question.cloneNode(true);
+//             questionCopy.querySelectorAll("ul, ol").forEach(list => list.remove());
+            
+//             const questionText = questionCopy.textContent.trim();
+
+//             const legend = document.createElement("legend");
+//             legend.textContent = `${questionId + 1}. ${questionText}`;
+//             fieldset.append(legend);
+
+//             const options = question.querySelectorAll(":scope > ul > li");
+
+//             options.forEach(option => {
+//                 const text = option.textContent.trim();
+//                 const match = text.match(/^([A-D])\.\s*(.*)$/);
+//                 if (!match) return;
+
+//                 const [, letter, optionText] = match;
+
+//                 const input = document.createElement("input");
+//                 input.type = "radio";
+//                 input.name = `${quizParse}-${quizId}-${questionId}`;
+//                 input.value = letter;
+//                 // input.required = true;
+
+//                 const label = document.createElement("label");
+//                 label.classList.add("quiz-option");
+
+//                 const optionLetter = document.createElement("p");
+//                 optionLetter.textContent = letter;
+//                 optionLetter.classList.add("optionLetter");
+
+//                 const optionContent = document.createElement("span");
+//                 optionContent.innerHTML = marked.parseInline(optionText);
+
+//                 label.append(input, optionLetter, optionContent);
+//                 fieldset.append(label);
+//             });
+
+//             form.append(fieldset);
+//         });
+
+//         const submitButton = document.createElement("button");
+//         submitButton.type = "button";
+//         submitButton.textContent = "Nộp bài";
+
+//         const resetButton = document.createElement("button");
+//         resetButton.type = "button"; 
+//         resetButton.textContent = "Làm lại";
+
+//         resetButton.addEventListener("click", () => {
+//             form.reset();
+
+//             form.querySelectorAll("fieldset[data-correct]")
+//                 .forEach((fieldset) => {
+//                     fieldset.disabled = false;
+//                 });
+
+
+//             form.querySelectorAll(".correctOption, .incorrectOption")
+//                 .forEach(label => {
+//                     label.classList.remove("correctOption", "incorrectOption");
+//                 });
+//         });
+
+        
+//         submitButton.classList.add("formButton");
+//         resetButton.classList.add("formButton");
+
+//         submitButton .addEventListener("click", () => {
+//             submitMultipleChoices(form);
+//         });
+
+
+
+//         form.append(submitButton, resetButton);
+
+//         quiz.replaceChildren(form);
+//     });
+// }
+
 function renderMultipleChoices() {
-    const quizBlocks = contentSection.querySelectorAll("quiz");
+    const quizzes = contentSection.querySelectorAll("quiz");
 
-    if (quizBlocks === null) return;
+    if (quizzes === null) return;
 
-    quizBlocks.forEach((quiz, quizId) => {
-        const form = document.createElement("form");
-        form.classList.add("quiz-form");
+    // get each quizBlock to convert to radio buttons
+    quizzes.forEach((quiz, quizId) => {
+        // get the answers from details tags in md
+        const details = quiz.querySelector("details");
+        const correctAnswers = details.querySelector("p").innerHTML.replace(/[^A-D]/g, "");
 
-        // 
+        details.classList.add("hidden");
 
-        const answers = quiz.querySelector("details").querySelector("p").innerHTML.replace(/[^A-D]/g, "");;
-
+        quiz.dataset.correctAnswers = correctAnswers;
+        quiz.dataset.quizId = `${quizId}`;
 
         const questions = quiz.querySelectorAll("ol > li");
 
         questions.forEach((question, questionId) => {
+
+            const questionText = question.querySelector("p").textContent.trim();
+
+            const options = question.querySelectorAll("ul > li");
             const fieldset = document.createElement("fieldset");
-            fieldset.dataset.correct = answers[questionId];
+    
+            fieldset.dataset.quizId = `${quizParse}-${questionId}`;
 
-            // Extract the question text without its options list.
-            const questionCopy = question.cloneNode(true);
-            questionCopy.querySelectorAll("ul, ol").forEach(list => list.remove());
-            
-            const questionText = questionCopy.textContent.trim();
+            const p = document.createElement("p");
+            p.innerText = `${questionId+1}. ${questionText}`;
 
-            const legend = document.createElement("legend");
-            legend.textContent = `${questionId + 1}. ${questionText}`;
-            fieldset.append(legend);
+            fieldset.append(p);
 
-            const options = question.querySelectorAll(":scope > ul > li");
-
-            options.forEach(option => {
+            options.forEach((option) => {
                 const text = option.textContent.trim();
                 const match = text.match(/^([A-D])\.\s*(.*)$/);
                 if (!match) return;
 
+                // This can be detached to a distinct function
                 const [, letter, optionText] = match;
 
                 const input = document.createElement("input");
                 input.type = "radio";
-                input.name = `quiz-${quizId}-q${questionId}`;
+                input.name = `${quizParse}-${quizId}-${questionId}`;
                 input.value = letter;
-                // input.required = true;
-
+                // 
                 const label = document.createElement("label");
                 label.classList.add("quiz-option");
 
@@ -160,69 +334,34 @@ function renderMultipleChoices() {
                 fieldset.append(label);
             });
 
-            form.append(fieldset);
+            question.replaceWith(fieldset);
+
         });
 
         const submitButton = document.createElement("button");
-        submitButton.type = "submit";
+        submitButton.type = "button";
         submitButton.textContent = "Nộp bài";
 
         const resetButton = document.createElement("button");
         resetButton.type = "button"; 
         resetButton.textContent = "Làm lại";
 
-        resetButton.addEventListener("click", () => {
-            form.reset();
-
-            form.querySelectorAll("fieldset[data-correct]")
-                .forEach((fieldset) => {
-                    fieldset.disabled = false;
-                });
-
-
-            form.querySelectorAll(".correctOption, .incorrectOption")
-                .forEach(label => {
-                    label.classList.remove("correctOption", "incorrectOption");
-                });
-        });
-
-        
         submitButton.classList.add("formButton");
         resetButton.classList.add("formButton");
-
-        form.addEventListener("submit", (event) => {
-            // console.log("Received!");
-            event.preventDefault();
-
-            const fieldsets = form.querySelectorAll("fieldset[data-correct]");
-
-            fieldsets.forEach((fieldset) => {
-                fieldset.disabled = true;
-
-                const correctAnswer = fieldset.dataset.correct;
-
-                const options = fieldset.querySelectorAll('input[type="radio"]');
-
-                options.forEach((input) => {
-                    const label = input.closest("label");
-                    if (input.value === correctAnswer) {
-                        label.classList.add("correctOption");
-                    } 
-                    else if (input.checked) {
-                        label.classList.add("incorrectOption");
-                    }
-                });
-            });
-
-
-
-            // form.reset();
-
+        
+        submitButton .addEventListener("click", () => {
+            submitMultipleChoices(quiz);
+        });
+        
+        resetButton.addEventListener("click", () => {
+            resetMultipleChoices(quiz);
         });
 
-        form.append(submitButton, resetButton);
+        if (loadSavedMultipleChoices(quiz)){
+            submitMultipleChoices(quiz);
+        }
 
-        quiz.replaceChildren(form);
+        quiz.append(submitButton, resetButton);
     });
 }
 
@@ -295,11 +434,12 @@ function submitFillQuizzes(questions, answers){
             question.classList.add("correctOption");
         }
         else if (answer === ""){
+            input.value = answers[questionId];
             question.classList.add("incorrectOption");
         }
         else{
             question.classList.add("incorrectOption");
-            input.value = answers[questionId];
+            input.value += ` (${answers[questionId]})`;
         }
 
         input.disabled = true;
@@ -315,8 +455,8 @@ function renderFillQuizzes(){
 
     quizBlocks.forEach((quizBlock, quizId) => {
 
-        quizBlocks.dataset["QUIZ_ID"] = GLOBAL_QUIZ_ID;
-        GLOBAL_QUIZ_ID += 1;
+        // quizBlocks.dataset["QUIZ_ID"] = GLOBAL_QUIZ_ID;
+        // GLOBAL_QUIZ_ID += 1;
 
         const questionBox = quizBlock.querySelector(".question-box");
         const questions = questionBox.querySelectorAll("ol > li");
@@ -374,6 +514,22 @@ function renderFillQuizzes(){
     });
 }
 
+
+
+// function renderTFQuizzes(){
+//     const quizBlocks = document.querySelectorAll("tf-quiz");
+
+//     // console.log()
+
+//     quizBlocks.forEach(quizBlock => {
+//         const ol = quizBlock.querySelector("ol");
+//         const li = ol.querySelectorAll("li");
+
+
+//     });
+// }
+
+
 const params = new URLSearchParams(window.location.search);
 const path = params.get("p");
 await renderArticle(path)
@@ -389,6 +545,7 @@ await renderArticle(path)
 
 
 renderMultipleChoices();
-renderFillQuizzes();
+// renderFillQuizzes();
+// renderTFQuizzes();
 
 
