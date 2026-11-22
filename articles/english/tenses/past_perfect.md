@@ -28,7 +28,7 @@ Các động từ chia ở dạng _phân từ quá khứ_ được phân thành 
 - **động từ có quy tắc**: thêm đuôi _-ed_ vào cuối động từ
 - **động từ bất quy tắc**: biến đổi dựa theo bảng chia từ quá khứ
 
-[Bảng động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
+[Bảng động từ bất quy tắc](article.html?ip=irregular_verbs_table)
 
 Trợ động từ trong thì quá khứ hoàn thành là "had", và được dùng trong cả ba dạng.
 

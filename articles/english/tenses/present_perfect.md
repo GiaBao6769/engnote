@@ -43,7 +43,7 @@ Các động từ chia ở dạng _phân từ quá khứ_ được phân thành 
 - **động từ bất quy tắc**: được biến đổi riêng biệt đối với từng từ
 
 
-[Bảng chia động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md)
+[Bảng chia động từ bất quy tắc](article.html?ip=irregular_verbs_table)
 
 
 <div class="center-div">

@@ -93,6 +93,8 @@ maybe put the preposition signals to a separated article and only refer to it as
 
 ## Coding
 
+- add 2 class 'display-on-darkmode' and 'display-on-lightmode' so that img can be switched between two mode
+
 - make table not overflow
 
 - define color for button

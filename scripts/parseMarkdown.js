@@ -1,5 +1,5 @@
 import { marked } from "../node_modules/marked/lib/marked.esm.js";
-
+import { getJson, getComponent, params} from "./main.js"
 
 const title = document.getElementById("TITLE");
 const uploadDate = document.getElementById("UPLOAD-DATE");
@@ -9,16 +9,75 @@ const authors = document.getElementById("AUTHORS");
 const desc = document.getElementById("DESC");
 const loadingSection = document.getElementById("LOADING-SECTION");
 
+// JSON
+const indirectPathJson = await getJson("./indirect_path.json");
+//
+
 
 const quizParse = "q1"
 // q1-{quizBlockId}-{questionId}
 
+// get the URL path of the md file
+let mdPath = "articles/";
+
+if (params.get("p")){
+    mdPath += params.get("p");
+}
+else{
+    const indirectPath = params.get("ip");
+
+    mdPath += indirectPathJson[indirectPath];
+}
+
+// intialize renderer for md
+const renderer = new marked.Renderer();
+renderer.listitem = function (token) {
+    let content = "";
+    let inlineTokens = [];
+
+    const flushInline = () => {
+        if (inlineTokens.length) {
+            content += `<p>${this.parser.parseInline(inlineTokens)}</p>\n`;
+            inlineTokens = [];
+        }
+    };
+
+    for (const child of token.tokens) {
+        if (child.type === "text") {
+            inlineTokens.push(child);
+        } else {
+            flushInline();
+            content += this.parser.parse([child]);
+        }
+    }
+
+    flushInline();
+
+    return `<li>${content}</li>\n`;
+};
+
+renderer.image = function ({href, title, text}) {
+    const imagePath = `${mdPath}/../${href}`
+    return `<img src="${imagePath}" alt="${text}" ${
+        title ? `title="${title}"` : ""
+    }>`;
+};
+
+// Parse the md to the page
+await renderArticle(mdPath)
+    .then(() => {
+        loadingSection.classList.add("hidden");
+    })
+    .catch(error => {
+        console.error(error);
+        loadingSection.textContent = "Không thể truy xuất bài viết.";
+    });
 
 
 
 // rename to a better name
 async function processMd(mdPath){
-    const res = await fetch(`./articles/${mdPath}`);
+    const res = await fetch(mdPath);
     if (!res.ok){
         throw new Error(
             `Failed to load article: ${res.status}`         
@@ -48,35 +107,10 @@ async function processMd(mdPath){
         metadata[key] = value.replace(/^["']|["']$/g, "").replace(/\\n/g, "\n");
     }
 
+    // console.log(metadata);
+
     return [metadata, content];
 }
-
-const renderer = new marked.Renderer();
-renderer.listitem = function (token) {
-    let content = "";
-    let inlineTokens = [];
-
-    const flushInline = () => {
-        if (inlineTokens.length) {
-            content += `<p>${this.parser.parseInline(inlineTokens)}</p>\n`;
-            inlineTokens = [];
-        }
-    };
-
-    for (const child of token.tokens) {
-        if (child.type === "text") {
-            inlineTokens.push(child);
-        } else {
-            flushInline();
-            content += this.parser.parse([child]);
-        }
-    }
-
-    flushInline();
-
-    return `<li>${content}</li>\n`;
-};
-
 
 
 async function renderArticle(mdPath){
@@ -174,106 +208,6 @@ function resetMultipleChoices(quiz){
             input.checked = false;
         });
 }
-
-// function renderMultipleChoices() {
-//     const quizBlocks = contentSection.querySelectorAll("quiz");
-
-//     if (quizBlocks === null) return;
-
-//     quizBlocks.forEach((quiz, quizId) => {
-//         const form = document.createElement("form");
-//         form.classList.add("quiz-form");
-//         // 
-//         const answers = quiz.querySelector("details").querySelector("p").innerHTML.replace(/[^A-D]/g, "");;
-
-//         const questions = quiz.querySelectorAll("ol > li");
-
-//         questions.forEach((question, questionId) => {
-//             const fieldset = document.createElement("fieldset");
-
-//             fieldset.dataset.correct = answers[questionId];
-//             fieldset.dataset.quizId = `${quizParse}-${questionId}`;
-
-//             // Extract the question text without its options list.
-//             const questionCopy = question.cloneNode(true);
-//             questionCopy.querySelectorAll("ul, ol").forEach(list => list.remove());
-            
-//             const questionText = questionCopy.textContent.trim();
-
-//             const legend = document.createElement("legend");
-//             legend.textContent = `${questionId + 1}. ${questionText}`;
-//             fieldset.append(legend);
-
-//             const options = question.querySelectorAll(":scope > ul > li");
-
-//             options.forEach(option => {
-//                 const text = option.textContent.trim();
-//                 const match = text.match(/^([A-D])\.\s*(.*)$/);
-//                 if (!match) return;
-
-//                 const [, letter, optionText] = match;
-
-//                 const input = document.createElement("input");
-//                 input.type = "radio";
-//                 input.name = `${quizParse}-${quizId}-${questionId}`;
-//                 input.value = letter;
-//                 // input.required = true;
-
-//                 const label = document.createElement("label");
-//                 label.classList.add("quiz-option");
-
-//                 const optionLetter = document.createElement("p");
-//                 optionLetter.textContent = letter;
-//                 optionLetter.classList.add("optionLetter");
-
-//                 const optionContent = document.createElement("span");
-//                 optionContent.innerHTML = marked.parseInline(optionText);
-
-//                 label.append(input, optionLetter, optionContent);
-//                 fieldset.append(label);
-//             });
-
-//             form.append(fieldset);
-//         });
-
-//         const submitButton = document.createElement("button");
-//         submitButton.type = "button";
-//         submitButton.textContent = "Nộp bài";
-
-//         const resetButton = document.createElement("button");
-//         resetButton.type = "button"; 
-//         resetButton.textContent = "Làm lại";
-
-//         resetButton.addEventListener("click", () => {
-//             form.reset();
-
-//             form.querySelectorAll("fieldset[data-correct]")
-//                 .forEach((fieldset) => {
-//                     fieldset.disabled = false;
-//                 });
-
-
-//             form.querySelectorAll(".correctOption, .incorrectOption")
-//                 .forEach(label => {
-//                     label.classList.remove("correctOption", "incorrectOption");
-//                 });
-//         });
-
-        
-//         submitButton.classList.add("formButton");
-//         resetButton.classList.add("formButton");
-
-//         submitButton .addEventListener("click", () => {
-//             submitMultipleChoices(form);
-//         });
-
-
-
-//         form.append(submitButton, resetButton);
-
-//         quiz.replaceChildren(form);
-//     });
-// }
 
 function renderMultipleChoices() {
     const quizzes = contentSection.querySelectorAll("quiz");
@@ -530,22 +464,11 @@ function renderFillQuizzes(){
 // }
 
 
-const params = new URLSearchParams(window.location.search);
-const path = params.get("p");
-await renderArticle(path)
-    .then(() => {
-        loadingSection.classList.add("hidden");
-    })
-    .catch(error => {
-        console.error(error);
-        loadingSection.textContent = "Không thể truy xuất bài viết.";
-    });
-
 
 
 
 renderMultipleChoices();
-// renderFillQuizzes();
+renderFillQuizzes();
 // renderTFQuizzes();
 
 

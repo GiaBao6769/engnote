@@ -7,7 +7,7 @@ update-date: 27/10/2026
 thumbnail: "./images/comparative_thumbnail.png"
 ---
 
-![](./images/comparative_thumbnail.png)
+![](./../../../images/comparative_thumbnail.png)
 
 <!-- 
 - Các tính từ không có dạng so sánh hơn / nhất

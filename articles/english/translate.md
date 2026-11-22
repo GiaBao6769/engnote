@@ -7,6 +7,7 @@ aspect : thể
 voice : thái
     - active voice: khẳng định
     - passive voice: bị động
+        - impersonal passive: bị động không ngôi
 
 mood : thức
     - indicative mood

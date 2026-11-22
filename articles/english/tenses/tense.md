@@ -80,7 +80,7 @@ Trong thì _hiện tại đơn_ và _quá khứ đơn_, nếu động từ chín
 
 - __Dạng hiện tại (present tense):__ động từ được giữ nguyên hoặc thêm đuôi _-s/-es_ dựa theo chủ ngữ chính thực hiện hành động.
 
-- __Dạng quá khứ (past tense):__ _động từ có quy tắc (regular verb)_ được thêm đuôi _-ed_ ở cuối, còn _động từ bất quy tắc (irregular verb)_ được biến đổi riêng biệt đối với từng từ. Tham khảo [Bảng chia động từ bất quy tắc](article.html?p=english/miscellaneous/irregular_verbs_grouped_by_patterns.md).
+- __Dạng quá khứ (past tense):__ _động từ có quy tắc (regular verb)_ được thêm đuôi _-ed_ ở cuối, còn _động từ bất quy tắc (irregular verb)_ được biến đổi riêng biệt đối với từng từ. Tham khảo [Bảng chia động từ bất quy tắc](article.html?ip=irregular_verbs_table).
 
 - __Dạng tương lai (future tense):__ dạng tương lai của động từ bao gồm trợ động từ _will_ và động từ ở dạng nguyên mẫu.
 

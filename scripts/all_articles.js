@@ -6,6 +6,7 @@ const permission = params.get("per");
 const groupContainer = document.getElementById("GROUP-CONTAINER");
 
 const articlesJson = await getJson("./articles.json");
+const indirectPathJson = await getJson("./indirect_path.json");
 
 const defaultThumbnailPath = "./images/no_thumbnail2.jpg";
 
@@ -44,16 +45,28 @@ async function getMetadata(mdPath){
     return metadata;
 }
 
-async function createCard(path){
+function getArticlePath(path, isIndirectPath){
+    if (isIndirectPath) return indirectPathJson[path];
+    return path;
+}
+
+async function createCard(path, isIndirectPath = false){
 
     const card = await getComponent("#ARTICLE-CARD-TEMP");
 
-    const metadata = await getMetadata(path).catch(err => {
-        throw new Error(`Cannot get metadata of ${path}`);
-    });
+    const metadata = await getMetadata(getArticlePath(path, isIndirectPath))
+        .catch(err => {
+            throw new Error(`Cannot get metadata of ${path}`);
+        });
 
     const a = card.querySelector("a");
-    a.href = `article.html?p=${path}`+ (permission ? `&per=${permission}` : "");
+
+    if (isIndirectPath){
+        a.href = `article.html?ip=${path}`+ (permission ? `&per=${permission}` : "");
+    }
+    else {
+        a.href = `article.html?p=${path}`+ (permission ? `&per=${permission}` : "");
+    }
 
     const cardTitle = card.querySelector(".card-title");
     const cardDesc = card.querySelector(".card-desc");
@@ -75,15 +88,20 @@ async function createCard(path){
     return card;
 }
 
-
+// Will fix once article.json overhauled
 async function addGroup(group, parentDiv){
-    for (let path of group["paths"]){
-        try{
-            const card = await createCard(path);
+    for (let obj of group["paths"]){
+        // if (obj["type"] == "group")
+
+        // temporary check for normal paths
+        if (typeof obj === "string"){
+            const card = await createCard(obj);
             parentDiv.appendChild(card);
         }
-        catch (err){
-            console.error(err);
+
+        else if (obj["type"] == "indirect-path"){
+            const card = await createCard(obj["path"], true);
+            parentDiv.appendChild(card);
         }
 
     }
@@ -93,6 +111,7 @@ async function addGroup(group, parentDiv){
 
 async function loadCategory(category){
     for (const group of articlesJson[category]){
+
         // create the center section for articles
         const div = document.createElement("div");
         div.classList.add("center-section");
