@@ -2,7 +2,7 @@
 title: "Danh sách các cập nhật"
 
 upload-date: "15/11/2026"
-update-date: "16/11/2026"
+update-date: "22/11/2026"
 ---
 
 - [21/11/2026] Thêm bài viết gian dỡ [_Thể bị động (Passive Voie)_](article.html?p=english/miscellaneous/passive_voice.md)

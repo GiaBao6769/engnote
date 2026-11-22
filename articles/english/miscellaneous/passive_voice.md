@@ -1,5 +1,6 @@
 ---
 title: "Thể Bị Động\n(Passive voice)"
+authors: "Gia Bao"
 description: ""
 upload-date: "21/11/2026"
 update-date: "21/11/2026"
@@ -11,7 +12,7 @@ thumbnail: "./images/structures_thumbnail.png"
 
 # II. BỊ ĐỘNG -->
 
-## 1. Chức năng của Thể bị động
+## 1. Chức năng của thể bị động
 
 _Thể bị động_ được sử dụng để tập trung diễn tả hành động khi tác nhân gây ra hành động không được biết đến hoặc không quan trọng. 
 
@@ -31,20 +32,20 @@ _Thể bị động_ thường mang tính trang trọng và lịch sự hơn _th
 
 
 
-## 2. Cấu trúc của một mệnh đề Bị động
+## 2. Cấu trúc bị động
 
 Cấu trúc của _bị động_ có dạng chung gồm một chủ ngữ chính, trợ động từ _be_ được chia theo thì, và động từ chính được chia ở dạng _phân từ quá khứ_.
 
 <center><div class="text-box">
 
-S + _be_ + V<sub>(phân từ quá khứ)</sub>
+__S + be + V<sub>(phân từ quá khứ)</sub>__
 
 </div></center>
 
 Trong đó:
 
 - __S__ là chủ ngữ chính
-- Trợ động từ **_be_** được chia theo thì
+- Trợ động từ **be** được chia theo thì
 - **V<sub>(phân từ quá khứ)</sub>** là động từ được chia ở dạng _phân từ quá khứ_
 
  _Nội động từ (intransitive verbs)_ không thể được sử dụng làm động từ chính ở dạng bị động vì chúng không có tân ngữ (lý do cụ thể sẽ được giải thích ở phần sau).
@@ -63,11 +64,15 @@ Trong đó:
 
 - Systems of linear equations can be solved with Gaussian elimination.
 
-Chúng ta có thêm thêm _cụm tác nhân (by-agent)_ đằng sau động từ bị động để cung cấp thông tin về tác nhân của hành động trong một mệnh đề bị động. Cụm này có cấu trúc như sau:
+- The car hasn't been fixed yet.
+
+- Where is the party held?
+
+Chúng ta có thể thêm _cụm tác nhân (by-agent)_ đằng sau động từ bị động để cung cấp thông tin về tác nhân của hành động trong một mệnh đề bị động. Cụm này có cấu trúc như sau:
 
 <center><div class="text-box">
 
-by + _[tác nhân (danh từ, đại từ làm tân ngữ)]_
+__by + _[tác nhân (danh từ, đại từ làm tân ngữ)]___
 
 </div></center>
 
@@ -99,8 +104,8 @@ Khi chuyển một câu chủ động sang bị động, chúng ta trước tiê
 
 Lưu ý rằng nếu tân ngữ được đưa lên làm chủ ngữ là một _đại từ tân ngữ_ thì ta phải sử dụng một _đại từ chủ ngữ_ tương ứng.
 
-- He hit me all of a sudden. 
-    - &rarr; I was hit *(by him)* all of a sudden.
+- **He** hit me all of a sudden. 
+    - &rarr; I was hit *(by **him**)* all of a sudden.
 
 - The England annexed Wales between 1535 and 1542.
     - &rarr; Wales was annexed by the England between 1535 and 1542.
@@ -127,6 +132,9 @@ Lưu ý rằng ta đôi khi cần có giới từ phù hợp để nối động
 - The organizers will give all the funds raised to orphans.
     - &rarr; All the funds raised will be given to orphans by the organizers.
     - &rarr; Orphans will be given all the funds raised by the organizers
+
+- We do not sell users' data to third parties.
+     -  &rarr; Users' data is not sold to third parties.
 
 <!-- This example contains a analogue in which it can be intepreted as the action of giving is done by the organizers or the funds are raised by the organizers in the passive sentences. -->
 
