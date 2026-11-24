@@ -12,8 +12,11 @@ body{
 }
 
 body.lightmode{
-    --clr-correct: rgb(127, 238, 129);
-    --clr-incorrect: rgb(231, 99, 99);
+    --clr-font-correct: green;
+    --clr-font-incorrect: red;
+
+    --clr-bg-correct: rgb(127, 238, 129);
+    --clr-bg-incorrect: rgb(231, 99, 99);
     /* --clr-notchoose: rgb(146, 236, 121); */
     --clr-table-separate: rgb(240, 240, 240);
 
@@ -21,8 +24,11 @@ body.lightmode{
 }
 
 body.darkmode{
-    --clr-correct: rgb(25, 107, 25);
-    --clr-incorrect: rgb(141, 10, 10);
+    --clr-font-correct: rgb(70, 233, 70);
+    --clr-font-incorrect: red;
+
+    --clr-bg-correct: rgb(25, 107, 25);
+    --clr-bg-incorrect: rgb(141, 10, 10);
     /* --clr-notchoose: rgb(141, 39, 172); */
 
     --clr-table-separate: rgb(60, 60, 60);
@@ -365,18 +371,17 @@ quiz input[type="radio"] {
 
 /* was not selected */
 
-.correctOption{
-    background-color: var(--clr-correct);
-
+quiz .correctOption{
+    background-color: var(--clr-bg-correct);
 }
 
 /* select the correct answer */
 .quiz-option:has(input:checked).correctOption{
-    background-color: var(--clr-correct);
+    background-color: var(--clr-bg-correct);
     font-weight: bold;
 }
 .quiz-option:has(input:checked).incorrectOption{
-    background-color: var(--clr-incorrect);
+    background-color: var(--clr-bg-incorrect);
 }
 
 .optionLetter {
@@ -481,18 +486,56 @@ quiz ol{
     align-items: center;   
 }
 
-.question-box input{
+
+.fill-space {
+    background-color: var(--clr-bg);
+}
+
+.question-box .fill-in-box {
+    field-sizing: content;
+    min-width: 100px;
+    max-width: 100%;
     font-size: var(--font-mid);
+
+    color: var(--font-clr);
+    background-color: var(--clr-bg);
+
+    padding: 4px;
+
+    border: 1px solid var(--clr-font);
 }
 
-.question-box li.correctOption input{
-    background-color: var(--clr-correct);
-    width: auto;
+.fill-in-box:focus {
+    outline-color: var(--clr-main);
 }
 
-.question-box li.incorrectOption input{
-    background-color: var(--clr-incorrect);
+.question-box li.correctOption .fill-in-box {
+    color: var(--clr-font-correct);
+    font-weight: bold;
+
+    /* width: auto; */
+    /* color: var(--clr-font); */
+
+    border: none;
 }
+
+.question-box li.incorrectOption .fill-in-box {
+    /* background-color: var(--clr-bg-incorrect); */
+    color: var(--clr-font-incorrect);
+    /* font-style: italic; */
+    text-decoration: line-through;
+    min-width: 0;
+
+    border: none;
+}
+
+.fix-box{
+    color: var(--clr-font-correct);
+    font-style: italic;
+}
+
+
+
                 
 /* 
 quiz ol li ul li div{
