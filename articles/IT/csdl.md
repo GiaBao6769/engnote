@@ -1,12 +1,8 @@
 ---
-title: "Cơ sở dữ liệu"
+title: "Tổng hợp và hệ thống hóa kiến thức SQL"
 ---
 
-# **Tổng hợp và hệ thống hóa kiến thức SQL**
-
-Dựa trên những câu hỏi bạn đã đặt ra, bạn đã tiếp cận được khá nhiều kiến thức nền tảng của SQL: từ thao tác dữ liệu, thay đổi cấu trúc bảng, truy vấn, kết hợp bảng cho đến ràng buộc dữ liệu và giao dịch.
-
-Mình sẽ hệ thống hóa chúng thành một lộ trình học, giải thích lại các khái niệm quan trọng, chỉ ra những điểm cần phân biệt và bổ sung các kiến thức cần thiết để bạn có một nền tảng SQL vững chắc.
+# ****
 
 # **1. SQL là gì?**
 
@@ -213,8 +209,6 @@ Lưu ý: Khả năng rollback và cách xử lý DDL phụ thuộc vào DBMS và
 
 # **3. Constraints – Các ràng buộc dữ liệu**
 
-Đây là một trong những chủ đề bạn đã hỏi khá sâu, đặc biệt là `PRIMARY KEY`, `UNIQUE` và `NULL`.
-
 **Constraint** là quy tắc được đặt lên các cột hoặc bảng nhằm đảm bảo tính hợp lệ và nhất quán của dữ liệu.
 
 | Constraint    | Chức năng                                 |
@@ -269,9 +263,7 @@ CREATE TABLE Students (
 );
 ```
 
-Bạn từng hỏi liệu một cột `UNIQUE` có thể chứa `NULL` hay không.
-
-Câu trả lời: **Có, nhưng số lượng NULL được phép phụ thuộc vào DBMS.**
+Một cột `UNIQUE` có thể chứa `NULL` hay không, nhưng số lượng NULL được phép phụ thuộc vào DBMS.
 
 | DBMS       | Hành vi phổ biến                                                 |
 | ---------- | ---------------------------------------------------------------- |
@@ -307,9 +299,7 @@ CREATE TABLE Enrollments (
 
 Khóa ngoại giúp đảm bảo **referential integrity (toàn vẹn tham chiếu)**.
 
-Bạn cũng đã hỏi điều gì xảy ra khi xóa một bản ghi được tham chiếu bởi khóa ngoại.
-
-Hành vi phụ thuộc vào `ON DELETE`:
+Khi xóa một bản ghi được tham chiếu bởi khóa ngoại, hành vi phụ thuộc vào `ON DELETE`:
 
 ```sql
 FOREIGN KEY (course_id)
@@ -454,9 +444,7 @@ Alias chỉ có hiệu lực trong phạm vi truy vấn, không thay đổi tên
 
 # **5. Aggregate Functions – Các hàm tổng hợp**
 
-Bạn đã hỏi về `COUNT()`, `AVG()` và `SUM()`.
-
-Các hàm này thực hiện tính toán trên một tập hợp bản ghi.
+Các hàm thực hiện tính toán trên một tập hợp bản ghi.
 
 | Hàm       | Chức năng            |
 | --------- | -------------------- |
@@ -613,8 +601,6 @@ Thứ tự xử lý logic thường được mô tả như sau:
 Thứ tự xử lý logic khái quát, không phải thứ tự viết câu lệnh.
 
 # **7. JOIN – Kết hợp các bảng**
-
-Bạn đã tìm hiểu về `INNER JOIN`, `LEFT JOIN` và một số loại JOIN khác.
 
 JOIN cho phép truy vấn dữ liệu từ nhiều bảng dựa trên một điều kiện liên kết.
 
