@@ -86,15 +86,15 @@ __Ta có được công thức dạng chung như sau:__
 
 - He is barely making any progress. &rarr; Barely is he making any progress. 
 
-### 2.2. Đảo ngữ với cụm trạng từ chứa “no” hoặc “not”:
+### 2.2. Đảo ngữ với cụm giới từ chứa _no_ hoặc _not_:
 
-Một số cụm trạng từ có “no” bao gồm: _under no circumstances, on no account, at no time, for no reason, in no way, on no condition, not only (thường đi chung với cụm but also), not once, only now, only later, only then, etc.*_ 
+Một số cụm giới từ có _no_ bao gồm: _under no circumstances, on no account, at no time, for no reason, in no way, on no condition, not only (thường đi chung với cụm but also), not once, only now, only later, only then, etc.*_ 
 
 __Ta có công thức dạng chung như sau:__
 
-(Câu bình thường) ___S + VP + AdvP*___
+(Câu bình thường) ___S + VP + prepP*___
 
-(Câu đảo ngữ) ___AdvP* + Aux/Modal + S + VP___
+(Câu đảo ngữ) ___prepP* + Aux/Modal + S + VP___
 
 - I don’t believe him for a moment. &rarr; Not for a moment do I believe him. 
 
@@ -128,35 +128,35 @@ __Công thức dạng chung:__
 
 - I haven’t had such a great time since I was a child. &rarr; Not since I was a child have I had such a great time. 
 
-### 2.4. Đảo ngữ với “little”
+### 2.4. Đảo ngữ với _little_
 
-_“Little”_  thường ít khi sử dụng như trạng ngữ trong câu, mà phần lớn chỉ xuất hiện trong câu đảo ngữ có nghĩa phủ định
+_Little_  thường ít khi sử dụng như trạng ngữ trong câu, mà phần lớn chỉ xuất hiện trong câu đảo ngữ có nghĩa phủ định
 
-Công thức đảo ngữ với _“little”:_ ___Little + Aux/Modal + S + VP___
+Công thức đảo ngữ với _little_: ___Little + Aux/Modal + S + VP___
 
 - He knows little about this topic. &rarr; Little does he knows about this topic. 
 
 - She doesn’t realize how much his mom has sacrificed for her. &rarr; Little does she realize how much her mom has sacrificed for her. 
 
-## 3. Đảo ngữ với cụm trạng từ chỉ vị trí
+## 3. Đảo ngữ với trạng ngữ chỉ vị trí
 
-Đảo ngữ với cụm trạng từ thường được dùng để giới thiệu một đối tượng mới, miêu tả cảnh vật, kể chuyện, hoặc để tạo hiệu ứng văn chương. 
+Đảo ngữ với trạng ngữ thường được dùng để giới thiệu một đối tượng mới, miêu tả cảnh vật, kể chuyện, hoặc tạo hiệu ứng văn chương. 
 
-Ví dụ một số cụm trạng từ chỉ vị trí bao gồm: 
+Ví dụ một số trạng ngữ chỉ vị trí bao gồm: 
 
 - Trạng từ chỉ vị trí: _here, there, outside, etc._ 
 
-- Cụm trạng từ chỉ vị trí: _on an island, over there, in an distance, etc._ 
+- Cụn giới từ chỉ vị trí: _on an island, over there, in an distance, etc._ 
 
-Khác với các cách đảo ngữ khác, khi đảo ngữ với cụm trạng từ chỉ vị trí, chúng ta không thêm trợ động từ hoặc động từ khuyết thiếu (trừ khi có sẵn), mà chỉ đảo cụm trạng từ chỉ vị trí lên đầu và sau đó đảo cụm động từ và chủ ngữ. 
+Khác với các cách đảo ngữ khác, khi đảo ngữ với trạng ngữ chỉ vị trí, chúng ta không thêm trợ động từ hoặc động từ khuyết thiếu (trừ khi có sẵn), mà chỉ đảo cụm trạng từ chỉ vị trí lên đầu và sau đó đảo cụm động từ và chủ ngữ. 
 
 Tuy nhiên, nếu chủ ngữ là đại từ, ta sẽ không đảo vị trí chủ ngữ và cụm động từ, mà chỉ đưa cụm trạng từ chỉ vị trí lên đầu. 
 
 __Ta có công thức như sau:__
 
-(Câu bình thường) ___S + V + AdvP*___
+(Câu bình thường) ___S + V + Adverbial*___
 
-(Câu đảo ngữ) ___AdvP* + V + S___ hoặc ___AdvP* + S + V___ (nếu chủ ngữ là đại từ) 
+(Câu đảo ngữ) ___Adverbial* + V + S___ hoặc ___AdvP* + S + V___ (nếu chủ ngữ là đại từ) 
 
 - A beautiful painting is on the wall. &rarr; On the wall is a beautiful painting. 
 

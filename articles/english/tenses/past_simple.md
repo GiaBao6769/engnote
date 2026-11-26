@@ -26,9 +26,9 @@ Thì _quá khứ đơn_ được dùng để diễn tả:
 
 # 2. CẤU TRÚC
 
-Động từ trong thì _quá khứ đơn_ được chia ở dạng _quá khứ_.
+Động từ trong thì _quá khứ đơn_ được chia ở dạng _quá khứ_ và phân thành hai nhóm. Trong đó, _động từ có quy tắc (regular verb)_ được thêm đuôi _-ed_ ở cuối, còn _động từ bất quy tắc (irregular verb)_ được biến đổi riêng biệt đối với từng từ.
 
-[Bảng chia động từ bất quy tắc](article.html?ip=irregular_verbs_table)
+[Tham khảo bảng chia động từ bất quy tắc](article.html?ip=irregular_verbs_table)
 
 ## 1. Đối với động từ _be_
 
@@ -109,7 +109,7 @@ Trong đó:
 
 # 3. MỘT VÀI DẤU HIỆU
 
-Thì *\_quá khứ đơn\_* thường đi kèm với các trạng từ, cụm trạng từ chỉ thời gian hoặc các mệnh đề chỉ thời gian trong quá khứ.
+Thì _quá khứ đơn_ thường đi kèm với các trạng từ, cụm trạng từ chỉ thời gian hoặc các mệnh đề chỉ thời gian trong quá khứ.
 
 ## 1. Trạng từ và cụm trạng từ chỉ thời gian
 

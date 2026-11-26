@@ -9,7 +9,7 @@ thumbnail: "./images/grammar_thumbnail.png"
 
 ## 1. Định nghĩa _danh động từ_
 
-*Danh động từ* là một biến thể của _động từ_ bằng cách thêm đuôi _-ing_ vào cuối _động từ_, mang đặc tính của một _động từ_ những đảm nhận chức năng cú pháp của _danh từ_ hoặc _cụm danh từ_ trong mệnh đề. 
+*Danh động từ* là một biến thể của _động từ_ bằng cách thêm đuôi _-ing_ vào cuối _động từ_. Nó mang đặc tính của một _động từ_ nhưng đảm nhận chức năng cú pháp của _danh từ_ hoặc _cụm danh từ_ trong mệnh đề. 
 
 _Danh động từ_ thường được xem là _danh từ không đếm được_ và thường không cần _mạo từ_. Chúng biểu thị hành động hoặc việc thực hiện hành động mà _động từ_ thể hiện.
 
@@ -132,7 +132,7 @@ _Danh động từ sở hữu_ là trường hợp khi một _từ sở hữu_ (
 
 - I really appreciate *your helping me*.<br><silent>(Tôi rất trân trọng việc bạn giúp tôi)</silent>
 
-- We are surprised at *John's leaving* so early.<br><silent>(Chúng tôi rất bất ngờ về việc John đi về sớm.)</silent>
+- We are surprised at *John's leaving* so early.<br><silent>(Chúng tôi rất bất ngờ về việc John rời đi về sớm.)</silent>
 
 Cấu trúc _danh động từ sở hữu_ là một cụm có sắc thái _trang trọng_. Trong văn nói _không trạng trọng_, người nói thường sử dụng _đại từ_ ở dạng _tân ngữ_ hoặc _danh từ_ ở dạng thông thường thay cho dạng sở hữu. 
 

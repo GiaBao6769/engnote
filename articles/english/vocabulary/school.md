@@ -833,7 +833,7 @@ A. fail an exam　 B. meet a deadline　 C. fall behind in their studies　 D. a
 
 <summary>Đáp án</summary>
 
-<p>CADBACBDACBDACBDACBDACBDACBDAC</p>
+<p>C A D B A C B D A C B D A C B D A C B D A C B D A C B D A C</p>
 
 </details>
 

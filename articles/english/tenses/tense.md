@@ -16,7 +16,7 @@ Các định nghĩa dưới đây sẽ được giải thích cụ thể hơn �
 
 <!-- ## 1.1. -->
 
-Thì là một phạm trù ngữ pháp của động từ, cho biết vị trí thời gian mà hành động diễn ra.
+_Thì_ là một phạm trù ngữ pháp của động từ, cho biết vị trí thời gian mà hành động diễn ra.
 
 _Thời gian_ của của hành động được chia thành 3 quãng thời gian là __quá khứ (past)__, __hiện tại (present)__, và __tương lai (future)__.
 
@@ -38,7 +38,7 @@ Các thì trong tiếng Anh là sự kết hợp giữa _thời gian_ và _thể
 
 <!-- [\] Too rough -->
 
-Cùng một câu, chúng ta cũng có thể diễn đạt bằng nhiều thì khác nhau chứ không bị bó buộc vào một thì duy nhất.
+Cùng một ý, chúng ta cũng có thể diễn đạt bằng nhiều thì khác nhau chứ không bị bó buộc vào một thì duy nhất.
 
 
 # 2. TRỢ ĐỘNG TỪ & DẠNG VÀ CẤU TRÚC CỦA ĐỘNG TỪ
@@ -79,6 +79,8 @@ Trong thì _hiện tại đơn_ và _quá khứ đơn_, nếu động từ chín
 Động từ ở thể đơn được biến đổi theo dạng _thời gian_ của thì. 
 
 - __Dạng hiện tại (present tense):__ động từ được giữ nguyên hoặc thêm đuôi _-s/-es_ dựa theo chủ ngữ chính thực hiện hành động.
+
+<!-- specify the name for verb form which add -s/-es -->
 
 - __Dạng quá khứ (past tense):__ _động từ có quy tắc (regular verb)_ được thêm đuôi _-ed_ ở cuối, còn _động từ bất quy tắc (irregular verb)_ được biến đổi riêng biệt đối với từng từ. Tham khảo [Bảng chia động từ bất quy tắc](article.html?ip=irregular_verbs_table).
 

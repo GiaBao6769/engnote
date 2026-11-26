@@ -318,7 +318,7 @@ function loadFillQuizzes(questions, quizBlockId){
 
     questions.forEach((question, questionId) => {
 
-        const input = question.querySelector(".input-box");
+        const input = question.querySelector(".fill-in-box");
 
         const answer = input.value;
         // add refine
@@ -343,8 +343,12 @@ function loadFillQuizzes(questions, quizBlockId){
 function resetFillQuizzes(questions){
     questions.forEach((question) =>{
 
-        const input = question.querySelector(".input-box");
+        const input = question.querySelector(".fill-in-box");
         input.value = "";
+
+        const fixBox = question.querySelector(".fix-box");
+
+        fixBox.textContent = "";
 
         question.classList.remove("correctOption");
         question.classList.remove("incorrectOption");
@@ -359,21 +363,18 @@ function submitFillQuizzes(questions, answers){
 
     questions.forEach((question, questionId) => {
 
-        const input = question.querySelector(".input-box");
+        const input = question.querySelector(".fill-in-box");
+        const answer = input.value.replace(/\s+/g, ' ').trim();
 
-        const answer = input.value;
-        // add refine
+        const fixBox = question.querySelector(".fix-box");
 
         if (answer == answers[questionId]){
+            input.value = answer;
             question.classList.add("correctOption");
-        }
-        else if (answer === ""){
-            input.value = answers[questionId];
-            question.classList.add("incorrectOption");
         }
         else{
             question.classList.add("incorrectOption");
-            input.value += ` (${answers[questionId]})`;
+            fixBox.textContent = answers[questionId];
         }
 
         input.disabled = true;
@@ -413,12 +414,18 @@ function renderFillQuizzes(){
 
             const input = document.createElement("input");
             input.type = "text";
+            input.autocapitalize = "none";
             input.name = `quiz-${quizId}-question${questionId}`;
-            input.classList.add("input-box");
+            input.classList.add("fill-in-box");
+
+            const fixBox = document.createElement("span");
+            fixBox.classList.add("fix-box");
 
             const span = question.querySelector("span");
 
-            span.replaceChildren(input);
+            span.classList.add("fill-space");
+
+            span.replaceChildren(input, fixBox);
 
         });
         
@@ -432,13 +439,19 @@ function renderFillQuizzes(){
         resetButton.innerText = "Làm bài"
         
         submitButton.addEventListener("click", () => {
-            console.log("submitted fill quizzes");
+            // console.log("submitted fill quizzes");
+
+            if (submitButton.classList.contains("disabled-button")) return;
+
             submitFillQuizzes(questions, answers);
+
+            submitButton.classList.add("disabled-button");
         });
 
         resetButton.addEventListener("click", () => {
-            console.log("reset");
+            // console.log("reset");
             resetFillQuizzes(questions);
+            submitButton.classList.remove("disabled-button");
         });
 
         quizBlock.appendChild(submitButton);

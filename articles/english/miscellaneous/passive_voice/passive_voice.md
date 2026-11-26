@@ -182,7 +182,7 @@ Lưu ý rằng ta đôi khi cần có giới từ phù hợp để nối động
 1. I think John has taken my jacket.
 <br>&rarr; I think my jacket <span>_______________</span> John.
 
-2. You should cook the chicken for at leat an hour.
+2. You should cook the chicken for at least an hour.
 <br>&rarr; The chicken <span>_______________</span> for at least an hour.
 
 3. They're showing that film at the cinema in town.

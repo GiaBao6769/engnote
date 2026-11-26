@@ -31,7 +31,7 @@ So sánh nhất (superlative structures) được dùng để so sánh từ ba �
 
 ## 1. Dạng so sánh nhất của tính từ
 
-Dạng so sánh nhất của tính từ biểu diễn nghĩa tốt nhất, vượt trội nhất ở khía cạnh mà tính từ thể hiện. Ngoài ra, chúng ta cũng có thể biểu thị nghĩa kém nhất.
+Dạng so sánh nhất của tính từ mang nghĩa tốt nhất, vượt trội nhất ở khía cạnh mà tính từ thể hiện. Ngoài ra, chúng ta cũng có thể biểu thị nghĩa kém nhất.
 
 
 
@@ -45,7 +45,7 @@ Dạng so sánh nhất của tính từ biểu diễn nghĩa tốt nhất, vư�
 - happy → happiest <silent>_(hạnh phúc nhất)_</silent>
 - narrow → narrowest <silent>_(hẹp nhất)_</silent>
 
-Đối với *tính từ dài*, ta thêm *most* vào phía trước tính từ. Ví dụ:
+Đối với *tính từ dài*, ta thêm trạng từ so sánh *most* vào phía trước tính từ. Ví dụ:
 
 - beautiful → most beautiful
 - expensive → most expensive
@@ -62,7 +62,7 @@ Các tính ngoại lệ từ có dạng đặc biệt khi so sánh nhất bao g�
 
 <br>
 
-Khi muốn diễn đạt ý nghĩa kém nhất, ta thêm _least_ trước tính từ (trong trường hợp này tính từ ngắn không thêm đuôi _-est_.
+Khi muốn diễn đạt ý nghĩa kém nhất, ta thêm trạng từ so sánh _least_ trước tính từ (trong trường hợp này tính từ ngắn không thêm đuôi _-est_).
 
 - beautiful → least beautiful
 - difficult → least difficult
@@ -74,7 +74,7 @@ Khi muốn diễn đạt ý nghĩa kém nhất, ta thêm _least_ trước tính 
 
 Tính từ so sánh nhất về bản chất vẫn là tính từ. Vì vậy, tính từ so sánh nhất có thể được dùng để bổ nghĩa cho chủ ngữ hoặc cho danh từ. Lưu ý, ta luôn cần mạo từ _the_ đứng trước tính từ so sánh nhất vì đối tượng được so sánh luôn xác định, bất kể có danh từ phía sau hay không.
 
-**"the" + Adj (dạng so sánh nhất) + N**
+**_the_ + Adj (dạng so sánh nhất) + N**
 
 **S + be (chia theo thì) + "the" + Adj (dạng so sánh nhất) + (N)**
 

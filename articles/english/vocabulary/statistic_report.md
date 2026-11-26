@@ -112,6 +112,9 @@ __stay constant__
 
 __remain (steady)__
 
+__level off__
+- Unemployment rose to ten percent and then levelled off.
+
 
 ### Fluctuate trend
 
