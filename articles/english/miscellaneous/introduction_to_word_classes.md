@@ -3,7 +3,7 @@ title: "Giới thiệu về từ loại"
 description: "(Bài viết đang được hoàn thiện)"
 authors: "Gia Bao"
 upload-date: "24/10/2026"
-update-date: "14/11/2026"
+update-date: "27/11/2026"
 thumbnail: "./images/grammar_thumbnail.png"
 ---
 
@@ -31,6 +31,9 @@ Các nhóm từ loại bao gồm:
 
 - **Định từ (determiner):** xác định và làm rõ số lượng, vị trí, sự sở hữu của danh từ
 
+
+<!-- close and open word classes -->
+
 # II. CHI TIẾT VỀ TỪ LOẠI
 
 ## 1. Danh từ
@@ -41,7 +44,7 @@ Các danh từ có thể thuộc về một hoặc nhiều nhóm ở dưới đ�
 
 ### 1.1. Danh từ đếm được và không đếm được
 
-#### Danh từ đếm được (countable nouns)
+#### Danh từ đếm được (countable noun)
 
 _Danh từ đếm được_ là những danh từ có thể được đếm bằng số. Ở dạng số ít (chỉ có một), danh từ được viết như thường. Ở dạng số nhiều (số lượng khác một, bao gồm cả số không, số thập phân, và số âm), danh từ được thêm đuôi _-s_ hoặc _-es_.
 
@@ -206,17 +209,15 @@ Khác với _liên từ_, _trạng từ liên kết_ không thể kết nối ha
 
 _Đại từ_ là từ được dùng để thay thế cho một danh từ để tránh trùng lặp.
 
-### 5.1. Đại từ làm chủ ngữ 
+### 5.1. Đại từ nhân xưng (personal pronoun)
 
 I, you, he, she, it, we, they
 
-### 5.2. Đại từ làm tân ngữ 
+### 5.2. Đại từ làm tân ngữ (
 
 me, you, us, them, him, her, it
 
-### 5.3. Đại từ bất định
-
-### 5.4. Đại từ sở hữu
+### 5.3. Đại từ sở hữu (possessive pronoun)
 
 - mine 
 - yours
@@ -225,6 +226,40 @@ me, you, us, them, him, her, it
 - his
 - hers
 - its (ít thông dụng)
+
+### 5.4. Đại từ phản thân (reflexive pronoun)
+
+myself, yourself, himself, herself itself, ourselves, themselves 
+
+### 5.. Đại từ bất định (indefinite pronoun)
+
+
+
+### 5.. Đại từ chỉ định (demonstrative pronoun)
+
+_Đại từ chỉ định_ được dùng để chỉ một danh từ đã được đề cập hoặc ngầm hiểu dựa trên quan hệ về khoảng cách, thời gian, hoặc ngữ cảnh.
+
+Các _đại từ chỉ định_:
+
+- __this:__ chỉ một danh từ số ít hoặc không đếm được ở gần
+- __that:__ chỉ một danh từ số ít hoặc không đếm được ở xa
+- __these:__ chỉ một danh từ số nhiều ở gần
+- __those:__ chỉ một danh từ số nhiều ở xa
+
+<!--
+
+Positions of demonstrative pronouns and the need to make their meanings clear.
+
+ -->
+
+
+### 5.. Đại từ nghi vấn (interrogative pronoun)
+
+
+
+### 5.. Đại từ quan hệ (relative pronoun)
+
+
 
 ## 6. Giới từ (preposition)
 
@@ -240,7 +275,7 @@ Giới từ được chia thành hai loại bao gồm:
 
 ## 7. Liên từ (conjunction)
 
-_Liên từ_ là từ dùng để nối các từ, cụm từ, hoặc mệnh đề.
+_Liên từ (từ liên kết)_ là từ dùng để nối các từ, cụm từ, hoặc mệnh đề.
 
 ### 7.1. Liên từ nối (coordinating conjunction)
 
@@ -251,9 +286,9 @@ _Liên từ_ là từ dùng để nối các từ, cụm từ, hoặc mệnh đ�
 - Or
 - Yet
 
-## 7.2. Liên từ phụ thuộc (subordinating conjunction)
+### 7.2. Liên từ phụ thuộc (subordinating conjunction)
 
-## 7.3. Liên từ tương quan (correlative conjunction)
+### 7.3. Liên từ tương quan (correlative conjunction)
 
 - either ... or ...
 - neither ... nor ...
@@ -270,7 +305,7 @@ VD: wow, oh, ouch, oops, .v.v.
 
 ## 9. Định từ (determiner)
 
-_Định từ_ là từ đứng trước danh từ để cung cấp thông tin về danh tính, số lượng, sự sở hữu, hoặc phạm vi của danh từ đó.
+_Định từ (từ xác định)_ là từ đứng trước danh từ để cung cấp thông tin xác định danh tính, số lượng, sự sở hữu, hoặc phạm vi của danh từ đó.
 
 Trong nhiều chương trình, định từ được xếp chung với _tính từ_ vì đặc tính bổ nghĩa cho danh từ của nó. Tuy nhiên, trong chương tình này, định từ được xếp thành một từ loại riêng.
 

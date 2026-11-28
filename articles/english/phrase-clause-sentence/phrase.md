@@ -170,7 +170,7 @@ Cụm giới từ là một cụm từ có giới từ làm trung tâm, thườn
 
 
 
-## Bổ ngữ
+### Bổ ngữ
 
 Bổ ngữ trong cụm giới từ là một trong cách thành phần sau:
 
